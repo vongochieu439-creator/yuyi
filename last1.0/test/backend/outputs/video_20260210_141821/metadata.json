@@ -1,0 +1,216 @@
+{
+  "title": "玻尿酸洗面奶 - 创意款",
+  "topic": "玻尿酸洗面奶",
+  "target_duration": 30,
+  "total_duration": 30.0,
+  "shot_count": 11,
+  "viral_score": 0.0,
+  "generation_stage": "script",
+  "style": "marketing",
+  "selling_points": null,
+  "shots": [
+    {
+      "id": 1,
+      "shot_type": "talking_head",
+      "act_type": "act1",
+      "visual_description": "A sophisticated female presenter, dressed in modern attire with subtle Guofeng elements, looks directly into the camera with a thoughtful expression. Soft, warm studio lighting highlights her flawless skin, set against a minimalist backdrop that hints at classical Chinese aesthetics. Medium close-up shot.",
+      "narration": "我们曾一度‘怀疑’，一支洗面奶，真的能同时做到深层清洁，又让肌肤如玉般水润吗？是的，我们曾为此困惑不已。",
+      "duration": 2.0,
+      "emotion_score": 0.3,
+      "use_product_image": false
+    },
+    {
+      "id": 2,
+      "shot_type": "scene",
+      "act_type": "act1",
+      "visual_description": "Close-up shot of delicate, gloved hands meticulously restoring an ancient Chinese painting on a silk scroll. A soft brush gently removes dust, revealing vibrant colors beneath. The scene is bathed in a warm, diffused light, emphasizing precision and reverence for art.",
+      "narration": "就像古画修复师，先拂去千年尘埃，让画卷净彻无瑕，才能进行下一步的润泽养护。",
+      "duration": 4.0,
+      "emotion_score": 0.5,
+      "use_product_image": false
+    },
+    {
+      "id": 3,
+      "shot_type": "transition",
+      "act_type": "act1",
+      "visual_description": "A seamless visual transition: The ancient painting surface gently ripples and transforms into a serene, clear pool of water, reflecting soft, ethereal light. The transition is fluid and elegant, symbolizing a shift from art to purity and skin care.",
+      "narration": "而肌肤，也需要这样的智慧，先洁净，再滋养。",
+      "duration": 1.0,
+      "emotion_score": 0.7,
+      "use_product_image": false
+    },
+    {
+      "id": 4,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "The玻尿酸洗面奶 bottle is showcased in a hero shot, slowly rotating on a pedestal. Its elegant design features subtle Guofeng motifs like ink wash or jade patterns. Soft, luminous lighting emphasizes the product's premium feel and highlights the 'Triple Hyaluronic Acid' text on the label.",
+      "narration": "我们汲取国风智慧，融合现代科技，打造了这款蕴含三重玻尿酸配方的洗面奶。",
+      "duration": 5,
+      "emotion_score": 0.7,
+      "use_product_image": true
+    },
+    {
+      "id": 5,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "Elegant hands dispense a pearl-sized amount of the cleanser onto a palm, then gently lather it with water to create a rich, delicate foam. Macro shot focuses on the luxurious texture of the foam, glistening under soft, diffused light, appearing smooth and dense.",
+      "narration": "它质地轻盈，遇水即化为绵密泡沫，温柔包裹每一寸肌肤，深层净澈毛孔。",
+      "duration": 3.3000000000000003,
+      "emotion_score": 0.7750000000000001,
+      "use_product_image": true
+    },
+    {
+      "id": 6,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "A macro shot of skin being rinsed with clear water. Dirt particles are visibly lifted away, leaving the skin looking refreshed and clean. The water droplets glisten, and the pores appear refined and clear, but not stripped. Soft, natural light.",
+      "narration": "在去除污垢的同时，却不带走一丝水润，让肌肤感受前所未有的洁净与舒适。",
+      "duration": 2.9,
+      "emotion_score": 0.8500000000000001,
+      "use_product_image": false
+    },
+    {
+      "id": 7,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "The product bottle is displayed again, this time with a subtle, shimmering aura, placed beside a delicate, dewy jade ornament. The scene evokes a sense of preciousness and natural hydration, reinforcing the Guofeng aesthetic and product benefits.",
+      "narration": "三重玻尿酸深入肌底，如同为肌肤注入源源不断的活水，洗后肌肤如玉般盈润饱满。",
+      "duration": 2.9,
+      "emotion_score": 0.8875000000000001,
+      "use_product_image": true
+    },
+    {
+      "id": 8,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "A close-up of a model's hand gently touching her freshly cleansed face. Her skin appears soft, smooth, and supple, reflecting a healthy glow. The shot emphasizes the tactile sensation of hydrated skin.",
+      "narration": "触感细腻，仿佛新生。",
+      "duration": 0.8999999999999999,
+      "emotion_score": 0.85,
+      "use_product_image": true
+    },
+    {
+      "id": 9,
+      "shot_type": "talking_head",
+      "act_type": "act3",
+      "visual_description": "The presenter from Shot 1 reappears, now with a look of genuine delight and surprise, gently touching her own cheek. Her eyes sparkle, conveying a sense of genuine satisfaction and discovery. Soft, flattering lighting.",
+      "narration": "从前那种洗完脸紧绷涩感，此刻只剩下水润光泽，毛孔也仿佛被温柔抚平。",
+      "duration": 2.244444444444445,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 10,
+      "shot_type": "effect",
+      "act_type": "act3",
+      "visual_description": "A close-up shot of a model's face, showcasing radiant, dewy skin post-cleansing. Her pores are visibly minimized, and the complexion is even and luminous. Subtle, ethereal lighting enhances the skin's natural glow, emphasizing hydration and smoothness.",
+      "narration": "肌肤盈润饱满，毛孔细腻得几乎隐形，由内而外散发着健康光泽。",
+      "duration": 4.2444444444444445,
+      "emotion_score": 0.95,
+      "use_product_image": false
+    },
+    {
+      "id": 11,
+      "shot_type": "transition",
+      "act_type": "act3",
+      "visual_description": "The product bottle stands centered, surrounded by elegantly animated Guofeng elements – subtle ink wash strokes, floating jade fragments, and flowing silk. The brand logo appears gracefully at the bottom, signifying a fusion of tradition and innovation. A gentle, empowering light emanates from the product.",
+      "narration": "这不仅是一支洗面奶，更是国风智慧与现代科技的精妙融合，邀您体验颠覆性的护肤美学。",
+      "duration": 1.5111111111111115,
+      "emotion_score": 1.0,
+      "use_product_image": false
+    }
+  ],
+  "product_images": [],
+  "keyframes": [],
+  "smart_create": {
+    "session_id": "f7a0aba8",
+    "direction": {
+      "direction_id": 3,
+      "name": "创意款",
+      "risk_level": "creative",
+      "description": "颠覆传统宣传模式，通过‘自嘲示弱’引发共鸣，再以‘跨界类比’将产品功效具象化、艺术化，打造独特且记忆深刻的国风美妆短视频。",
+      "hook": "我们曾一度‘怀疑’，一支洗面奶，真的能同时做到深层清洁，又让肌肤如玉般水润吗？",
+      "structure_preview": [
+        "开场: 创意自嘲，提出行业“难题”（洗面奶清洁与保湿的平衡），引发观众好奇。",
+        "跨界类比: 将产品功效类比国风艺术（如：古画修复，先去尘污，再润色养护），展现“净”与“润”的和谐。",
+        "产品特写与创新: 聚焦三重玻尿酸配方，结合国风元素，展示产品质地与科技感。",
+        "用户体验反转: 模特使用后，肌肤状态的惊喜转变（从“干涩”到“光泽水润”），强调毛孔细腻。",
+        "结尾: 升华产品理念，强调“国风智慧与现代科技的融合”，引导用户体验“颠覆性”护肤。"
+      ],
+      "creative_techniques": [
+        "自嘲示弱",
+        "跨界类比"
+      ]
+    },
+    "competitor_summary": {
+      "top_videos": [],
+      "winning_patterns": [
+        "产品特写展示",
+        "用户痛点引入",
+        "效果对比"
+      ],
+      "hook_strategies": [
+        "直击痛点提问",
+        "惊人数据开场",
+        "用户故事引入"
+      ],
+      "content_structures": [
+        "痛点-解决方案-效果",
+        "故事-产品-号召行动"
+      ]
+    },
+    "market_summary": {
+      "summary": "玻尿酸洗面奶主要卖点是深层清洁和高效保湿，能缩小毛孔，保持皮肤水润。其三重玻尿酸配方深入肌底，提供持久保湿效果。高性价比和大容量装适合多种肌肤类型。 玻尿酸洗面奶受用户好评，多功能保湿和清洁，不干燥，适合各性别使用。用户称其为护肤神器，推荐频繁。 Hyaluronic acid cleansers compete on price, effectiveness, and brand reputation; key players include Estée Lauder and SK-II; market trends favor high-quality, multi-functional products.",
+      "key_findings": [
+        "✨核心成分：三重玻尿酸（大分子锁水膜+中分子渗透补水+纳米级深入肌底）+积雪草提取物+氨基酸表活 使用感：泡沫绵密像云朵☁️，洗完不紧绷不假滑，皮肤摸起来软软",
+        "谁说学生就不能讲究洗脸？本敏感肌+油痘肌少女亲测 这款玻尿酸洗面奶居然能同时做到温和清洁+控油祛痘+高保湿！重点是性价比超高，大容量装够用一整个",
+        "这款港版进口的深层净化保湿洗面乳真的让我疯狂心动！玻尿酸+双重锁水科技，不仅能清洁毛孔还能补水，懒人必备！ 谁说洁面只能“干巴巴”？ 姐妹们！",
+        "100000人好评. 用了几天感觉非常好，泡沫丰富，清洁效果也好，用后面部不紧绷，不干燥，推荐 · 欧莱雅洗面奶女士复颜氨基酸洁面乳葡萄籽深层清洁补水洁面膏花蜜玻尿酸葡萄籽",
+        "夏天用它清爽，冬天用它保湿，换季的时候用它稳定肌肤状态，简直就是一瓶“多功能护肤神器”！不管是男生还是女生，都可以放心使用。我男朋友用了一次之后直接问",
+        "一、玻尿酸也能洗脸？成分党狂喜的氨基酸洁面黑科技！ · ‍♀️二、洗卸二合一真的靠谱吗？实测防晒/淡妆都能卸！ · ✨三、干敏皮狂喜！洗完脸居然不拔干的洗面奶？",
+        "竞品对比：为什么这款比同类更值得买？ 市面同价位洁面乳很多，但能像它这样兼顾清洁与保湿的不多。很多便宜产品要么清洁力不足，要么过度清洁导致",
+        "# 2023美妆品牌增长力系列报告—靠重组胶原蛋白打出一片天， 可复美是怎么做到的？. ### 可复美增长力APR模型解读. #### 增长力总分与市场力评估. #### 营销力. * **营销力热力总值中等**：通过与头部KOL如李佳琦的合作，可复美有效提升了品牌认知度，尤其是在小红书上的转化率高。为了进一步提升市场渗透率，建议强化情感营销策略，建立与消费者之间的情感连接，并探索多元化营销渠道，",
+        "... 竞品！ 这款产品超级重磅，上市三年就占据爱美客近半 ... 比较成熟小众的市场 ... 2018年，次抛原液大显神威，当年营收1.8亿，带动整个护肤品业务斩获2.9亿营收。"
+      ],
+      "sources": [
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/a03ac5c01c46e17ce43d065886c4bab1.html",
+          "title": "玻尿酸洗面奶居然能养肤？本十年烂脸星人亲测：毛孔真的会缩小！"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/9f7689c09073938e81eedad944b3d7f3.html",
+          "title": "学生党闭眼入！玻尿酸洗面奶测评大公开  控油祛痘还能当高保湿洁面 ..."
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/3957ab7113bb59070c2e5ab95a139bf6",
+          "title": "啊啊啊！这个玻尿酸洗面乳也太神仙了吧！_洁面 - 淘宝美妆网"
+        },
+        {
+          "url": "https://www.jd.com/phb/1316d17b59f67bde7f3d.html",
+          "title": "玻尿酸洗面奶品牌排行榜 - JD.com"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/3957ab7113bb59070c2e5ab95a139bf6",
+          "title": "啊啊啊！这个玻尿酸洗面乳也太神仙了吧！_洁面 - 美妆- Taobao"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/a7141f67d5860958599afce426a078a5.html",
+          "title": "爆火洗面奶测评  女人宣言小分子玻尿酸洗面奶真的值得冲吗？ - 美妆"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/mianbuhulitaozhuang_21/5eb6537da0885cb2b85d18d2cc53f0b2.html",
+          "title": "干皮油皮都爱的洁面黑马！形象美玻尿酸净嫩洁面乳实测红黑榜"
+        },
+        {
+          "url": "https://www.fxbaogao.com/detail/4386714",
+          "title": "[Flywheel]：2023美妆品牌增长力系列报告—靠重组胶原蛋白打出一片 ..."
+        },
+        {
+          "url": "https://caifuhao.eastmoney.com/news/20201119155133302023480",
+          "title": "医美4剑客大PK：哪支玻尿酸能打出茅台的气质？_财富号_东方财富网"
+        }
+      ]
+    }
+  },
+  "created_at": "2026-02-10T14:18:21.242984"
+}

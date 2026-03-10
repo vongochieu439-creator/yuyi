@@ -1,0 +1,150 @@
+{
+  "title": "创意款 · 成分科普",
+  "topic": "美白面霜",
+  "product_name": "美白面霜",
+  "product_detail": "美白面霜",
+  "industry": "美妆护肤",
+  "target_duration": 60,
+  "total_duration": 60.0,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "act_type": "hook",
+      "visual_description": "Macro close-up of skin, then animated graphic of 'melanin' particles appearing and dissolving with a 'zap' sound effect. Dramatic, high-tech lighting.",
+      "narration": "你知道吗？皮肤暗沉，其实是黑色素在作祟！但别怕，我们有秘密武器！",
+      "duration": 7.0,
+      "camera_movement": "push_in",
+      "text_overlay": "黑色素，肌肤暗沉元凶？",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "transition",
+      "act_type": "main",
+      "visual_description": "Animated graphic transition from skin texture to a stylized molecular structure (e.g., Niacinamide or Vitamin C derivative), with scientific labels. Clean, laboratory-style lighting.",
+      "narration": "今天，就带你揭秘这款美白面霜的核心成分，它能精准狙击黑色素！",
+      "duration": 8.0,
+      "camera_movement": "zoom_in",
+      "text_overlay": "核心美白成分大揭秘",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "product",
+      "act_type": "main",
+      "visual_description": "Product hero shot, with animated lines pointing from the product to various key ingredients listed on screen. Soft, glowing light highlighting product and ingredients.",
+      "narration": "这款美白面霜，凝聚尖端科技，将有效成分完美融合，层层焕亮肌肤。",
+      "duration": 9.0,
+      "camera_movement": "dolly_out",
+      "text_overlay": "高科技美白配方",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "hands_on",
+      "act_type": "main",
+      "visual_description": "Close-up of the cream's luxurious, pearl-like texture being spread smoothly on the back of a hand, showing its quick absorption and non-greasy finish. Bright, clean lighting.",
+      "narration": "轻盈不粘腻，深入肌底，从源头抑制黑色素生成，让肌肤透出健康白皙。",
+      "duration": 9.0,
+      "camera_movement": "static",
+      "text_overlay": "质地清爽，深层焕白",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "A split-screen showing a 'microscopic' view: left side shows dense, dark melanin clusters, right side shows them visibly reduced and scattered after 'applying' the cream. Scientific, blue-toned lighting.",
+      "narration": "看！黑色素被有效抑制，肌肤屏障也得到修护，美白更温和持久！",
+      "duration": 8.0,
+      "camera_movement": "pan_left",
+      "text_overlay": "科学验证，美白更温和",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "result",
+      "act_type": "main",
+      "visual_description": "Model looking confident and radiant, her skin glowing with an even, bright complexion. A subtle 'before/after' overlay showing a gradual brightening effect over time. Bright, aspirational lighting.",
+      "narration": "不止表面白，更是由内而外的通透亮白，让你自信迎接每一天！",
+      "duration": 10.0,
+      "camera_movement": "dolly_in",
+      "text_overlay": "科学美白，透亮肌肤",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "cta",
+      "act_type": "cta",
+      "visual_description": "Product array with the face cream as the centerpiece, surrounded by glowing light. Text overlay: '成分党挚爱，立即体验！' with a QR code or 'Shop Now' button. Futuristic, clean lighting.",
+      "narration": "成分党们，这款美白面霜绝对不会让你失望！点击下方，立即拥有它！",
+      "duration": 9.0,
+      "camera_movement": "static",
+      "text_overlay": "成分党首选！点击立即购买！",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    }
+  ],
+  "selling_points": [
+    "核心美白成分，科学配方",
+    "精准抑制黑色素，改善肤色不均",
+    "温和不刺激，适合多种肤质"
+  ],
+  "quality_report": {},
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "131a8eef",
+    "script_id": 2,
+    "script_name": "创意款 · 成分科普",
+    "risk_level": "creative",
+    "competitor_summary": {
+      "winning_patterns": [
+        "实验对比: 左右脸对比/素颜vs上妆，视觉冲击力强",
+        "成分党: 用显微镜/实验室画面展示核心成分",
+        "痛点切入→产品亮相→上脸实测→效果对比→限时优惠"
+      ],
+      "hook_strategies": [
+        "实验对比: 左右脸对比/素颜vs上妆",
+        "成分党: 用显微镜/实验室画面展示核心成分",
+        "反常识: '千万别这样涂面霜' 引发好奇"
+      ],
+      "content_structures": [
+        "痛点切入→产品亮相→上脸实测→效果对比→限时优惠",
+        "反常识开场→真相揭秘→产品介绍→使用教程→before/after"
+      ],
+      "emotional_triggers": [
+        "焦虑感(皮肤问题)",
+        "期待感(变美)",
+        "信任感(成分/实验)",
+        "紧迫感(限时)"
+      ]
+    },
+    "market_summary": {
+      "summary": "消费者对美白产品需求旺盛，尤其关注肤色不均、暗沉和斑点问题，渴望温和高效且成分透明的美白方案。",
+      "key_findings": [
+        "消费者追求快速且温和的美白效果",
+        "对成分透明度和安全性高度关注",
+        "渴望解决肤色不均和暗沉问题"
+      ]
+    }
+  },
+  "created_at": "2026-03-07T11:14:51.581831",
+  "updated_at": "2026-03-07T11:14:56.475241",
+  "script_locked": true
+}

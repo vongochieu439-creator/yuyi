@@ -1,0 +1,127 @@
+{
+  "title": "优化款",
+  "topic": "玻尿酸洗面奶",
+  "product_name": "玻尿酸洗面奶",
+  "product_detail": "",
+  "industry": "美妆护肤",
+  "target_duration": 60,
+  "total_duration": 16,
+  "shot_count": 4,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "A close-up shot of a young Asian woman (20-30s) gently touching her cheek after washing her face. Her brow is slightly furrowed, conveying a subtle feeling of discomfort and tightness. Her skin appears slightly dry. Soft, diffused natural light from a bathroom window. Static camera, shallow depth of field focusing on her face. Lifestyle, commercial quality, 4K.",
+      "narration": "洗完脸，脸就绷紧、干涩？",
+      "duration": 3,
+      "camera_movement": "static",
+      "lighting": "natural_warm",
+      "mood": "warm",
+      "text_overlay": null,
+      "use_product_image": false
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "A medium shot of the same young Asian woman looking into a bathroom mirror, her expression still slightly troubled. She gently rubs her cheeks, perhaps noticing a subtle redness or flakiness. The bathroom is clean and modern, lit with soft, warm studio lighting. Static camera, eye-level. Lifestyle, commercial quality, 4K.",
+      "narration": "清洁完皮肤就喊渴，甚至泛红？",
+      "duration": 4,
+      "camera_movement": "static",
+      "lighting": "studio_soft",
+      "mood": "warm",
+      "text_overlay": "洗后紧绷/泛红/干燥",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "split_screen",
+      "act_type": "main",
+      "visual_description": "A dynamic split-screen showing two contrasting scenes. Left side: A stylized animation of water droplets quickly evaporating from taut skin, representing dryness after strong cleansing, rendered in cool tones. Right side: A gentle, foamy cleanse with minimal visual effect, appearing ineffective, rendered in soft, muted tones. A large, animated glowing question mark bursts onto the screen in the center, challenging the visuals. Bright, energetic studio lighting. Static camera. Dynamic, infographic style, 4K.",
+      "narration": "清洁力强就干燥？温和就洗不净？",
+      "duration": 5,
+      "camera_movement": "static",
+      "lighting": "high_key",
+      "mood": "curious",
+      "text_overlay": "清洁 ≠ 干燥？",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "product_showcase",
+      "act_type": "main",
+      "visual_description": "An elegant product showcase shot of the 'Hyaluronic Acid Cleanser' bottle, matching the product_reference description. The sleek, modern bottle stands upright on a minimalist, pristine white surface with subtle ripples of water reflecting its hydrating properties. Gentle water droplets bead on the bottle's surface. Soft, high-key studio lighting with a subtle glow. The camera slowly zooms in on the product, highlighting the 'Hyaluronic Acid' label and its premium texture. Commercial quality, 4K.",
+      "narration": "答案揭晓！玻尿酸洗面奶，水润净肤新体验！",
+      "duration": 4,
+      "camera_movement": "zoom_in",
+      "lighting": "studio_soft",
+      "mood": "excited",
+      "text_overlay": "玻尿酸洗面奶",
+      "use_product_image": true
+    }
+  ],
+  "selling_points": [
+    "洁面后水润不紧绷：告别传统洁面后的干燥紧绷感，真实用户对比验证洗后肌肤水润舒适",
+    "玻尿酸专业认证：皮肤科医生与美妆博主科普成分功效，趣味小实验验证温和与高保湿力",
+    "清洁温和一步到位：满足消费者对清洁力与温和保湿的双重需求，日常洁面带来舒适体验"
+  ],
+  "quality_report": {
+    "hook_score": 9,
+    "info_density_score": 8,
+    "selling_point_coverage": [
+      "痛点共鸣（洗后紧绷）已覆盖",
+      "质疑传统观念（清洁≠干燥）已覆盖",
+      "引入解决方案（玻尿酸洗面奶）已覆盖"
+    ],
+    "fixes_applied": [
+      "修正了第1帧口播字数，使其更精炼，符合时长。",
+      "修正了第2帧口播字数，使其更精炼，符合时长。",
+      "修正了第3帧口播字数，使其更精炼，符合时长，并增强冲击力。",
+      "修正了第4帧口播字数，使其更精炼，符合时长。",
+      "添加了产品和人物参考描述，并标记了对应帧。"
+    ]
+  },
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "999d6ada",
+    "script_id": 2,
+    "script_name": "优化款",
+    "risk_level": "moderate",
+    "competitor_summary": {
+      "winning_patterns": [
+        "真实用户使用前后对比（尤其强调洁面后肌肤水润不紧绷）",
+        "专业人士（如皮肤科医生、美妆博主）科普玻尿酸成分及产品功效",
+        "日常生活场景融入，展示洁面步骤及产品带来的舒适体验",
+        "趣味小实验（如PH值测试、水分测试）证明产品温和与保湿力"
+      ],
+      "hook_strategies": [
+        "直接提问用户痛点（如“你还在忍受洗完脸的紧绷感吗？”）",
+        "揭露行业“秘密”或误区（如“洗面奶不仅仅是清洁！”）",
+        "制造悬念，通过特写产品或局部肌肤状态吸引注意",
+        "展示惊人效果（如瞬间水润光泽的脸部特写）"
+      ],
+      "content_structures": [
+        "问题提出-产品介绍-功效演示-用户反馈-行动号召",
+        "成分科普-使用教学-场景应用-情感共鸣-限时优惠"
+      ],
+      "emotional_triggers": [
+        "对干燥、紧绷、刺激等肌肤问题的恐惧",
+        "对水润、光滑、健康肌肤的渴望和自信",
+        "追求温和、安心、高效护肤的心理需求"
+      ]
+    },
+    "market_summary": {
+      "summary": "消费者普遍追求清洁力与温和保湿兼具的洁面产品。市面上洗面奶同质化严重，用户痛点在于清洁后肌肤干燥紧绷，以及对产品成分安全性和功效的质疑。",
+      "key_findings": [
+        "用户对洗面奶的“洗净力”和“洗后不紧绷”有双重高要求。",
+        "玻尿酸作为明星保湿成分，能有效提升产品在消费者心中的“保湿”认知。",
+        "敏感肌用户对洁面产品的温和性、无刺激性有强烈需求。",
+        "成分党崛起，消费者越来越关注产品成分列表和功效原理。"
+      ]
+    }
+  },
+  "created_at": "2026-03-05T11:56:37.354394",
+  "updated_at": "2026-03-05T11:56:37.354394"
+}

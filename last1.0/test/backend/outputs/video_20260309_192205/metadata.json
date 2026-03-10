@@ -1,0 +1,149 @@
+{
+  "title": "稳妥款 · 食欲诱惑",
+  "topic": "蛋白粉",
+  "product_name": "蛋白粉",
+  "product_detail": "蛋白粉",
+  "industry": "食品保健",
+  "target_duration": 30,
+  "total_duration": 30.0,
+  "shot_count": 6,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "act_type": "hook",
+      "visual_description": "Extreme close-up, slow-motion of a creamy protein shake being poured into a tall glass, with a single strawberry dropping in, steam gently rising, warm golden hour lighting, cinematic feel.",
+      "narration": "丝滑浓郁，入口即化！谁说补充蛋白就不能是极致享受？",
+      "duration": 5.0,
+      "camera_movement": "push_in",
+      "text_overlay": "蛋白粉也能这么美味？",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_192205/preview/frame_001.png"
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "product",
+      "act_type": "main",
+      "visual_description": "Medium shot of the protein powder packaging on a rustic wooden table, surrounded by fresh berries, nuts, and a scoop, soft natural light from a window, shallow depth of field.",
+      "narration": "精选优质乳清蛋白，不含多余添加，纯粹滋养，每一勺都是高品质承诺。",
+      "duration": 5.0,
+      "camera_movement": "pan_left",
+      "text_overlay": "优质乳清蛋白",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true,
+      "preview_image": "/videos/video_20260309_192205/preview/frame_002.png"
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "hands_on",
+      "act_type": "main",
+      "visual_description": "Close-up of hands easily scooping protein powder into a shaker bottle, then adding milk and shaking vigorously. Focus on the ease of mixing, bright, clean kitchen setting.",
+      "narration": "无论早餐、加餐还是运动后，一勺满足，轻轻一摇，瞬间即溶，告别结块烦恼。",
+      "duration": 5.0,
+      "camera_movement": "static",
+      "text_overlay": "一摇即溶，方便快捷",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true,
+      "preview_image": "/videos/video_20260309_192205/preview/frame_003.png"
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "demo",
+      "act_type": "main",
+      "visual_description": "Medium shot of a fit person (smiling genuinely) taking a sip of the protein shake, eyes closing slightly in enjoyment. Lifestyle setting like a bright cafe or sunny balcony, warm and inviting.",
+      "narration": "香醇浓郁，口感丝滑，每一口都是惊喜，让你爱上健康！",
+      "duration": 5.0,
+      "camera_movement": "zoom_out",
+      "text_overlay": "口感升级，享受健康",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_192205/preview/frame_004.png"
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "result",
+      "act_type": "main",
+      "visual_description": "Wide shot of an energetic person jogging in a vibrant park under clear blue skies, looking refreshed and strong. Dynamic camera following the runner, bright and saturated colors.",
+      "narration": "补充能量，加速恢复，让你精神饱满，轻松应对每一天挑战！活力充沛，自信满满！",
+      "duration": 5.0,
+      "camera_movement": "tracking_shot",
+      "text_overlay": "活力充沛，加速恢复",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_192205/preview/frame_005.png"
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "cta",
+      "act_type": "cta",
+      "visual_description": "Product packaging prominently displayed on a clean white background with a clear, animated '立即购买' button overlay. Soft, professional studio lighting, product rotating slowly.",
+      "narration": "现在就点击下方链接，把这份美味与健康带回家，开启你的活力之旅！",
+      "duration": 5.0,
+      "camera_movement": "static",
+      "text_overlay": "立即购买！",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_192205/preview/frame_006.png"
+    }
+  ],
+  "selling_points": [
+    "极致美味口感",
+    "高品质乳清蛋白",
+    "方便快捷易冲调",
+    "提供持久能量与恢复"
+  ],
+  "quality_report": {},
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "8cdfd20b",
+    "script_id": 0,
+    "script_name": "稳妥款 · 食欲诱惑",
+    "risk_level": "safe",
+    "competitor_summary": {
+      "winning_patterns": [
+        "展示蛋白粉制作的美味食谱，诱发食欲",
+        "通过数据或专家证言，强调蛋白粉的健康益处",
+        "结合运动、健身或忙碌生活场景，展现产品便利性",
+        "前后对比或用户证言，突出产品效果"
+      ],
+      "hook_strategies": [
+        "食欲画面: 慢动作浇汁/切开特写，触发食欲",
+        "健康焦虑: '你每天吃的XX可能在伤害你'",
+        "数据震撼: '含有XX倍维生素C'等数据冲击",
+        "生活痛点: '早晨匆忙没时间吃早餐？'"
+      ],
+      "content_structures": [
+        "食欲画面→成分亮点→食用场景→口感描述→下单引导",
+        "健康问题→解决方案→产品展示→食用方式→效果背书",
+        "痛点场景→产品植入→效果展现→情感共鸣→购买转化"
+      ],
+      "emotional_triggers": [
+        "食欲冲动",
+        "健康焦虑",
+        "便利感",
+        "性价比",
+        "自我提升/成就感"
+      ]
+    },
+    "market_summary": {
+      "summary": "蛋白粉市场持续增长，消费者对健康和健身的关注度提高。用户痛点在于如何选择高效、美味且方便的蛋白补充剂，以满足日常营养需求、运动恢复或体重管理目标。市场竞争激烈，需要通过差异化卖点和场景化营销吸引用户。",
+      "key_findings": [
+        "消费者追求高品质、纯净的蛋白来源",
+        "对口味和溶解度有较高要求",
+        "偏好能融入日常生活的便捷产品",
+        "对运动恢复和增肌效果有明确期待"
+      ]
+    }
+  },
+  "created_at": "2026-03-09T19:22:05.072823",
+  "updated_at": "2026-03-09T19:26:37.123098",
+  "script_locked": true
+}

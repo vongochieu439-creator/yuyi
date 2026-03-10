@@ -1,0 +1,149 @@
+{
+  "title": "稳妥款 · 实验对比",
+  "topic": "美白面霜",
+  "product_name": "美白面霜",
+  "product_detail": "美白面霜",
+  "industry": "美妆护肤",
+  "target_duration": 30,
+  "total_duration": 28.299999999999997,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "act_type": "hook",
+      "visual_description": "Close-up of skin texture/problem area, dramatic lighting, macro lens",
+      "narration": "用了美白面霜之后，我再也不想换回去了",
+      "duration": 3.4,
+      "camera_movement": "push_in",
+      "lighting": "dramatic",
+      "mood": "intriguing",
+      "text_overlay": "",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_195711/preview/frame_001.png"
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "Product hero shot with soft glow, rotating on marble surface",
+      "narration": "这款美白面霜真的让我眼前一亮",
+      "duration": 4.3,
+      "camera_movement": "static",
+      "lighting": "natural",
+      "mood": "positive",
+      "text_overlay": "",
+      "use_product_image": true,
+      "preview_image": "/videos/video_20260309_195711/preview/frame_002.png"
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Hands applying product on face, natural light, close-up of texture",
+      "narration": "最让我惊喜的是它的核心功能",
+      "duration": 4.3,
+      "camera_movement": "slow_pan",
+      "lighting": "natural",
+      "mood": "curious",
+      "text_overlay": "",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_195711/preview/frame_003.png"
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "Person using 美白面霜 in daily life, natural setting",
+      "narration": "日常使用起来真的很方便",
+      "duration": 4.3,
+      "camera_movement": "follow",
+      "lighting": "natural",
+      "mood": "satisfied",
+      "text_overlay": "",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_195711/preview/frame_004.png"
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "wide",
+      "act_type": "main",
+      "visual_description": "Lifestyle shot showing 美白面霜 in context",
+      "narration": "用了一段时间，效果真的很明显",
+      "duration": 4.3,
+      "camera_movement": "static",
+      "lighting": "warm",
+      "mood": "confident",
+      "text_overlay": "",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_195711/preview/frame_005.png"
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Split-screen before/after, bright even lighting, genuine expression",
+      "narration": "对比一下使用前后的差别",
+      "duration": 4.3,
+      "camera_movement": "static",
+      "lighting": "bright",
+      "mood": "amazed",
+      "text_overlay": "",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_195711/preview/frame_006.png"
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "medium",
+      "act_type": "cta",
+      "visual_description": "Product array with price tag overlay, warm inviting lighting",
+      "narration": "感兴趣的朋友赶紧去试试吧",
+      "duration": 3.4,
+      "camera_movement": "zoom_out",
+      "lighting": "warm",
+      "mood": "encouraging",
+      "text_overlay": "点击链接",
+      "use_product_image": true,
+      "preview_image": "/videos/video_20260309_195711/preview/frame_007.png"
+    }
+  ],
+  "selling_points": [
+    "核心功能",
+    "使用便捷",
+    "效果显著"
+  ],
+  "quality_report": {},
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "52f459c7",
+    "script_id": 0,
+    "script_name": "稳妥款 · 实验对比",
+    "risk_level": "safe",
+    "competitor_summary": {
+      "winning_patterns": [
+        "产品场景化展示",
+        "用户痛点引入",
+        "效果对比"
+      ],
+      "hook_strategies": [
+        "直击痛点提问",
+        "反常识开场"
+      ],
+      "content_structures": [
+        "痛点-解决方案-效果"
+      ],
+      "emotional_triggers": [
+        "好奇心",
+        "共鸣感"
+      ]
+    },
+    "market_summary": {
+      "summary": "美白面霜市场竞争激烈，差异化是关键",
+      "key_findings": []
+    }
+  },
+  "created_at": "2026-03-09T19:57:11.899141",
+  "updated_at": "2026-03-09T20:01:05.044900",
+  "script_locked": true
+}

@@ -1,0 +1,268 @@
+{
+  "title": "玻尿酸洗面奶 - 创意款",
+  "topic": "玻尿酸洗面奶",
+  "target_duration": 60,
+  "total_duration": 60.5,
+  "shot_count": 12,
+  "viral_score": 0.0,
+  "generation_stage": "script",
+  "style": "marketing",
+  "selling_points": [
+    "清洁补水，平衡兼顾",
+    "玻尿酸深层清洁，锁水保湿",
+    "专为油敏肌，温和不刺激"
+  ],
+  "shots": [
+    {
+      "id": 1,
+      "shot_type": "talking_head",
+      "act_type": "act1",
+      "visual_description": "A person skeptically looking at a 'dry skin after wash' meme, then confidently washing their face, revealing skin as smooth and glowing as a freshly peeled egg.",
+      "narration": "谁说清洁就得牺牲保湿？我用它洗出“水润剥了壳的鸡蛋”！",
+      "rationale": "[反常识型开场] 挑战传统认知，用夸张的比喻颠覆“洗脸会干”的观念，突出产品清洁补水兼顾的独特优势。",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.3,
+      "use_product_image": false
+    },
+    {
+      "id": 2,
+      "shot_type": "scene",
+      "act_type": "act1",
+      "visual_description": "A person with slightly oily, dull skin looking exasperated in front of a bathroom mirror, dramatically wiping their face with a towel. The lighting is harsh, emphasizing skin imperfections. Comical close-up on their face, showing frustration.",
+      "narration": "以前洗完脸，不是紧绷到裂开，就是油光满面。感觉皮肤要“散架”了。",
+      "rationale": "通过夸张的画面和自嘲式文案，展现传统清洁的痛点，引出产品“清洁补水，平衡兼顾”的必要性。",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.5,
+      "use_product_image": false
+    },
+    {
+      "id": 3,
+      "shot_type": "transition",
+      "act_type": "act1",
+      "visual_description": "A dynamic, energetic transition effect. A quick, smooth wipe or zoom across the screen, revealing a bright, clean, and refreshing aesthetic. A shimmering light effect accompanies the transition.",
+      "narration": "直到我遇到了它，简直是“洗脸界的救星”！",
+      "rationale": "作为承上启下的过渡，制造期待感，将观众的注意力从痛点引向即将出现的产品。",
+      "duration": 3.6666666666666665,
+      "emotion_score": 0.7,
+      "use_product_image": false
+    },
+    {
+      "id": 4,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "A close-up shot of the hyaluronic acid cleanser bottle, elegantly designed, glowing softly against a minimalist, bright bathroom background. Gentle light highlights the product's texture and branding. Focus on the 'Hyaluronic Acid' label.",
+      "narration": "就是这款玻尿酸洗面奶，看清楚了，是“玻尿酸”！",
+      "rationale": "特写展示产品，强调核心成分玻尿酸，为后续“玻尿酸深层清洁，锁水保湿”的卖点做铺垫。",
+      "duration": 5,
+      "emotion_score": 0.7,
+      "use_product_image": true
+    },
+    {
+      "id": 5,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "Close-up of hands gently squeezing the cleanser onto a palm, revealing a rich, pearlescent texture. The hands then lather it into a soft, luxurious foam, glistening under warm, inviting light. The foam appears dense and creamy.",
+      "narration": "挤出来是水润质地，轻轻一搓，泡泡绵密得像云朵。",
+      "rationale": "展示产品质地和起泡效果，通过“像云朵”的比喻，突出其“温和不刺激”的特点。",
+      "duration": 5,
+      "emotion_score": 0.76,
+      "use_product_image": true
+    },
+    {
+      "id": 6,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "An extreme close-up of a person's face after cleansing, with skin looking incredibly smooth, plump, and glowing, almost like a cartoonish 'peeled egg'. A humorous, exaggerated sparkle effect around the face. The person looks astonished and delighted.",
+      "narration": "洗完脸，真的像“剥了壳的鸡蛋”，水润到能反光！",
+      "rationale": "夸张地展现清洁后的水润效果，呼应开场Hook，强调“清洁补水，平衡兼顾”的卖点。",
+      "duration": 5,
+      "emotion_score": 0.8200000000000001,
+      "use_product_image": false
+    },
+    {
+      "id": 7,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "The cleanser bottle is positioned prominently, with subtle animated graphics of hyaluronic acid molecules gently penetrating a stylized skin layer around it. Soft, scientific-inspired lighting illuminates the scene, emphasizing the deep action.",
+      "narration": "玻尿酸深入毛孔，脏东西被带走，水分却牢牢锁住。",
+      "rationale": "再次特写产品，通过视觉元素和文案，解释“玻尿酸深层清洁，锁水保湿”的科学原理。",
+      "duration": 5.5,
+      "emotion_score": 0.88,
+      "use_product_image": true
+    },
+    {
+      "id": 8,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "A close-up of hands gently massaging the cleanser onto a face, focusing on the delicate touch, especially around sensitive areas. The skin looks calm and comfortable during the process, under soft, natural lighting. Emphasize the gentle lather.",
+      "narration": "我是油敏肌，用它完全不刺激，敏感肌也能安心用。",
+      "rationale": "展示实际使用感受，直接点出“专为油敏肌，温和不刺激”的核心卖点，增加信任感。",
+      "duration": 4.5,
+      "emotion_score": 0.8800000000000001,
+      "use_product_image": true
+    },
+    {
+      "id": 9,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "A confident person smiling brightly, showing off their radiant, balanced skin in a well-lit, fresh environment. Their skin appears perfectly clear, neither oily nor dry. A subtle, natural glow around their face, conveying health and happiness.",
+      "narration": "清洁力强，保湿力也在线，这才是洗面奶的“天花板”！",
+      "rationale": "总结性地展示最终效果，强化“清洁补水，平衡兼顾”的整体优势，提升产品吸引力。",
+      "duration": 5.5,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 10,
+      "shot_type": "talking_head",
+      "act_type": "act3",
+      "visual_description": "A confident creator, with visibly radiant and fresh skin, holds the玻尿酸洗面奶, looking directly at the camera with a triumphant smile. The background is bright and clean, emphasizing purity. Creator slightly gestures with the product, reinforcing its effectiveness and the claim made in the hook.",
+      "narration": "所以，谁说清洁就得牺牲保湿？看，我用事实告诉你，清洁和保湿，真的可以完美兼顾！",
+      "rationale": "直接回答了开场Hook的疑问句“谁说清洁就得牺牲保湿？”，通过创作者的亲身示范和产品，给出明确的否定答案和解决方案，形成有力的首尾呼应。",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 11,
+      "shot_type": "effect",
+      "act_type": "act3",
+      "visual_description": "Extreme close-up on the creator's face, showcasing incredibly smooth, dewy, and reflective skin, resembling a 'peeled egg'. Soft, flattering lighting highlights the skin's texture, emphasizing its hydration. A subtle, natural glow effect enhances the look, followed by a quick text overlay: '水润剥了壳的鸡蛋肌' for visual reinforcement.",
+      "narration": "想要拥有我这种洗完水润到能反光的“剥了壳的鸡蛋肌”吗？别再让你的肌肤将就了！",
+      "rationale": "视觉上再次强化了开场Hook和主体内容中提到的“水润剥了壳的鸡蛋”这一核心效果，通过提问式口播引导观众思考并产生渴望，为后续的行动号召做铺垫。",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.95,
+      "use_product_image": false
+    },
+    {
+      "id": 12,
+      "shot_type": "transition",
+      "act_type": "act3",
+      "visual_description": "The玻尿酸洗面奶 product is prominently displayed, perhaps rotating or with a shimmering effect. A clear, animated '立即购买' (Buy Now) button or a shopping cart icon appears, along with a '关注我' (Follow Me) prompt. Creator's hand might enter the frame to point emphatically towards the CTA, creating a dynamic visual.",
+      "narration": "你的肌肤蜕变刻不容缓！点击下方小黄车，立即入手这款玻尿酸洗面奶，告别紧绷油腻，即刻解锁水润奇迹！",
+      "rationale": "提供明确、有力量感和紧迫感的行动号召（CTA），引导用户购买或关注。其中“告别紧绷油腻”呼应了主体内容中描述的痛点，强化了产品带来的解决方案，完成视频的转化目标。",
+      "duration": 3.6666666666666665,
+      "emotion_score": 1.0,
+      "use_product_image": false
+    }
+  ],
+  "product_images": [],
+  "keyframes": [],
+  "quality_check": {
+    "word_duration_match": false,
+    "selling_point_coverage": [
+      "清洁补水，平衡兼顾",
+      "玻尿酸深层清洁，锁水保湿",
+      "专为油敏肌，温和不刺激"
+    ],
+    "missing_selling_points": [],
+    "rhythm_score": 0.0,
+    "issues": [
+      "镜头#1口播偏长(27字/4.916666666666667秒)",
+      "镜头#3口播偏长(20字/3.6666666666666665秒)",
+      "镜头#10口播偏长(39字/4.916666666666667秒)",
+      "镜头#11口播偏长(38字/6.416666666666667秒)",
+      "镜头#12口播偏长(48字/3.6666666666666665秒)",
+      "总口播偏长(344字/60.49999999999999秒)，建议精简"
+    ],
+    "auto_fixes": []
+  },
+  "smart_create": {
+    "session_id": "40e59512",
+    "direction": {
+      "direction_id": 3,
+      "name": "创意款",
+      "risk_level": "creative",
+      "description": "采用极端夸张和自嘲示弱的创意手法，制造强烈反差和幽默感，实现内容差异化和病毒式传播潜力。",
+      "hook": "我以为我的脸这辈子都要在‘油田’和‘撒哈拉’之间反复横跳了... 直到它出现！",
+      "structure_preview": [
+        "开场: 创作者自嘲式分享“油敏肌”的痛苦经历，夸张描述皮肤问题。",
+        "主体1: 戏剧性地介绍玻尿酸洗面奶，产品特写配以“救世主”般的音效。",
+        "主体2: 极端放大清洁和保湿效果：污垢“瞬间瓦解”，皮肤“Q弹到能弹跳起来”。",
+        "主体3: 幽默地回应可能的顾虑（如香味），强调“好用才是硬道理”。",
+        "结尾: 创作者真诚推荐，号召观众“告别肌肤矛盾体”，体验“前所未有的平衡”。"
+      ],
+      "creative_techniques": [
+        "极端放大",
+        "自嘲示弱"
+      ]
+    },
+    "selected_hook": {
+      "hook_id": 4,
+      "style": "反常识型",
+      "hook_text": "谁说清洁就得牺牲保湿？我用它洗出“水润剥了壳的鸡蛋”！",
+      "visual_hint": "A person skeptically looking at a 'dry skin after wash' meme, then confidently washing their face, revealing skin as smooth and glowing as a freshly peeled egg.",
+      "rationale": "挑战传统认知，用夸张的比喻颠覆“洗脸会干”的观念，突出产品清洁补水兼顾的独特优势。"
+    },
+    "competitor_summary": {
+      "top_videos": [],
+      "winning_patterns": [
+        "产品特写展示",
+        "用户痛点引入",
+        "效果对比"
+      ],
+      "hook_strategies": [
+        "直击痛点提问",
+        "惊人数据开场",
+        "用户故事引入"
+      ],
+      "content_structures": [
+        "痛点-解决方案-效果",
+        "故事-产品-号召行动"
+      ]
+    },
+    "market_summary": {
+      "summary": "Hyaluronic acid cleansers effectively clean pores and hydrate skin, balancing cleansing and moisture. They use hyaluronic acid and locking water technology for deep cleansing and hydration. Popular for sensitive and oily skin types. 玻尿酸洗面奶广受好评，保湿效果显著，但有些用户反映香味浓。性价比高，适合油皮和敏感肌。 Hyaluronic acid cleansers are popular in the skincare market for balancing cleansing and moisturizing. Key competitors include Estée Lauder and Shiseido. The global market for facial cleansers is projected to grow significantly by 2034.",
+      "key_findings": [
+        "# 💥玻尿酸洗面奶居然能养肤？本十年烂脸星人亲测：毛孔真的会缩小！. 姐妹们是不是也跟我一样，每次洗完脸不是紧绷拔干就是油光满面？毛孔粗大到能插秧，黑头闭口轮番登场😭最近被疯狂种草的玻尿酸洗面奶到底有没有用？本混油敏肌亲测一个月，居然真的把清洁力和保湿力平衡得刚刚好！不仅洗得干净还不伤肤，连毛孔都细腻了不少✨这篇超详细使用体验+成分解析，手把手教你选对洗面奶不踩雷！. ## 💦玻尿酸洗面奶真不是智",
+        "# 科学解析：形象美玻尿酸烟酰胺洗面奶，精准解决肌肤清洁与控油难题. 对于需要兼顾清洁力与肤感的消费者来说，形象美玻尿酸烟酰胺洗面奶提供了一个平衡的选择。本文将从成分构成、功效验证以及使用场景出发，解析其在现代护肤体系中的实际价值。. ## 需求洞察：当代肌肤护理的核心痛点. 在高污染、高油脂分泌的环境中，皮肤屏障面临多重挑战。许多人希望找到一款既能彻底清除彩妆和污垢，又不破坏肌肤水油平衡的产品。",
+        "这款港版进口的深层净化保湿洗面乳真的让我疯狂心动！玻尿酸+双重锁水科技，不仅能清洁毛孔还能补水，懒人必备！ 谁说洁面只能“干巴巴”？ 姐妹们！",
+        "这款泊泉雅玻尿酸洗面奶，主打一个“干净不拔干”，泡沫绵密得像云朵，清洁力在线却完全不会让脸紧绷。油皮、混油、敏肌姐妹都可以冲，9.5块的性价比直接封",
+        "我用过。烂透了。香味太浓了。泡沫很多，而且我没觉得它有多温和或者保湿。我用它洗澡，就是为了快点用完。",
+        "两款同价 39 台湾森田药粧洗面奶150g 1.玻尿酸超保湿细白洗面奶:深层保湿，温和清洁洗完脸不紧绷。 2.草本净化调理洗面奶:草本精华，有效镇静肌肤，更改痘痘问题。",
+        "竞品对比：为什么这款比同类更值得买？ 市面同价位洁面乳很多，但能像它这样兼顾清洁与保湿的不多。很多便宜产品要么清洁力不足，要么过度清洁导致",
+        "2025年全球洗面奶市场价值约为218.2亿美元，预计到2034年将达到296.1亿美元，2025年至2034年复合年增长率（CAGR）为3.45%。 为了进行详细的区域分析和收入",
+        "# 医美4剑客大PK：哪支玻尿酸能打出茅台的气质？. 2020年11月19日 15:51  返回 财富号评论吧>. 在股市，华东医药因仿制药、糖尿病药物而闻名，但其旗下的华东宁波子公司专注于医美业务，代销的韩国伊婉玻尿酸产品，年销售额在7亿左右，是国内市场老大！. 2019年，玻尿酸王者爱美客毛利率92.63%，贵州茅台91.37%，玻尿酸打出了茅台味！. 虽然医美4剑客做的都是玻尿酸的生意，但爱"
+      ],
+      "sources": [
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/a03ac5c01c46e17ce43d065886c4bab1.html",
+          "title": "玻尿酸洗面奶居然能养肤？本十年烂脸星人亲测：毛孔真的会缩小！"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/6fd02fbd33c78ff9ad16f22043bef2de.html",
+          "title": "科学解析：形象美玻尿酸烟酰胺洗面奶，精准解决肌肤清洁与控油难题"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/3957ab7113bb59070c2e5ab95a139bf6.html",
+          "title": "啊啊啊！这个玻尿酸洗面乳也太神仙了吧！_洁面 - 淘宝美妆网"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/ddebfe4e50eace1d1bcddbaf7effd5b4.html",
+          "title": "油皮星人听我一句劝，这个玻尿酸洗面奶你一定要试试！ - 美妆"
+        },
+        {
+          "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/rsnsaz/has_anyone_tried_the_loreal_hyaluronic_acid_face/?tl=zh-hans",
+          "title": "有人试过欧莱雅玻尿酸洗面奶吗？ : r/IndianSkincareAddicts - Reddit"
+        },
+        {
+          "url": "https://www.douyin.com/search/%E6%A3%AE%E7%94%B0%E8%8D%AF%E5%A6%86%E7%9A%84%E7%8E%BB%E5%B0%BF%E9%85%B8%E6%B4%97%E9%9D%A2%E5%A5%B6%E6%80%8E%E4%B9%88%E6%A0%B7",
+          "title": "森田药妆的玻尿酸洗面奶怎么样- 抖音"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/mianbuhulitaozhuang_21/5eb6537da0885cb2b85d18d2cc53f0b2",
+          "title": "干皮油皮都爱的洁面黑马！形象美玻尿酸净嫩洁面乳实测红黑榜"
+        },
+        {
+          "url": "https://www.marketreportsworld.com/zh/market-reports/facial-wash-and-cleanser-market-14714059",
+          "title": "洗面奶和洁面乳市场规模、份额及趋势分析，2025-2034 年"
+        },
+        {
+          "url": "https://caifuhao.eastmoney.com/news/20201119155133302023480",
+          "title": "医美4剑客大PK：哪支玻尿酸能打出茅台的气质？_财富号_东方财富网"
+        }
+      ]
+    }
+  },
+  "created_at": "2026-02-12T11:00:04.000349"
+}

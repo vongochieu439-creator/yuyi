@@ -1,0 +1,12 @@
+{
+  "profile_id": "21a1738d",
+  "brand_name": "测试品牌",
+  "brand_tone": "高端国风",
+  "forbidden_words": [
+    "最好",
+    "第一"
+  ],
+  "preferred_expressions": [],
+  "visual_style": "中国风水墨",
+  "target_audience": "25-35岁女性"
+}

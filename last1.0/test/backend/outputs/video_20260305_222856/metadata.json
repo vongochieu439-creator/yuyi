@@ -1,0 +1,123 @@
+{
+  "title": "创意迁移 — 玻尿酸洗面奶",
+  "topic": "玻尿酸洗面奶",
+  "product_name": "玻尿酸洗面奶",
+  "target_duration": 60,
+  "total_duration": 32.0,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "act_type": "hook",
+      "visual_description": "Professional hook shot of 玻尿酸洗面奶, studio lighting, clean background",
+      "narration": "镜头1的口播文案",
+      "duration": 3.0,
+      "camera_movement": "static",
+      "lighting": "natural",
+      "mood": "neutral",
+      "text_overlay": "",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "Professional medium shot of 玻尿酸洗面奶, studio lighting, clean background",
+      "narration": "镜头2的口播文案",
+      "duration": 5.0,
+      "camera_movement": "static",
+      "lighting": "natural",
+      "mood": "neutral",
+      "text_overlay": "",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Professional close_up shot of 玻尿酸洗面奶, studio lighting, clean background",
+      "narration": "镜头3的口播文案",
+      "duration": 5.0,
+      "camera_movement": "static",
+      "lighting": "natural",
+      "mood": "neutral",
+      "text_overlay": "",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "Professional medium shot of 玻尿酸洗面奶, studio lighting, clean background",
+      "narration": "镜头4的口播文案",
+      "duration": 6.0,
+      "camera_movement": "static",
+      "lighting": "natural",
+      "mood": "neutral",
+      "text_overlay": "",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "wide",
+      "act_type": "main",
+      "visual_description": "Professional wide shot of 玻尿酸洗面奶, studio lighting, clean background",
+      "narration": "镜头5的口播文案",
+      "duration": 5.0,
+      "camera_movement": "static",
+      "lighting": "natural",
+      "mood": "neutral",
+      "text_overlay": "",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Professional close_up shot of 玻尿酸洗面奶, studio lighting, clean background",
+      "narration": "镜头6的口播文案",
+      "duration": 4.0,
+      "camera_movement": "static",
+      "lighting": "natural",
+      "mood": "neutral",
+      "text_overlay": "",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "medium",
+      "act_type": "cta",
+      "visual_description": "Professional medium shot of 玻尿酸洗面奶, studio lighting, clean background",
+      "narration": "镜头7的口播文案",
+      "duration": 4.0,
+      "camera_movement": "static",
+      "lighting": "natural",
+      "mood": "neutral",
+      "text_overlay": "",
+      "use_product_image": false
+    }
+  ],
+  "selling_points": [],
+  "quality_check": {},
+  "generation_stage": "script",
+  "data_driven": {
+    "session_id": "bd34f147",
+    "direction": "creative",
+    "direction_label": "创意迁移",
+    "data_source": "灵感来自2个跨行业创意视频",
+    "reference_videos": [
+      {
+        "title": "世界最硬糖果vs黄金昊天锤，谁更厉害呢？ #瓜子二手车 #测评 #趣味实验",
+        "play_count": 0,
+        "digg_count": 5300
+      },
+      {
+        "title": "鉴定网络热门小实验\n#科学小实验 #物理实验 #生活小妙招 #生活小常识 #测评",
+        "play_count": 0,
+        "digg_count": 2872
+      }
+    ]
+  },
+  "created_at": "2026-03-05T22:28:56.474281"
+}

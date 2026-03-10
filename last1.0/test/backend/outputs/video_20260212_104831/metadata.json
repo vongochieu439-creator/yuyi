@@ -1,0 +1,205 @@
+{
+  "title": "美白面霜 - 稳妥款",
+  "topic": "美白面霜",
+  "target_duration": 60,
+  "total_duration": 60.5,
+  "shot_count": 12,
+  "viral_score": 0.0,
+  "generation_stage": "script",
+  "style": "marketing",
+  "selling_points": [
+    "淡化雀斑暗沉，均匀提亮肤色",
+    "温和配方不刺激，敏感肌适用",
+    "高浓度活性成分，美白快速显效"
+  ],
+  "shots": [
+    {
+      "id": 1,
+      "visual": "[talking_head] visual: A woman looking frustrated, gently touching her cheek where small dark spots or ...",
+      "narration": "还在为雀斑暗沉烦恼？肤色不均真的太显老了！",
+      "rationale": "[痛点型开场] 直接点出用户最关心的美白痛点，引发强烈共鸣，让他们感到被理解，从而期待产品能提供解决方案。直指淡化雀斑暗沉，均匀提亮肤色。"
+    },
+    {
+      "id": 2,
+      "visual": "[scene] visual: Product demonstration shot of 美白面霜, clean background, professional lighting...",
+      "narration": "关于淡化雀斑暗沉，均匀提亮肤色的展示",
+      "rationale": "展示核心卖点: 淡化雀斑暗沉，均匀提亮肤色"
+    },
+    {
+      "id": 3,
+      "visual": "[transition] visual: Product demonstration shot of 美白面霜, clean background, professional lighting...",
+      "narration": "关于温和配方不刺激，敏感肌适用的展示",
+      "rationale": "展示核心卖点: 温和配方不刺激，敏感肌适用"
+    },
+    {
+      "id": 4,
+      "visual": "[product] visual: Product demonstration shot of 美白面霜, clean background, professional lighting...",
+      "narration": "关于高浓度活性成分，美白快速显效的展示",
+      "rationale": "展示核心卖点: 高浓度活性成分，美白快速显效"
+    },
+    {
+      "id": 5,
+      "visual": "[hands_on] visual: Product demonstration shot of 美白面霜, clean background, professional lighting...",
+      "narration": "关于淡化雀斑暗沉，均匀提亮肤色的展示",
+      "rationale": "展示核心卖点: 淡化雀斑暗沉，均匀提亮肤色"
+    },
+    {
+      "id": 6,
+      "visual": "[effect] visual: Product demonstration shot of 美白面霜, clean background, professional lighting...",
+      "narration": "关于温和配方不刺激，敏感肌适用的展示",
+      "rationale": "展示核心卖点: 温和配方不刺激，敏感肌适用"
+    },
+    {
+      "id": 7,
+      "visual": "[product] visual: Product demonstration shot of 美白面霜, clean background, professional lighting...",
+      "narration": "关于高浓度活性成分，美白快速显效的展示",
+      "rationale": "展示核心卖点: 高浓度活性成分，美白快速显效"
+    },
+    {
+      "id": 8,
+      "visual": "[hands_on] visual: Product demonstration shot of 美白面霜, clean background, professional lighting...",
+      "narration": "关于淡化雀斑暗沉，均匀提亮肤色的展示",
+      "rationale": "展示核心卖点: 淡化雀斑暗沉，均匀提亮肤色"
+    },
+    {
+      "id": 9,
+      "visual": "[effect] visual: Product demonstration shot of 美白面霜, clean background, professional lighting...",
+      "narration": "关于温和配方不刺激，敏感肌适用的展示",
+      "rationale": "展示核心卖点: 温和配方不刺激，敏感肌适用"
+    },
+    {
+      "id": 10,
+      "visual": "[talking_head] visual: A confident and radiant influencer, with visibly bright and even skin, looks dir...",
+      "narration": "还在为雀斑暗沉、肤色不均烦恼吗？现在，是时候告别显老肌，迎接你的高光时刻了！",
+      "rationale": "直接回应开场Hook中提出的痛点“还在为雀斑暗沉烦恼？肤色不均真的太显老了！”，通过提问式开场，并立即给出解决方案，引导观众进入积极的转变心态。"
+    },
+    {
+      "id": 11,
+      "visual": "[effect] visual: A dynamic split-screen effect transitions from a 'before' image of dull, slightl...",
+      "narration": "别让暗沉斑点继续拉低你的颜值！这款美白面霜，让你轻松拥有匀净透亮、年轻自信的好气色。",
+      "rationale": "通过视觉效果（before/after）和口播文案，具象化地展现了产品如何解决开场Hook中提及的“雀斑暗沉”和“肤色不均”问题，直接呈现了去除“显老”状态后的“年轻自信好气色”。"
+    },
+    {
+      "id": 12,
+      "visual": "[transition] visual: The screen dramatically transforms into a clean, impactful display featuring the...",
+      "narration": "美丽不等人，别再犹豫！现在就行动，点击下方链接或扫码购买，即刻逆转时光，让肌肤重焕年轻光采，告别显老肌！",
+      "rationale": "强化了行动号召的紧迫感，通过强调‘美丽不等人’和‘即刻逆转时光’，促使观众立即购买产品以解决痛点，并具象化产品带来的年轻化效果，进一步营造紧迫感。"
+    }
+  ],
+  "product_images": [],
+  "keyframes": [],
+  "quality_check": {
+    "word_duration_match": false,
+    "selling_point_coverage": [
+      "淡化雀斑暗沉，均匀提亮肤色",
+      "温和配方不刺激，敏感肌适用",
+      "高浓度活性成分，美白快速显效"
+    ],
+    "missing_selling_points": [],
+    "rhythm_score": 0.0,
+    "issues": [
+      "镜头#10口播偏长(38字/5秒)",
+      "镜头#11口播偏长(42字/5秒)",
+      "镜头#12口播偏长(52字/5秒)",
+      "总口播偏长(299字/60秒)，建议精简"
+    ],
+    "auto_fixes": []
+  },
+  "smart_create": {
+    "session_id": "f57177b4",
+    "direction": {
+      "direction_id": 1,
+      "name": "稳妥款",
+      "risk_level": "safe",
+      "description": "基于竞品成功模式，直击用户美白痛点，通过产品特写、成分解析和真实效果对比，展现美白面霜的卓越功效和温和特性。",
+      "hook": "你是不是也烦恼脸上的斑点和暗沉，总觉得护肤品效果不明显？今天我来揭秘一款真正能让你告别‘黄脸婆’的美白面霜！",
+      "structure_preview": [
+        "开场: 直击美白痛点提问，展示暗沉、斑点困扰。",
+        "主体1: 引入美白面霜，产品特写，强调核心成分和温和配方。",
+        "主体2: 模拟实验或真人使用过程，展示质地和吸收。",
+        "主体3: 左右脸/前后对比，或多位用户证言，突出肤色提亮、斑点淡化效果。",
+        "结尾: 强调敏感肌可用，限时优惠，引导购买。"
+      ],
+      "creative_techniques": []
+    },
+    "selected_hook": {
+      "hook_id": 2,
+      "style": "痛点型",
+      "hook_text": "还在为雀斑暗沉烦恼？肤色不均真的太显老了！",
+      "visual_hint": "A woman looking frustrated, gently touching her cheek where small dark spots or uneven skin tone is subtly visible in a mirror reflection.",
+      "rationale": "直接点出用户最关心的美白痛点，引发强烈共鸣，让他们感到被理解，从而期待产品能提供解决方案。直指淡化雀斑暗沉，均匀提亮肤色。"
+    },
+    "competitor_summary": {
+      "top_videos": [],
+      "winning_patterns": [
+        "产品特写展示",
+        "用户痛点引入",
+        "效果对比"
+      ],
+      "hook_strategies": [
+        "直击痛点提问",
+        "惊人数据开场",
+        "用户故事引入"
+      ],
+      "content_structures": [
+        "痛点-解决方案-效果",
+        "故事-产品-号召行动"
+      ]
+    },
+    "market_summary": {
+      "summary": "Popular beauty creams highlight dual whitening and skin repair, focusing on high-concentration active ingredients and precise efficacy. Key benefits include effective pigmentation reduction and improved skin tone. These products often use natural, non-irritating formulas for sensitive skin. 高口碑美白面霜有效改善肤色，减少雀斑和暗沉。用户反馈普遍积极，认为产品温和且见效快。市场上多款备受推荐，效果显著。 The Chinese skincare market is competitive, with major brands focusing on whitening creams and innovative ingredients. Leading brands are expanding product lines and exploring new categories like functional skincare. Market trends show a shift towards more effective, natural, and less irritating products.",
+      "key_findings": [
+        "# 盘点5款热门美白兼修护双效面霜，谁的口碑名副其实. 在当今的护肤市场中，美白与修护一直是消费者最为关注的两大功效。随着人们对肌肤健康和美观的要求不断提高，美白兼修护双效面霜的市场需求也日益增长。据市场调研机构的数据显示，近年来美白护肤产品的市场规模持续扩大，年增长率保持在两位数以上。同时，消费者的行为也发生了明显变化，他们不再仅仅满足于单一功效的产品，而是更加倾向于选择具有多种功效、安全可靠且",
+        "无论是精华还是面霜，都以“高浓度独家活性成分+精准功效定位”为核心卖点。通过临床验证或医研背书强化功效信任，在消费者心智中建立“有效抗衰” 的强关联，这",
+        "# 科学解析：迪之美养白素美白面霜的核心价值与成分逻辑. 在当前市场中，追求肌肤明亮与细腻成为护肤的核心需求之一。迪之美养白素美白面霜凭借其专业配方和精准功效，为有抗色素沉着、提亮肤色需求的消费者提供了一款高性价比的解决方案。. ## 从用户需求出发：为何选择美白类产品？. 随着环境污染、紫外线暴露及生活习惯的不规律，肌肤屏障逐渐受损，色素沉淀、暗沉问题日益突出。这类人群通常希望寻找一款高效、温和",
+        "权威背书强劲：持有国妆特字G202411819，是合规的祛斑美白类特殊化妆品。荣获2025年度全球美白祛斑抗皱品类金奖、国际皮肤研究联盟（ISDC）“最佳全肤质美白抗衰技术创新奖”。",
+        "我也用Goodal Vita-C Dark Spot Care Sun Serum，我觉得它也有贡献。用了这两个之后，我的肤色肯定看起来更均匀了——我以前有很多雀斑和暗沉，现在都没了！不过",
+        "舒颜萃是专注敏感肌小众护理的品牌，主打“温和修护、轻效美白”，这款舒缓美白面霜延续了品牌的核心调性，专为屏障脆弱、易敏感，且有基础美白需求的人群设计。",
+        "© 2025 毕马威华振会计师事务所(特殊普通合伙) — 中国合伙制会计师事务所，毕马威企业咨询(中国) 有限公司— 中国有限责任公司，毕马威会计师事务所— 澳门特别行政区合伙 制事务所，及毕马威会计师事务所— 香港特别行政区合伙制事务所，均是与毕马威国际有限公司(英国私营担保有限公司)相关联的独立成员所全球组织中的成员。版权所有，不得 转载。 毕马威创见不同·智启未来 kpmg.com/cn 2",
+        "国人美白趋势洞察白皮书 ©2022.11 iResearch Inc. 2 ©2022.11 iResearch Inc. www.iresearch.com.cn 摘要 行业规模：近年来美白精华赛道受功效护肤概念普及的推动持续扩容，疫情虽对行 业带来了短期放缓的影响，但随着消费回暖和供给发力，行业中长期发展依旧向好。 2021年行业整体已达到285.1亿，未来3年将以12.7%的复合增速持续增长",
+        "上半年结束，美妆行业整体状况可以说差强人意。国家统计局数据显示，1-5月除5月份以外，化妆品零售额的同比增速均低于社会消费品零售总额。陆续有品牌宣布清仓闭店，退出市场。最重磅的618大促，美妆行业也再次遭遇“超头失灵”“全网销售额涨还是跌”等质疑。与此同时，美妆行业不断上演着突破、争议、创新、格局轮换的故事。. 不管整体数据走势、品牌表现如何，我们更应该关注其所反映出的美妆行业的整体变化，以及个体"
+      ],
+      "sources": [
+        {
+          "url": "https://www.sohu.com/a/977051662_122572645",
+          "title": "盘点5款热门美白兼修护双效面霜，谁的口碑名副其实 - 搜狐"
+        },
+        {
+          "url": "https://zhuanlan.zhihu.com/p/2004157178676794156",
+          "title": "4541.8亿美妆护肤全景扫描：从规模竞争到技术竞争 - 知乎专栏"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/ruye_13/51c95cc82fbbb5262e2ad238d4d81ecf.html",
+          "title": "科学解析：迪之美养白素美白面霜的核心价值与成分逻辑"
+        },
+        {
+          "url": "https://cj.sina.com.cn/articles/view/7880068200/1d5b04c6801901dlfm?froms=ggmp",
+          "title": "告别黄黑皮!5款真正有效的美白护肤品，千万用户口碑推荐_产品_成分"
+        },
+        {
+          "url": "https://www.reddit.com/r/AsianBeauty/comments/1qjm0my/whats_the_best_skinbrightening_serumcream_youve/?tl=zh-hans",
+          "title": "你用过最好的美白精华/面霜是什么？ : r/AsianBeauty - Reddit"
+        },
+        {
+          "url": "https://news.qq.com/rain/a/20260209A06H3R00",
+          "title": "美白面霜哪款效果好还温和？美白成分避坑指南及五款高口碑产品 ..."
+        },
+        {
+          "url": "https://assets.kpmg.com/content/dam/kpmgsites/cn/pdf/zh/2025/11/2025-china-beauty-market-industry-report.pdf",
+          "title": "[PDF] “颜”值经济新篇章： 2025年中国美妆市场行业报告"
+        },
+        {
+          "url": "https://pdf.dfcfw.com/pdf/H3_AP202211021579786284_1.pdf",
+          "title": "[PDF] 国人美白趋势洞察白皮书"
+        },
+        {
+          "url": "https://www.cbndata.com/information/292860",
+          "title": "从上半年上新动态中，拆解中国“欧莱雅们”的“三个加法” | CBNData"
+        }
+      ]
+    }
+  },
+  "created_at": "2026-02-12T10:48:31.590647",
+  "updated_at": "2026-02-12T10:48:45.955488",
+  "script_locked": true
+}

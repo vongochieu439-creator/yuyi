@@ -1,0 +1,149 @@
+{
+  "title": "稳妥款 · 实验对比",
+  "topic": "玻尿酸面霜",
+  "product_name": "玻尿酸面霜",
+  "product_detail": null,
+  "industry": "美妆护肤",
+  "target_duration": 60,
+  "total_duration": 60.0,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "act_type": "hook",
+      "visual_description": "Close-up of dull, dry skin on a cheek, showing visible fine lines and slight flakiness. Dramatic, slightly cool lighting with a macro lens.",
+      "narration": "你的皮肤是不是也经常干燥紧绷，细纹悄悄爬上脸？",
+      "duration": 8.0,
+      "camera_movement": "push_in",
+      "text_overlay": "皮肤干燥？细纹困扰？",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "product",
+      "act_type": "main",
+      "visual_description": "Product hero shot of the玻尿酸面霜 bottle/jar, rotating slowly on a pristine white marble surface. Soft, diffused warm lighting creates a gentle glow.",
+      "narration": "别担心！这款玻尿酸面霜，帮你告别干燥，重现水润光泽。",
+      "duration": 8.0,
+      "camera_movement": "rotate",
+      "text_overlay": "玻尿酸面霜",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "hands_on",
+      "act_type": "main",
+      "visual_description": "Close-up of a model's hand applying a pearl-sized amount of cream to one half of her face. Focus on gentle, upward massage strokes. Natural, bright lighting.",
+      "narration": "质地轻盈，一点也不粘腻，轻轻一抹，肌肤立刻大口喝水。",
+      "duration": 9.0,
+      "camera_movement": "pan_right",
+      "text_overlay": "轻盈不粘腻",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Extreme close-up of the applied side of the face, showing instant absorption of the cream and a dewy, plump finish. Focus on improved skin texture.",
+      "narration": "高纯玻尿酸深入肌底，层层补水，让肌肤由内而外嘭弹。",
+      "duration": 8.0,
+      "camera_movement": "zoom_out",
+      "text_overlay": "高纯玻尿酸 深度补水",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "result",
+      "act_type": "main",
+      "visual_description": "Split-screen before/after. One side of the model's face is dull and dry (before), the other is plump, radiant, and smooth (after application). Bright, even studio lighting.",
+      "narration": "看看这对比！使用后，干燥细纹明显改善，肌肤水润透亮。",
+      "duration": 9.0,
+      "camera_movement": "static",
+      "text_overlay": "半脸实测：水润对比",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "Medium shot of the model gently touching her now hydrated face, smiling confidently. Her skin looks healthy and glowing. Soft, natural lighting.",
+      "narration": "不止补水，更能锁住水分，长效保湿，肌肤一整天都Q弹。",
+      "duration": 8.0,
+      "camera_movement": "zoom_in",
+      "text_overlay": "长效锁水 Q弹肌",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "cta",
+      "act_type": "cta",
+      "visual_description": "Product array with multiple jars/bottles arranged attractively. A clear price tag overlay and a prominent '限时优惠' (limited offer) banner. Warm, inviting lighting.",
+      "narration": "别再犹豫了！现在下单立享优惠，快让你的肌肤焕发新生吧！",
+      "duration": 10.0,
+      "camera_movement": "push_in",
+      "text_overlay": "限时优惠！立即抢购！",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    }
+  ],
+  "selling_points": [
+    "深度补水",
+    "淡化细纹",
+    "清爽不粘腻"
+  ],
+  "quality_report": {},
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "49fbfb6f",
+    "script_id": 0,
+    "script_name": "稳妥款 · 实验对比",
+    "risk_level": "safe",
+    "competitor_summary": {
+      "winning_patterns": [
+        "实验对比",
+        "痛点故事",
+        "成分科普"
+      ],
+      "hook_strategies": [
+        "实验对比: 左右脸对比/素颜vs上妆，视觉冲击力强",
+        "成分党: 用显微镜/实验室画面展示核心成分",
+        "反常识: '千万别这样涂面霜' 引发好奇"
+      ],
+      "content_structures": [
+        "痛点切入→产品亮相→上脸实测→效果对比→限时优惠",
+        "反常识开场→真相揭秘→产品介绍→使用教程→before/after"
+      ],
+      "emotional_triggers": [
+        "焦虑感(皮肤问题)",
+        "期待感(变美)",
+        "信任感(成分/实验)",
+        "紧迫感(限时)"
+      ]
+    },
+    "market_summary": {
+      "summary": "玻尿酸面霜市场广阔，消费者普遍面临皮肤干燥、细纹、屏障受损等问题，渴望高效补水保湿且成分安心的产品。",
+      "key_findings": [
+        "消费者对即时补水效果有强烈需求",
+        "成分透明度和安全性是购买决策关键",
+        "年轻群体更注重产品清爽不粘腻的使用感"
+      ]
+    }
+  },
+  "created_at": "2026-03-07T23:28:21.942129",
+  "updated_at": "2026-03-07T23:28:21.942129"
+}

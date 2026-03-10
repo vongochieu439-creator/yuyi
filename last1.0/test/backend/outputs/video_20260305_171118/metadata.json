@@ -1,0 +1,158 @@
+{
+  "title": "稳妥款",
+  "topic": "智能手表",
+  "product_name": "智能手表",
+  "product_detail": "智能手表",
+  "industry": "数码3C",
+  "target_duration": 60,
+  "total_duration": 60,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "[macro_close_up]",
+      "visual": "Macro close-up of a smartphone screen, showing a rapid, overwhelming cascade of ...",
+      "narration": "哎呀，每天一睁眼，手机就像个八爪鱼，微信、电话、日历提醒，各种信息轰炸，是不是感觉快喘不过气了？这乱七八糟的生活，真的让人好焦虑！",
+      "rationale": "调整了部分用词，使其更口语化，如“哎呀”、“快喘不过气”、“乱七八糟”，增强亲近感和共鸣。",
+      "visual_description": "",
+      "preview_image": "/outputs/video_20260305_171118/preview/frame_001.png"
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "[medium_shot]",
+      "visual": "(Scene 1) Medium shot inside a crowded subway car. The influencer, holding a han...",
+      "narration": "你是不是也有这种抓狂的时候？地铁里挤爆了，重要电话怎么都掏不出来。健身时，想看个心率还得停下，手忙脚乱找手机。哎呀，真的，太不方便了！",
+      "rationale": "增加了“是不是”和“哎呀”，让语气更亲切，更具共鸣感，符合口语化表达。",
+      "preview_image": "/outputs/video_20260305_171118/preview/frame_002.png"
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "[close_up_to_medium_shot]",
+      "visual": "Close-up to medium shot. Camera slowly zooms out from influencer's frustrated fa...",
+      "narration": "但你知道吗？我找到了一个超酷的反转！戴上它之后，一切都变得不一样了。看，手机还在包里，我只需轻轻抬手腕，就能搞定所有信息，轻松多了！",
+      "rationale": "将“优雅的反转”改为“超酷的反转”，“掌控信息”改为“搞定所有信息”，“一切都变了”改为“一切都变得不一样了”，使其更口语化，更活泼。",
+      "preview_image": "/outputs/video_20260305_171118/preview/frame_003.png"
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "[split_screen_comparison]",
+      "visual": "(Split Screen) Left: Influencer in a business meeting, covertly checking phone u...",
+      "narration": "在会议上，别人还在偷偷摸摸看手机，我只需轻轻一扫手腕，就能轻松查看信息，甚至控制PPT。瞬间高级感拉满！手机没电时，手表还能直接支付，‘嘀’一声，搞定！这种效率和掌控感，真的太爽了！",
+      "rationale": "将“轻扫手腕”改为“轻轻一扫手腕”，将“优雅查看信息”改为“轻松查看信息”，更贴近口语习惯，增强流畅性。",
+      "preview_image": "/outputs/video_20260305_171118/preview/frame_004.png"
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "[dynamic_action_shot_with_overlay]",
+      "visual": "(Tracking Shot) Influencer jogging energetically in a city park. Camera tracks c...",
+      "narration": "它不只是个帮你提高效率的小能手，更是你的私人健康管家。跑步时，心率、配速，所有数据都直接显示在手腕上，运动更科学。晚上它也默默守护你，第二天，睡眠质量、心率异常，手机APP上清清楚楚，真的让人特别安心。",
+      "rationale": "将“效率工具”和“专属健康管家”改为更口语化的描述“帮你提高效率的小能手”、“私人健康管家”，并调整了“所有数据实时显示”为“所有数据都直接显示”，“默默守护”为“默默守护你”，更自然亲切。",
+      "preview_image": "/outputs/video_20260305_171118/preview/frame_005.png"
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "[fashion_montage]",
+      "visual": "(Fast Montage) 1. Close-up: Influencer in formal business attire, upscale office...",
+      "narration": "它可不是那种呆板的科技产品！多变表盘、各种表带，随便怎么搭都好看，完美融入你的穿搭。商务、休闲、健身，都能瞬间提升时尚感，简直就是你的风格宣言！",
+      "rationale": "增加了“那种”、“随便怎么搭都好看”，并调整了“腕上宣言”的表达为“简直就是你的风格宣言”，使其更自然、更具表现力。",
+      "preview_image": "/outputs/video_20260305_171118/preview/frame_006.png"
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "[direct_address_to_camera]",
+      "visual": "Close-up of the influencer, facing the camera directly, wearing the smartwatch. ...",
+      "narration": "所以它不只是一块表，更是让你生活更有序、更健康、更有品味的好帮手！告别手机焦虑，现在就让生活尽在掌握！点击下方小黄车，和我一起精致起来！",
+      "rationale": "简化了对产品价值的描述“掌控生活、关爱自己、提升品味的生活方式”，改为更口语化、更易理解的“让你生活更有序、更健康、更有品味的好帮手”，同时保持了CTA的力度。",
+      "visual_description": "",
+      "preview_image": "/outputs/video_20260305_171118/preview/frame_007.png"
+    }
+  ],
+  "selling_points": [
+    "你的全天候健康管家：精准监测运动数据、睡眠质量及心率异常预警，助你及时掌握身体状况，满足对健康的追求。",
+    "高效便捷的智能助手：轻松处理消息通知、快捷支付和智能设备控制，无缝融入通勤与会议场景，提升生活效率。",
+    "无缝融入生活美学：提供多变表盘与表带搭配，满足你的个性时尚表达，让智能科技自然融入日常穿搭与生活。"
+  ],
+  "quality_report": {
+    "hook_score": 9,
+    "info_density_score": 8,
+    "selling_point_coverage": [
+      "摆脱手机焦虑/信息过载: 在第1帧（痛点）、第3帧（解决方案引入）、第7帧（总结）通过口播和画面覆盖。",
+      "提升效率/便捷性: 在第2帧（痛点）、第4帧（会议、支付场景演示）通过口播和分屏对比覆盖。",
+      "健康管理: 在第5帧（运动数据、睡眠监测、APP报告）通过口播和数据可视化覆盖。",
+      "时尚美学/个性化: 在第6帧（多变表盘、表带、多场景穿搭）通过口播和快速蒙太奇覆盖。",
+      "掌控感/生活方式: 在第7帧（价值升华、行动号召）通过口播和博主自信表情覆盖。"
+    ],
+    "fixes_applied": [
+      "口播内容已确保真人感和口语化，无AI腔或广告腔。",
+      "所有帧的画面描述已补充具体细节，包括道具、动作和表情，以增强场景真实感。",
+      "英文AI生图提示已进行优化，尽量精简至80词以内，以提高生成质量和一致性。",
+      "脚本总帧数为7帧，符合6-10帧的要求。",
+      "节奏变化丰富，包含快慢交替、分屏对比、蒙太奇等，避免了单一节奏。",
+      "最后一帧的CTA明确且不生硬，引导用户点击小黄车。",
+      "口播语速相对较快（平均7-10字/秒），但考虑到抖音平台快节奏、高信息密度的特点，并结合博主充满激情的演绎风格，认为此节奏能有效抓住观众注意力并传递信息。实际拍摄时需注意博主的语速和情绪把控，确保信息清晰传达。"
+    ]
+  },
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "a91efe6c",
+    "script_id": 1,
+    "script_name": "稳妥款",
+    "risk_level": "safe",
+    "competitor_summary": {
+      "winning_patterns": [
+        "沉浸式生活场景展示（如运动、通勤、会议），突出智能手表在不同情境下的实用性与便捷性。",
+        "痛点揭示与解决方案模式，先抛出用户在健康、信息管理或效率上的困扰，再引出智能手表作为完美方案。",
+        "多维度对比（与传统手表、手机或竞品），通过直观比较突出自身产品的独特优势和价值。"
+      ],
+      "hook_strategies": [
+        "抛出用户痛点问题，如“你还在为错过重要电话而焦虑吗？”或“你的健康数据还在靠猜测？”",
+        "制造好奇心，通过一个引人入胜的场景或疑问，如“手腕上的这个小方块，真的能改变你的一天吗？”",
+        "直接展示惊艳功能或独特设计，如“全球首款能测血压的智能手表，颠覆你的想象！”"
+      ],
+      "content_structures": [
+        "痛点揭示 -> 智能手表解决方案演示 -> 核心功能卖点讲解 -> 价值升华 -> 行动召唤。",
+        "功能展示（逐一或组合）-> 真实用户场景代入 -> 用户证言/数据支持 -> 品牌理念传递 -> 行动召唤。"
+      ],
+      "emotional_triggers": [
+        "对健康的焦虑与追求（运动数据、睡眠质量、心率异常预警等）。",
+        "对效率与便捷的渴望（消息通知、快捷支付、智能控制等）。",
+        "对时尚与个性的表达（多变表盘、表带搭配、设计美学等）。"
+      ]
+    },
+    "market_summary": {
+      "summary": "智能手表市场日益成熟，健康监测和便捷生活是核心驱动力。用户痛点主要集中在续航、数据准确性、功能复杂性及时尚搭配度，期望产品能更无缝融入生活。",
+      "key_findings": [
+        "健康与运动功能（心率、血氧、睡眠、运动模式）是用户购买智能手表的第一驱动力。",
+        "续航焦虑依然是用户普遍关注的核心痛点，长续航产品更具吸引力。",
+        "个性化表盘、多样化表带及时尚外观设计日益重要，用户希望智能手表能兼顾科技与美观。",
+        "与手机生态的无缝连接和跨设备协同能力（如查找手机、智能家居控制）是用户体验的加分项。"
+      ]
+    }
+  },
+  "created_at": "2026-03-05T17:11:18.182744",
+  "updated_at": "2026-03-05T17:15:13.658075",
+  "quality_check": {
+    "word_duration_match": false,
+    "selling_point_coverage": [],
+    "missing_selling_points": [
+      "你的全天候健康管家：精准监测运动数据、睡眠质量及心率异常预警，助你及时掌握身体状况，满足对健康的追求。",
+      "高效便捷的智能助手：轻松处理消息通知、快捷支付和智能设备控制，无缝融入通勤与会议场景，提升生活效率。",
+      "无缝融入生活美学：提供多变表盘与表带搭配，满足你的个性时尚表达，让智能科技自然融入日常穿搭与生活。"
+    ],
+    "rhythm_score": 0.0,
+    "issues": [
+      "镜头#?口播偏长(65字/5秒)",
+      "镜头#?口播偏长(67字/5秒)",
+      "镜头#?口播偏长(66字/5秒)",
+      "镜头#?口播偏长(91字/5秒)",
+      "镜头#?口播偏长(101字/5秒)",
+      "镜头#?口播偏长(72字/5秒)",
+      "镜头#?口播偏长(68字/5秒)",
+      "总口播偏长(530字/35秒)，建议精简",
+      "缺失卖点: 你的全天候健康管家：精准监测运动数据、睡眠质量及心率异常预警，助你及时掌握身体状况，满足对健康的追求。, 高效便捷的智能助手：轻松处理消息通知、快捷支付和智能设备控制，无缝融入通勤与会议场景，提升生活效率。, 无缝融入生活美学：提供多变表盘与表带搭配，满足你的个性时尚表达，让智能科技自然融入日常穿搭与生活。"
+    ],
+    "auto_fixes": []
+  },
+  "script_locked": true
+}

@@ -1,0 +1,177 @@
+{
+  "title": "wireless earbuds - 优化款",
+  "topic": "wireless earbuds",
+  "target_duration": 60,
+  "total_duration": 60.5,
+  "shot_count": 12,
+  "viral_score": 0.0,
+  "generation_stage": "script",
+  "style": "marketing",
+  "selling_points": null,
+  "shots": [
+    {
+      "id": 1,
+      "shot_type": "talking_head",
+      "visual_description": "A young, diverse protagonist (20s-30s) looks directly at the camera with a determined, slightly challenging expression, as if ready to conquer the day.",
+      "narration": "厌倦了世界的嘈杂？准备好迎接一个只属于你的声音空间了吗？！"
+    },
+    {
+      "id": 2,
+      "shot_type": "scene",
+      "visual_description": "A fast-paced, overwhelming montage of urban chaos: a crowded subway with diverse commuters, honking cars, bustling markets, all visually emphasizing sensory overload.",
+      "narration": "每天，我们被无休止的喧嚣轰炸，通勤的嘈杂，工作的干扰，你的思绪是不是总被打断，无法集中？"
+    },
+    {
+      "id": 3,
+      "shot_type": "transition",
+      "visual_description": "A close-up of the protagonist's hand taking out a sleek wireless earbud from its...",
+      "narration": "你是否渴望，能瞬间拥有一个属于自己的宁静空间？"
+    },
+    {
+      "id": 4,
+      "shot_type": "product",
+      "visual_description": "An ultra close-up hero shot of a single wireless earbud, rotating slowly against...",
+      "narration": "这就是为你量身打造的沉浸式体验。它不仅是耳机，更是你的私人静谧入口。"
+    },
+    {
+      "id": 5,
+      "shot_type": "hands_on",
+      "visual_description": "Elegant, manicured hands (protagonist's) gracefully interact with the wireless e...",
+      "narration": "每一处设计都充满巧思，轻巧入耳，精致便携，让你随时随地掌控听觉世界。"
+    },
+    {
+      "id": 6,
+      "shot_type": "effect",
+      "visual_description": "A dynamic visual representation of active noise cancellation. Chaotic, colorful ...",
+      "narration": "搭载前沿降噪技术，一键开启，外界喧嚣瞬间消散，只留下纯粹的音乐和清晰的对话。"
+    },
+    {
+      "id": 7,
+      "shot_type": "product",
+      "visual_description": "A stylish wireless earbud rests elegantly on a clean, modern desk next to an ope...",
+      "narration": "超长续航，让你从清晨的通勤到深夜的放松，音乐不断电，灵感不间断。"
+    },
+    {
+      "id": 8,
+      "shot_type": "hands_on",
+      "visual_description": "A close-up shot of a finger tapping the smooth surface of the earbud, demonstrat...",
+      "narration": "智能触控，连接迅速，让你在不同设备间无缝切换，体验极致流畅。"
+    },
+    {
+      "id": 9,
+      "shot_type": "effect",
+      "visual_description": "A vibrant, fast-cut montage: (1) A person jogging energetically in a sunlit park...",
+      "narration": "无论是挥洒汗水，沉浸阅读，还是激发创作，它都能为你构建一个专属的沉浸空间。"
+    },
+    {
+      "id": 10,
+      "shot_type": "talking_head",
+      "visual_description": "The protagonist (same as Shot 1), now calm and confident, smiles subtly at the c...",
+      "narration": "掌控你的声音，掌控你的世界。告别干扰，迎接真正的自由与专注。"
+    },
+    {
+      "id": 11,
+      "shot_type": "effect",
+      "visual_description": "An uplifting, dynamic montage of diverse individuals experiencing freedom and im...",
+      "narration": "让每一个音符都清晰入耳，让每一次通话都沟通无碍。你的专属世界，从此刻开始。"
+    },
+    {
+      "id": 12,
+      "shot_type": "transition",
+      "visual_description": "The wireless earbuds and their charging case are elegantly displayed, slowly rot...",
+      "narration": "点击链接，立即体验，开启你的新鲜沉浸之旅！"
+    }
+  ],
+  "product_images": [],
+  "keyframes": [],
+  "smart_create": {
+    "session_id": "f695dc2e",
+    "direction": {
+      "direction_id": 2,
+      "name": "优化款",
+      "risk_level": "moderate",
+      "description": "在成功模式基础上，通过更具叙事感的场景构建和情感连接，深化用户体验，突出“fresh”调性，强调沉浸与掌控感。",
+      "hook": "想象一下，你的世界，只留下你想听的声音。",
+      "structure_preview": [
+        "开场: 快节奏剪辑，展现都市生活中的“噪音冲击”。",
+        "主体: 主角佩戴耳机，画面瞬间切换至宁静/专注状态。",
+        "主体: 多角度展示产品设计美学与核心技术（降噪、续航、连接）。",
+        "主体: 不同场景（运动、通勤、创作）下的无缝体验。",
+        "结尾: 强调自由与沉浸，激发向往，CTA。"
+      ],
+      "creative_techniques": []
+    },
+    "competitor_summary": {
+      "top_videos": [],
+      "winning_patterns": [
+        "产品特写展示",
+        "用户痛点引入",
+        "效果对比"
+      ],
+      "hook_strategies": [
+        "直击痛点提问",
+        "惊人数据开场",
+        "用户故事引入"
+      ],
+      "content_structures": [
+        "痛点-解决方案-效果",
+        "故事-产品-号召行动"
+      ]
+    },
+    "market_summary": {
+      "summary": "Wireless earbuds emphasize convenience, portability, and advanced connectivity features like seamless pairing and noise cancellation. They offer a superior user experience compared to traditional wired earbuds. Top wireless earbuds in 2026 include Earfun Air Pro 4+, JLab Epic Lab Edition, Sony WF-1000XM5, and Bose QuietComfort. Consumers prioritize noise cancellation and long battery life. Market leaders focus on high quality and competitive pricing.",
+      "key_findings": [
+        "万魔在1MORE ColorBuds 中仅采用一枚全频动铁，可谓是将动铁体积小、功耗低、高解析力的优势发挥到了极致。 耳塞也小到令人惊叹，正面小到如食指甲盖大小，单",
+        "藍牙耳機在聲音表現上確實不如上面那些有線耳機來得優秀，但這並不是藍牙耳機主要的賣點。藍牙耳機比起這兩者耳機的優勢是它的便攜性。輕巧好攜帶的特性使",
+        "我们不能用传统有线耳机标准来评价真无线耳机，除了听，真无线耳机还可以扮演更多的角色，发挥更多的功能。也许上半年你还能说苹果的AirPods一枝独秀",
+        "用户评价里，“音质对得起价格”、“功能实在”是高频词。 无线耳机品牌口碑起底：我们分析了千条真实反馈，发现. 如果你需要长时间佩戴耳机，或者戴不惯",
+        "我用过的最棒的便宜耳机，好太多了，就是我的SoundPEATS Free2 classic无线耳机。性价比超高！现在亚马逊上大概21美元左右吧。通话质量可能不是最好的，但是听",
+        "真无线入耳式耳机样本优点与缺点 · good 仅重10.3克，颇轻便； · good 声称IP55防水等级； · good 售价较相宜。 · neutral 音质普通，低音略有不足。 · bad 隔音较差，未能有效阻隔",
+        "消費客群分析：引領市場的品牌在回饋中較少出現回購推薦，客群多提及使用壽命、重視CP和耳塞合適度，若價格低加上品質高，更容易獲消費者正面評價；而產品生命⻑",
+        "1.直接竞品：同类产品、相似功能、目标客户重叠（如“无线蓝牙耳机”与“降噪蓝牙耳机”）。 · 2.间接竞品：替代性产品（如“有线耳机”对“无线耳机”的替代威胁）。 · 3.",
+        "2026年真無線藍牙耳機推薦！依用途精選13款高評價藍牙耳機 · 1. Earfun Air Pro 4+ · 2. JLab Epic Lab Edition · 3. Sony WF-1000XM5 · 4. JLab JBuds ANC 3 · 5. Bose"
+      ],
+      "sources": [
+        {
+          "url": "https://www.shenzhenware.com/articles/14249",
+          "title": "盘点20 款2020 新发TWS 耳机的卖点，看耳畔产品创新的12 个趋势"
+        },
+        {
+          "url": "https://www.taiwanaccess.com.tw/blog/posts/2025-bluetooth-true-wireless-stereo-earbuds?srsltid=AfmBOooUJ1m1NHid3mj81-3fK_VB9Le2nXK2lxEf3qqHIhmtMr_DGAh9",
+          "title": "【2026真無線藍牙耳機推薦】熱門真無線耳機比較與選購指南｜降噪"
+        },
+        {
+          "url": "https://zhongce.sina.cn/article/view/31267/",
+          "title": "盘点2019年底值得推荐的十款TWS真无线耳机 - 新浪众测"
+        },
+        {
+          "url": "https://post.smzdm.com/p/aog3xo46",
+          "title": "无线耳机品牌口碑起底：我们分析了千条真实反馈，发现这些真干货"
+        },
+        {
+          "url": "https://www.reddit.com/r/Earbuds/comments/yhlhfv/help_me_choose_the_best_budget_wireless_earbuds/?tl=zh-hans",
+          "title": "帮我选个性价比最高的无线耳机！ : r/Earbuds - Reddit"
+        },
+        {
+          "url": "https://www.consumer.org.hk/sc/article/516-wireless-earphone",
+          "title": "测试10款真无线耳机4款音质欠佳- 消费者委员会"
+        },
+        {
+          "url": "https://www.17cross.org.tw/Km/km_more?id=469f8845355342798925ed50e04349a4",
+          "title": "《競品分析與關鍵字研究》消費性電子類  耳機（Earphones）|市場 ..."
+        },
+        {
+          "url": "https://m.cifnews.com/article/176764",
+          "title": "亚马逊竞品分析实用技巧 - 雨果跨境"
+        },
+        {
+          "url": "https://earphoneman.com/rec/best-sound-tws/",
+          "title": "2026年真無線藍牙耳機推薦！依用途精選13款高評價藍牙耳機"
+        }
+      ]
+    }
+  },
+  "created_at": "2026-02-10T14:15:41.767139",
+  "updated_at": "2026-02-10T14:15:51.496250",
+  "script_locked": true
+}

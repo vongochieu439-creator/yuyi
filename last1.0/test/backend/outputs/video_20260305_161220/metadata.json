@@ -1,0 +1,171 @@
+{
+  "title": "优化款",
+  "topic": "智能手表",
+  "product_name": "智能手表",
+  "product_detail": "智能手表",
+  "industry": "数码3C",
+  "target_duration": 60,
+  "total_duration": 60,
+  "shot_count": 8,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "split_screen_contrast",
+      "act_type": "main",
+      "visual_description": "Split screen. Left side: Medium shot of a tired person in bed, frantically searching for a ringing smartphone, accidentally knocking over a water glass. Messy hair, dark circles under eyes, frustrated expression. Right side: Medium shot of the same person, calmly waking up to a gentle vibration from a smartwatch on their wrist, smiling and stretching. Sunlight streams into the room. Strong contrast in mood and action. Studio lighting, cinematic feel.",
+      "narration": "你是不是每天早上，都被手机刺耳的闹钟吵醒，一睁眼就手忙脚乱地找手机，结果不是精神萎靡，就是把水杯碰倒？（左侧）你知道吗，其实你可以选择另一种完全不同的开始，告别这种失控的早晨！（右侧）",
+      "duration": 5,
+      "camera_movement": "quick_cuts_then_static",
+      "lighting": "natural_sunlight_and_harsh_artificial_contrast",
+      "mood": "frustration_vs_serenity",
+      "text_overlay": null,
+      "use_product_image": false
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "macro_close_up_on_watch_then_medium_shot",
+      "act_type": "main",
+      "visual_description": "Close-up of a smartwatch screen displaying detailed sleep data: sleep score, deep sleep duration, light sleep duration, and heart rate variability graph. Then, a medium shot of a person's face, slightly widened eyes, with an 'aha!' expression, looking at the watch as if understanding their body's secrets. Soft morning light, clean aesthetic.",
+      "narration": "你看，当我还在努力清醒的时候，抬起手腕，我的智能手表已经告诉我，昨晚我深睡了多久，浅睡又如何，心率波动图清清楚楚。原来我睡不好，并不是我的错，而是我根本不了解自己的睡眠状况啊！",
+      "duration": 7,
+      "camera_movement": "push_in_on_watch_then_static",
+      "lighting": "soft_morning_light",
+      "mood": "insightful_discovery",
+      "text_overlay": "睡眠得分: 85分 | 深睡: 2.5h | 心率波动",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "dynamic_action_shot_with_overlay",
+      "act_type": "main",
+      "visual_description": "Tracking shot of a person jogging in a park's tree-lined path. A smartwatch on their wrist displays real-time heart rate, pace, and distance. The person occasionally glances at the watch, adjusting their breathing and rhythm. Their expression shifts from slightly strained to energetic and confident. Lush green natural background, bright morning light.",
+      "narration": "以前晨跑就是随便跑跑，感觉累了就停。现在戴上它，我才知道原来我的心率区间、配速、已跑里程都在这儿清清楚楚。跟着它给的数据跑，感觉每一次呼吸都更有效率了，身体的每一步都在科学的掌控下，真的不一样！",
+      "duration": 8,
+      "camera_movement": "tracking_shot_then_close_up_on_watch",
+      "lighting": "bright_daylight",
+      "mood": "energetic_controlled",
+      "text_overlay": "心率: 145BPM | 配速: 5'30''/km | 里程: 3.2km",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "medium_shot_then_close_up_on_watch_and_face",
+      "act_type": "main",
+      "visual_description": "Office scene, medium shot. A person is focused on a computer screen with complex charts. Their smartphone is set aside. A smartwatch on their wrist vibrates subtly, displaying a 'Meeting Reminder' or 'Important Message Summary' in a close-up shot. The person quickly taps the watch to dismiss or reply. Later, the watch vibrates again, showing a 'Sedentary Reminder' with a small animated figure stretching. The person stands up, stretches, and smiles. Bright office lighting, professional setting.",
+      "narration": "你知道吗，以前工作的时候，手机一响我就得去看，特别容易打断思绪。现在重要的会议提醒或者信息摘要，直接在腕上就能看，还能快速处理，工作流根本不被打断。更厉害的是，它还会提醒我该起来动一动了，简直是我的贴身高效秘书，让工作效率直线飙升！",
+      "duration": 10,
+      "camera_movement": "static_then_quick_zoom_in",
+      "lighting": "bright_office_light",
+      "mood": "efficient_focused",
+      "text_overlay": "会议提醒: 14:00 | 久坐提醒 | 专注模式",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "medium_shot_with_wrist_focus",
+      "act_type": "main",
+      "visual_description": "Medium shot of a person in a coffee shop queue, holding a coffee cup. They effortlessly lift their wrist, and a close-up reveals a QR code on their smartwatch screen. The barista scans it successfully. The person takes their coffee with a casual, pleased smile and walks away. Bright, modern coffee shop environment.",
+      "narration": "中午买咖啡，手机在包里懒得掏？没事，抬手一扫，支付完成！告别手忙脚乱，这种丝滑的支付体验，让我感觉特别酷，轻松又便捷，谁用谁知道它有多方便！",
+      "duration": 5,
+      "camera_movement": "pan_to_wrist_then_static",
+      "lighting": "bright_cafe_lighting",
+      "mood": "convenient_effortless",
+      "text_overlay": "支付二维码",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "dynamic_action_shot_with_overlay_and_macro_on_watch",
+      "act_type": "main",
+      "visual_description": "Dynamic action shot in a gym. A person is performing high-intensity interval training on a treadmill or rowing machine, sweat dripping, conveying strength. A smartwatch on their wrist automatically detects the exercise mode, displaying real-time calorie burn and heart rate zones, with a specific 'Fat Burning Zone' alert. The person adjusts their intensity based on the watch's feedback, showing a determined and focused expression. Gym lighting, energetic atmosphere.",
+      "narration": "在健身房，每一滴汗水都不能白流！它能自动识别我的运动模式，实时告诉我心率有没有达到燃脂区间，消耗了多少卡路里。跟着它给的数据调整训练强度，感觉每一次训练都更有针对性，效率更高，真的太给力了，让我完全掌控自己的身体极限！",
+      "duration": 10,
+      "camera_movement": "tracking_shot_then_push_in_on_watch",
+      "lighting": "gym_lighting",
+      "mood": "intense_controlled",
+      "text_overlay": "燃脂心率区间 | 卡路里: 350Kcal | 运动模式: 跑步",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "close_up_on_face_and_watch_then_medium_shot",
+      "act_type": "main",
+      "visual_description": "Close-up of a person in bed before sleep. They gently touch their smartwatch screen, reviewing a comprehensive 'daily health report' showing activity, steps, calories burned, and heart rate curves. A satisfied and relaxed smile plays on their face. Then, a close-up of the watch screen as they set an alarm, displaying a 'Good Night' message. Soft, warm bedroom lighting.",
+      "narration": "忙碌了一天，睡前再看一眼今天的‘健康报告’，运动量、步数、消耗卡路里、心率曲线，所有数据一目了然。感觉一整天的努力都被它记录，这种被关怀、被理解的感觉，让我心里特别踏实。然后设置好明天的智能闹钟，安心入睡，期待明天又是一个元气满满的新开始！",
+      "duration": 8,
+      "camera_movement": "slow_pan_to_watch_then_static",
+      "lighting": "warm_bedroom_lighting",
+      "mood": "satisfied_peaceful",
+      "text_overlay": "今日健康报告 | 步数: 12,000 | 晚安",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 8,
+      "shot_type": "medium_shot_to_macro_on_watch_then_medium_shot",
+      "act_type": "main",
+      "visual_description": "Medium shot of a person smiling genuinely at the camera. They lift their wrist, revealing a close-up of a smartwatch screen displaying 'Battery: 85%'. The person gently caresses the watch, then looks back at the camera with a confident smile. The final shot freezes on a close-up of the smartwatch with overlaid purchase information. Bright, engaging lighting.",
+      "narration": "而且你知道吗？用了一整天，从早到晚，它居然还有这么多电量！真的超省心，完全没有电量焦虑。它不仅仅是块手表，更是我健康高效生活的忠实伴侣，懂我所需，伴我同行！如果你也想掌控自己的24小时，过上这种自律又精彩的生活，就点击下方小黄车，和我一起开启智能生活吧！",
+      "duration": 7,
+      "camera_movement": "zoom_in_on_watch_then_static",
+      "lighting": "bright_studio_lighting",
+      "mood": "trust_desire_action",
+      "text_overlay": "电量: 85% | 点击小黄车 掌控你的24小时",
+      "use_product_image": false
+    }
+  ],
+  "selling_points": [
+    "专业健康伴侣：精准监测心率、血氧、睡眠及运动数据，实时反馈助你科学管理日常健康，无论是运动、工作还是休息，都能提供可靠的数据支撑。",
+    "腕上高效助手：告别手机频繁打扰，重要信息、通知实时腕上提醒，助你专注工作学习，轻松管理时间，提升日常效率。",
+    "持久续航无忧：优化电池管理系统，一次充电可支持多日使用，让你摆脱频繁充电的烦恼，全天候享受智能生活不间断。"
+  ],
+  "quality_report": {
+    "hook_score": 6,
+    "info_density_score": 6,
+    "selling_point_coverage": [],
+    "fixes_applied": [
+      "Producer降级，未执行质审"
+    ]
+  },
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "bf93a8c7",
+    "script_id": 2,
+    "script_name": "优化款",
+    "risk_level": "moderate",
+    "competitor_summary": {
+      "winning_patterns": [
+        "功能深度演示与场景结合：通过情景剧或第一视角，详细展示心率、血氧、睡眠监测、运动追踪等功能在日常（运动、工作、休息）中的实际应用与数据反馈。",
+        "痛点解决型：直接针对用户对健康焦虑、信息遗漏、续航不足、运动数据不准等普遍痛点，提出智能手表作为解决方案，并展示解决效果。",
+        "生活方式融入：将智能手表定位为时尚配饰、健康伴侣或高效工具，融入不同人群（商务精英、运动达人、时尚青年）的多元生活场景，强调其提升生活品质的作用。"
+      ],
+      "hook_strategies": [
+        "直接提问挑战痛点：你还在为手机不离手而错过重要信息，或担心身体健康状况吗？",
+        "震撼数据或情景引入：你知道吗？每年有超过X万人因未能及时发现健康异常而后悔，而你只需要一个小改变！",
+        "场景代入制造悬念：下班后想甩开手机去跑步，却担心漏接重要电话或紧急消息？"
+      ],
+      "content_structures": [
+        "问题提出（痛点放大）-> 产品功能解决（逐一演示）-> 用户证言/效果对比 -> 价值总结 -> CTA（呼吁行动）",
+        "情景剧演绎（主人公遭遇困境）-> 智能手表介入（解决困境）-> 多角度功能展示（细节特写）-> 情感升华 -> CTA"
+      ],
+      "emotional_triggers": [
+        "健康焦虑与渴望：对身体健康的关注，对疾病预防和管理的需求，追求更健康的生活方式。",
+        "时间管理与效率提升：渴望更高效地工作、学习和生活，减少碎片化信息干扰，提升专注度。",
+        "时尚与个性表达：追求科技感与个性化的外观设计，将智能手表作为个人品味和生活态度的延伸。",
+        "安全感与连接感：在紧急情况下获得帮助，或保持与家人、朋友的紧密连接，减少孤独感。"
+      ]
+    },
+    "market_summary": {
+      "summary": "智能手表市场已进入成熟期，用户对健康监测、运动追踪、便捷通信的需求持续增长。核心痛点在于电池续航、数据准确性、隐私安全以及与现有生态系统的无缝集成，同时时尚外观也是重要考量。差异化和深挖用户场景是关键。",
+      "key_findings": [
+        "健康监测功能（心率、血氧、睡眠）是用户购买决策的核心驱动力，但对数据准确性和实用性要求极高。",
+        "续航焦虑是普遍痛点，长续航产品或快充技术能显著提升用户满意度。",
+        "年轻用户更看重时尚设计、个性化表盘、运动追踪与社交分享功能。",
+        "老年用户对紧急呼叫、跌倒检测等安全功能需求强烈，操作简便性是首要考量。",
+        "与主流手机系统（iOS/Android）的兼容性及生态集成度（如支付、智能家居）直接影响用户体验和粘性。"
+      ]
+    }
+  },
+  "created_at": "2026-03-05T16:12:20.687251",
+  "updated_at": "2026-03-05T16:12:20.687251"
+}

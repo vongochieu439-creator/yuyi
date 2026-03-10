@@ -1,0 +1,145 @@
+{
+  "title": "稳妥款 · 实验对比",
+  "topic": "美白面霜",
+  "product_name": "美白面霜",
+  "product_detail": "美白面霜",
+  "industry": "美妆护肤",
+  "target_duration": 30,
+  "total_duration": 30.0,
+  "shot_count": 6,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "act_type": "hook",
+      "visual_description": "Close-up of a model's face under harsh, uneven lighting, highlighting dullness and minor spots on one side. Camera slightly pushes in on the problematic area.",
+      "narration": "你的脸是不是总看起来暗沉无光，甚至肤色不均？",
+      "duration": 4.5,
+      "camera_movement": "push_in",
+      "text_overlay": "告别暗沉，从现在开始！",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_192649/preview/frame_001.png"
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "product",
+      "act_type": "main",
+      "visual_description": "Product hero shot: The whitening face cream jar sits elegantly on a marble surface, rotating slowly with a soft, warm glow emanating from behind. Focus on its luxurious texture.",
+      "narration": "别担心，这款美白面霜，就是你肌肤焕白的秘密武器！",
+      "duration": 5.0,
+      "camera_movement": "rotate",
+      "text_overlay": "美白面霜 | 焕白新生",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true,
+      "preview_image": "/videos/video_20260309_192649/preview/frame_002.png"
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "hands_on",
+      "act_type": "main",
+      "visual_description": "Close-up of elegant hands gently applying the white, creamy product onto one side of a model's clean face. Natural, bright lighting. Emphasize the smooth application.",
+      "narration": "轻柔涂抹，冰淇淋般质地瞬间融化，精华直达肌底，滋润不粘腻。",
+      "duration": 5.5,
+      "camera_movement": "static",
+      "text_overlay": "轻盈质地 深度滋养",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true,
+      "preview_image": "/videos/video_20260309_192649/preview/frame_003.png"
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "A macro close-up of the skin on the applied side, showing a subtle, immediate hydrated glow. Focus on improved texture and initial brightness. Soft, even lighting.",
+      "narration": "坚持使用，你会发现肌肤在悄悄变白，透出自然光泽，由内而外提亮。",
+      "duration": 5.0,
+      "camera_movement": "push_in",
+      "text_overlay": "持续焕白 细腻柔滑",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_192649/preview/frame_004.png"
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "result",
+      "act_type": "main",
+      "visual_description": "Split-screen before/after comparison. Left side: dull, uneven skin. Right side: visibly brighter, more even, radiant skin. Model smiles confidently. Bright, studio lighting.",
+      "narration": "看！左右脸的鲜明对比，美白效果肉眼可见，自信光芒即刻绽放！",
+      "duration": 5.0,
+      "camera_movement": "static",
+      "text_overlay": "Before VS After 真实对比",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_192649/preview/frame_005.png"
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "cta",
+      "act_type": "cta",
+      "visual_description": "Product array with the main jar prominently displayed, surrounded by fresh, dewy elements (e.g., water droplets, petals). A clear price tag and '限时优惠' overlay. Warm, inviting lighting.",
+      "narration": "别再犹豫！点击下方链接，限时优惠，马上拥有白皙透亮的梦幻美肌！",
+      "duration": 5.0,
+      "camera_movement": "pull_out",
+      "text_overlay": "限时抢购！立享优惠！",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_192649/preview/frame_006.png"
+    }
+  ],
+  "selling_points": [
+    "快速提亮肤色",
+    "淡化顽固斑点",
+    "均匀肤色，改善暗沉",
+    "质地轻盈，易吸收"
+  ],
+  "quality_report": {},
+  "generation_stage": "export",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "540c402c",
+    "script_id": 0,
+    "script_name": "稳妥款 · 实验对比",
+    "risk_level": "safe",
+    "competitor_summary": {
+      "winning_patterns": [
+        "实验对比: 左右脸对比/素颜vs上妆，视觉冲击力强",
+        "成分党: 用显微镜/实验室画面展示核心成分",
+        "反常识: '千万别这样涂面霜' 引发好奇"
+      ],
+      "hook_strategies": [
+        "制造视觉冲击，引发用户好奇心",
+        "通过专业知识，建立信任感",
+        "提出颠覆性观点，吸引用户停留"
+      ],
+      "content_structures": [
+        "痛点切入→产品亮相→上脸实测→效果对比→限时优惠",
+        "反常识开场→真相揭秘→产品介绍→使用教程→before/after"
+      ],
+      "emotional_triggers": [
+        "焦虑感(皮肤问题，如暗沉、斑点)",
+        "期待感(变美，拥有白皙透亮肌肤)",
+        "信任感(成分安全、实验证明)",
+        "紧迫感(限时优惠、不容错过)"
+      ]
+    },
+    "market_summary": {
+      "summary": "美白面霜市场竞争激烈，消费者普遍面临肤色暗沉、不均、斑点等困扰，渴望安全、高效且有科学依据的美白解决方案。用户对产品成分透明度和真实效果的关注度日益提升。",
+      "key_findings": [
+        "消费者追求快速且持久的美白效果",
+        "对产品成分的安全性及功效有较高要求",
+        "真实的用户反馈和实验对比是重要的购买驱动力"
+      ]
+    }
+  },
+  "created_at": "2026-03-09T19:26:49.685402",
+  "updated_at": "2026-03-09T19:43:48.309305",
+  "script_locked": true,
+  "video_url": "/videos/video_20260309_192649/final_video.mp4"
+}

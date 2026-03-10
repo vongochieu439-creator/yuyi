@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Debug Test</title>
+    <link rel="stylesheet" href="https://unpkg.com/element-plus/dist/index.css">
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+    <script src="https://unpkg.com/element-plus"></script>
+    <script src="https://unpkg.com/@element-plus/icons-vue"></script>
+</head>
+<body>
+<div id="app">
+    <h2>Debug Test</h2>
+    <p>ElementPlusIconsVue available: {{ iconsAvailable }}</p>
+    <p>Projects loaded: {{ projects.length }}</p>
+    <el-button type="primary" @click="load">Load Projects</el-button>
+    <div v-for="p in projects" :key="p.project_id" style="margin:5px; padding:10px; border:1px solid #ccc;">
+        {{ p.project_id }} - {{ p.title }} - stage: {{ p.generation_stage }}
+    </div>
+    <h3>Error log:</h3>
+    <pre>{{ errors.join('\n') }}</pre>
+</div>
+<script>
+const app = Vue.createApp({
+    data() {
+        return {
+            projects: [],
+            iconsAvailable: typeof ElementPlusIconsVue !== 'undefined',
+            errors: []
+        }
+    },
+    async mounted() {
+        try {
+            const r = await fetch('/api/projects/');
+            this.projects = await r.json();
+        } catch(e) {
+            this.errors.push('Load error: ' + e.message);
+        }
+    },
+    methods: {
+        async load() {
+            const r = await fetch('/api/projects/');
+            this.projects = await r.json();
+        }
+    }
+});
+app.use(ElementPlus);
+if (window.ElementPlusIconsVue) {
+    for (const [key, component] of Object.entries(ElementPlusIconsVue)) {
+        app.component(key, component);
+    }
+}
+app.mount('#app');
+</script>
+</body>
+</html>

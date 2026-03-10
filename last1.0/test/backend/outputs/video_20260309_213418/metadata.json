@@ -1,0 +1,142 @@
+{
+  "title": "稳妥款 · 食欲诱惑",
+  "topic": "蛋白粉",
+  "product_name": "蛋白粉",
+  "product_detail": "蛋白粉",
+  "industry": "食品保健",
+  "target_duration": 30,
+  "total_duration": 30.0,
+  "shot_count": 6,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "act_type": "hook",
+      "visual_description": "Slow-motion close-up of protein powder being scooped into a blender with fresh milk, steam gently rising, warm color grading. Focus on the smooth texture of the powder.",
+      "narration": "香醇浓郁的秘密，就在这一勺！让你的味蕾瞬间被唤醒。",
+      "duration": 5.0,
+      "camera_movement": "push_in",
+      "text_overlay": "蛋白质的美味升级！",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Close-up shot of the blender whirring, then the perfectly smooth, thick protein shake being poured into a stylish glass. Product packaging is visible in the soft-focus background.",
+      "narration": "精选优质乳清蛋白，每份都给你满满的活力，轻松补充所需营养。",
+      "duration": 5.0,
+      "camera_movement": "static",
+      "text_overlay": "优质蛋白，活力满满",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "A person (female, 20s-30s) takes a slow sip of the protein shake, her eyes widening slightly in genuine enjoyment, a happy and satisfied expression. Bright, natural lighting in a modern kitchen.",
+      "narration": "告别传统蛋白粉的寡淡，我们带来丝滑口感，每一口都是享受。",
+      "duration": 5.0,
+      "camera_movement": "slow_zoom_out",
+      "text_overlay": "顺滑口感，美味加倍",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_213418/preview/frame_003.png"
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "hands_on",
+      "act_type": "main",
+      "visual_description": "Overhead shot of hands preparing a protein smoothie bowl: adding fresh berries, sliced banana, crunchy granola, and a drizzle of honey onto the protein shake base. Product packaging subtly placed on the counter.",
+      "narration": "不止能冲饮，还能做成健康甜点！早餐、加餐，多种吃法随心搭。",
+      "duration": 5.0,
+      "camera_movement": "pan_left",
+      "text_overlay": "创意吃法，健康不重样",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Extreme close-up of the finished, colorful smoothie bowl. A spoon gently scoops a portion, showing the creamy texture. Focus on the vibrant, appealing presentation.",
+      "narration": "高蛋白低负担，满足你对美味与健康的双重追求，轻松开启活力一天。",
+      "duration": 5.0,
+      "camera_movement": "slight_tilt",
+      "text_overlay": "美味与健康，轻松拥有",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "cta",
+      "act_type": "cta",
+      "visual_description": "Product packaging prominently displayed on a clean white background, surrounded by fresh, healthy ingredients (e.g., milk carton, berries, nuts). An animated '立即购买' button appears at the bottom.",
+      "narration": "立即点击下方链接，解锁你的美味健康新搭档，让生活充满能量！",
+      "duration": 5.0,
+      "camera_movement": "static",
+      "text_overlay": "立即购买！",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    }
+  ],
+  "selling_points": [
+    "口感顺滑，美味可口",
+    "高蛋白，易吸收",
+    "多种创意吃法",
+    "健康低负担"
+  ],
+  "quality_report": {},
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "4dcce024",
+    "script_id": 0,
+    "script_name": "稳妥款 · 食欲诱惑",
+    "risk_level": "safe",
+    "competitor_summary": {
+      "winning_patterns": [
+        "高能量运动健身场景展示",
+        "快速简易的食谱或冲泡演示",
+        "对比前后效果或数据科普",
+        "KOL/健身达人推荐与背书"
+      ],
+      "hook_strategies": [
+        "直接提出用户痛点：'你还在为增肌/减脂烦恼吗？'",
+        "制造食欲诱惑：'一口入魂的健康饮品！'",
+        "数据或专家背书：'90%的健身者都不知道的秘密！'"
+      ],
+      "content_structures": [
+        "问题引入→解决方案→产品展示→效果呈现→行动号召",
+        "食欲画面→成分亮点→食用场景→口感描述→下单引导",
+        "场景痛点→产品融入→多场景应用→情感共鸣→购买转化"
+      ],
+      "emotional_triggers": [
+        "对健康与身材的渴望",
+        "追求便捷高效的生活方式",
+        "对美味与享受的追求",
+        "对专业与科学的信任"
+      ]
+    },
+    "market_summary": {
+      "summary": "蛋白粉市场正从专业健身领域扩展至大众健康消费，消费者对口味、溶解度、成分透明度及多功能性有更高要求。主要痛点包括传统蛋白粉口感不佳、冲调不便、担心成分安全或效果不明显。",
+      "key_findings": [
+        "年轻健身人群是核心受众，注重产品功效和口味创新。",
+        "健康意识提升，普通消费者开始关注日常蛋白质补充，追求易用性与健康生活结合。",
+        "产品便携性、易溶解性及多种口味选择是吸引用户的关键。",
+        "用户对产品成分的天然性、安全性及来源透明度日益重视。"
+      ]
+    }
+  },
+  "created_at": "2026-03-09T21:34:18.486278",
+  "updated_at": "2026-03-09T21:36:05.513647",
+  "script_locked": true
+}

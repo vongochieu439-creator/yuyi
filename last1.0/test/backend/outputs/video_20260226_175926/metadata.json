@@ -1,0 +1,235 @@
+{
+  "title": "美白面霜 - “我就是不白，怎么了？！”",
+  "topic": "美白面霜",
+  "target_duration": 60,
+  "total_duration": 60.5,
+  "shot_count": 12,
+  "viral_score": 0.0,
+  "generation_stage": "script",
+  "style": "marketing",
+  "selling_points": [
+    "卖点1：显著提亮肤色，淡化顽固斑点：通过真人实测对比，用户普遍反馈使用后肤色提亮显著，暗沉、肤色不均和斑点问题得到肉眼可见的改善。",
+    "卖点2：温和高效，敏感肌安心美白：融合前沿科技与明星美白成分，经皮肤科专家验证其温和性与安全性，即使是敏感肌肤也能安心使用，告别传统美白刺激顾虑。",
+    "卖点3：轻盈肤感，持久维稳透亮：质地轻盈易吸收，与日常护肤流程完美融合，无负担感，长期使用不仅改善现有问题，更能有效预防未来暗沉和斑点生成，让白皙透亮成为常态。"
+  ],
+  "shots": [
+    {
+      "id": 1,
+      "shot_type": "talking_head",
+      "act_type": "act1",
+      "visual_description": "A person with slightly tanned skin looks frustrated in a mirror, then a quick cut to them holding a mysterious, glowing jar of face cream, their expression shifting to wonder.",
+      "narration": "我天生就黑，后天还努力晒黑。直到我遇到了它，我的世界彻底变了！",
+      "rationale": "[悬念型开场] 制造强烈的反差和好奇，让观众想知道是什么“它”能让“天生黑”的人都改变，从而引出产品美白提亮的核心卖点。",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.3,
+      "use_product_image": false
+    },
+    {
+      "id": 2,
+      "shot_type": "scene",
+      "act_type": "act1",
+      "visual_description": "A close-up of a KOC's frustrated face, surrounded by an array of half-used, brightly colored cosmetic bottles and tubes, implying failed attempts at beauty. Her expression is a mix of exasperation and resignation, with slightly dim, warm ambient lighting emphasizing her natural skin tone. The camera slightly shakes to convey her inner turmoil.",
+      "narration": "那些年，我为了美白交的智商税，摞起来能绕地球一圈！",
+      "rationale": "放大KOC在美白路上的挣扎与失败，通过夸张的口吻制造共鸣，承接开场Hook，为后续产品出场做铺垫。",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.5,
+      "use_product_image": false
+    },
+    {
+      "id": 3,
+      "shot_type": "transition",
+      "act_type": "act1",
+      "visual_description": "The KOC throws her hands up in a gesture of humorous surrender, eyes rolling dramatically, then suddenly pauses. A quick, almost cartoonish 'lightbulb' animation appears briefly above her head as her eyes widen with a spark of curiosity, looking off-screen with a hopeful, slightly incredulous smile. Lighting shifts to a brighter, more optimistic tone.",
+      "narration": "直到我差点放弃，它突然就出现了，像道光！",
+      "rationale": "通过情绪的快速转折，幽默地表现发现新希望的瞬间，为产品登场制造悬念和期待感。",
+      "duration": 3.6666666666666665,
+      "emotion_score": 0.7,
+      "use_product_image": false
+    },
+    {
+      "id": 4,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "A beautifully composed close-up shot of the elegant white jar of the beauty cream, softly illuminated by studio lights that highlight its minimalist design and texture. The background is a clean, blurred pastel, making the product pop. A gentle, almost ethereal glow emanates from around the jar, hinting at its transformative power.",
+      "narration": "就是它，让我这个‘黑皮星人’也能看到曙光！",
+      "rationale": "首次清晰展示产品，通过KOC的自嘲式口吻，自然引出产品，为后续功能展示做铺垫。",
+      "duration": 5,
+      "emotion_score": 0.7,
+      "use_product_image": true
+    },
+    {
+      "id": 5,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "Close-up of the KOC's clean hands gently opening the cream jar. She uses a small spatula to scoop out a pearl-sized amount of the rich, smooth cream, then delicately applies it to the back of her hand, spreading it evenly. The cream appears lightweight, absorbing quickly into the skin, leaving a subtle, healthy sheen. Soft, natural daylight.",
+      "narration": "轻轻一抹，就像给皮肤喝水，一点不黏腻。",
+      "rationale": "通过视觉和口播展现产品轻盈、易吸收的肤感，暗示其温和性，自然融入日常护肤流程。",
+      "duration": 5,
+      "emotion_score": 0.76,
+      "use_product_image": true
+    },
+    {
+      "id": 6,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "A dynamic split-screen showing the KOC's face. On the left, her complexion appears slightly dull and uneven (the 'before'). On the right, the same KOC, but her skin is subtly brighter, more radiant, and appears healthier, with a soft, even glow. Her expression is one of pleasant surprise. Consistent, flattering natural light on both sides.",
+      "narration": "才没几天，朋友就问我，是不是偷偷打了光？",
+      "rationale": "通过对比和KOC的惊喜反应，初步展现产品显著提亮肤色的效果，制造悬念和好奇心。",
+      "duration": 5,
+      "emotion_score": 0.8200000000000001,
+      "use_product_image": false
+    },
+    {
+      "id": 7,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "The product jar is elegantly placed on a clean, minimalist vanity table, surrounded by a few personal items like a small plant or a simple candle, suggesting a peaceful, daily ritual. The KOC's hand reaches in to pick it up with a gentle, confident gesture. Soft, diffused morning light illuminates the scene.",
+      "narration": "现在每天最期待的，就是用它好好宠爱自己。",
+      "rationale": "强化产品在KOC日常护肤中的重要性，营造愉悦的使用体验，加深产品与生活方式的连接。",
+      "duration": 5.5,
+      "emotion_score": 0.88,
+      "use_product_image": true
+    },
+    {
+      "id": 8,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "A close-up of the KOC's face as she gently massages the cream onto specific areas like her cheekbones and forehead, where dark spots might typically appear. Her fingers move in soft, circular motions, and her skin looks calm and nourished, without any redness or irritation. The cream blends seamlessly. Warm, inviting light.",
+      "narration": "就连那些顽固的小斑点，也变得没那么嚣张了。",
+      "rationale": "聚焦产品对顽固斑点的作用，同时通过 KOC 温柔的涂抹动作，再次强调其温和高效性。",
+      "duration": 4.5,
+      "emotion_score": 0.8800000000000001,
+      "use_product_image": true
+    },
+    {
+      "id": 9,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "The KOC smiles confidently directly into the camera, her face visibly brighter, even-toned, and glowing with a healthy radiance. Her skin looks smooth, plump, and free of visible dark spots or dullness. The lighting is bright and flattering, enhancing her transformed complexion, exuding joy and self-assurance. She might do a subtle hair flip.",
+      "narration": "谁说黑皮不能白？我现在走到哪都是焦点！",
+      "rationale": "最终呈现产品显著的提亮肤色和淡斑效果，展示KOC自信的转变，完美呼应创意方向和核心卖点。",
+      "duration": 5.5,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 10,
+      "shot_type": "talking_head",
+      "act_type": "act3",
+      "visual_description": "A confident woman, glowing with newfound radiance, looks directly into the camera. Her skin is visibly brightened and even-toned, a stark contrast to her initial description. She smiles genuinely, perhaps gently touching her cheek, conveying softness and satisfaction with her transformation. Her eyes sparkle, reflecting her inner confidence. The background is soft and inviting, allowing her luminous complexion to be the focal point.",
+      "narration": "现在你相信了吗？我真的不是以前那个‘黑皮星人’了，我的世界因它而彻底点亮！",
+      "rationale": "直接回应开场Hook的“我天生就黑” by 展现肤色转变，以及“我的世界彻底变了” by 强调世界被点亮。使用“黑皮星人”接住正文口播情绪，并强化前后对比。",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 11,
+      "shot_type": "effect",
+      "act_type": "act3",
+      "visual_description": "A dynamic visual effect envelops the woman's face. A soft, ethereal glow emanates from her skin, subtly transitioning from a less radiant state to an intensely luminous and even complexion. This visual metaphorically represents her 'world changing' and 'lighting up'. The effect is elegant and sophisticated, emphasizing healthy, vibrant skin rather than an artificial glow, showcasing the product's transformative power.",
+      "narration": "别再纠结天生黑白了，后天也能活出高光！现在，轮到你来体验这种‘世界变亮’的惊喜了。",
+      "rationale": "通过“天生黑白”与开场Hook的“我天生就黑”形成呼应，并给出解决方案。口播中的“活出高光”和“世界变亮”直接呼应了Hook中“世界彻底变了”的悬念，并自然地引导观众产生兴趣。",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.95,
+      "use_product_image": false
+    },
+    {
+      "id": 12,
+      "shot_type": "transition",
+      "act_type": "act3",
+      "visual_description": "A smooth, elegant transition reveals the product bottle in a pristine, aspirational setting. The lighting is soft but highlights the product's premium feel. The camera slowly zooms in on the bottle, perhaps with a subtle shimmer effect on its surface, as if holding the secret to radiance. On-screen text or a subtle graphic indicates 'Learn More' or 'Shop Now' without being overly pushy.",
+      "narration": "想知道我的秘密？点击下方链接，让它也成为你改变‘肤’生的开始！",
+      "rationale": "揭示开场Hook中“它”的身份，解答悬念。通过“秘密”增加吸引力，并以“改变‘肤’生”巧妙呼应“我的世界彻底变了”的承诺，同时提供自然、非强制性的行动号召。",
+      "duration": 3.6666666666666665,
+      "emotion_score": 1.0,
+      "use_product_image": false
+    }
+  ],
+  "product_images": [],
+  "keyframes": [],
+  "quality_check": {
+    "word_duration_match": false,
+    "selling_point_coverage": [],
+    "missing_selling_points": [
+      "卖点1：显著提亮肤色，淡化顽固斑点：通过真人实测对比，用户普遍反馈使用后肤色提亮显著，暗沉、肤色不均和斑点问题得到肉眼可见的改善。",
+      "卖点2：温和高效，敏感肌安心美白：融合前沿科技与明星美白成分，经皮肤科专家验证其温和性与安全性，即使是敏感肌肤也能安心使用，告别传统美白刺激顾虑。",
+      "卖点3：轻盈肤感，持久维稳透亮：质地轻盈易吸收，与日常护肤流程完美融合，无负担感，长期使用不仅改善现有问题，更能有效预防未来暗沉和斑点生成，让白皙透亮成为常态。"
+    ],
+    "rhythm_score": 0.0,
+    "issues": [
+      "镜头#1口播偏长(31字/4.916666666666667秒)",
+      "镜头#3口播偏长(20字/3.6666666666666665秒)",
+      "镜头#10口播偏长(37字/4.916666666666667秒)",
+      "镜头#11口播偏长(41字/6.416666666666667秒)",
+      "镜头#12口播偏长(31字/3.6666666666666665秒)",
+      "总口播偏长(305字/60.49999999999999秒)，建议精简",
+      "缺失卖点: 卖点1：显著提亮肤色，淡化顽固斑点：通过真人实测对比，用户普遍反馈使用后肤色提亮显著，暗沉、肤色不均和斑点问题得到肉眼可见的改善。, 卖点2：温和高效，敏感肌安心美白：融合前沿科技与明星美白成分，经皮肤科专家验证其温和性与安全性，即使是敏感肌肤也能安心使用，告别传统美白刺激顾虑。, 卖点3：轻盈肤感，持久维稳透亮：质地轻盈易吸收，与日常护肤流程完美融合，无负担感，长期使用不仅改善现有问题，更能有效预防未来暗沉和斑点生成，让白皙透亮成为常态。"
+    ],
+    "auto_fixes": [
+      "自动修复失败，请手动检查卖点覆盖"
+    ]
+  },
+  "smart_create": {
+    "session_id": "9f55cc51",
+    "direction": {
+      "direction_id": 3,
+      "name": "“我就是不白，怎么了？！”",
+      "risk_level": "creative",
+      "description": "采用自嘲示弱的手法，先放大自己（或KOC）在美白路上的失败和挣扎，制造共鸣，然后幽默地展示产品如何轻松解决问题，形成反差萌。",
+      "hook": "姐妹们，谁懂那种“用尽万千美白产品，结果还是黄黑皮”的绝望？我就是那个大冤种！",
+      "structure_preview": [
+        "开场: KOC以夸张、自嘲的语气抱怨自己多年美白失败的经历，展现各种无效尝试后的“摆烂”状态，营造“我就是不白，怎么了”的豁达（实则无奈）。",
+        "主体: 突然话锋一转，或者被朋友/家人“吐槽”后，不情愿地尝试了这款美白面霜，结果意外发现效果惊人，从“摆烂”到“真香”的反转过程，用幽默方式展示产品功效。",
+        "结尾: 带着惊喜和一丝“打脸”的表情，推荐这款面霜，并夸张表示“早知道有它，我何必走那么多弯路！”引导用户体验，轻松变白不是梦。"
+      ],
+      "creative_techniques": [
+        "自嘲示弱",
+        "极端放大",
+        "反转剧情",
+        "幽默口吻"
+      ]
+    },
+    "selected_hook": {
+      "hook_id": 1,
+      "style": "悬念型",
+      "hook_text": "我天生就黑，后天还努力晒黑。直到我遇到了它，我的世界彻底变了！",
+      "visual_hint": "A person with slightly tanned skin looks frustrated in a mirror, then a quick cut to them holding a mysterious, glowing jar of face cream, their expression shifting to wonder.",
+      "rationale": "制造强烈的反差和好奇，让观众想知道是什么“它”能让“天生黑”的人都改变，从而引出产品美白提亮的核心卖点。"
+    },
+    "competitor_summary": {
+      "winning_patterns": [
+        "真人实测对比，展示使用前后肤色提亮、淡化斑点的显著效果。",
+        "权威专家（如皮肤科医生、美妆博主）进行成分科普，深入讲解美白原理和安全性。",
+        "日常护肤流程融入，强调产品易用性、肤感体验以及与其他护肤品的搭配。",
+        "分享用户真实反馈和使用心得，建立社群信任感。"
+      ],
+      "hook_strategies": [
+        "直接展示惊人美白效果，引发好奇和羡慕。",
+        "提出用户对肤色暗沉、不均或斑点的痛点，引发共鸣。",
+        "通过疑问句或挑战，激发用户对美白知识或产品功效的探索欲。",
+        "权威背书或专业人士推荐，快速建立信任。"
+      ],
+      "content_structures": [
+        "痛点提出 → 解决方案（产品）→ 核心成分解析/科学原理 → 真人实测效果展示 → 使用方法及注意事项 → 购买引导。",
+        "美白误区纠正 → 正确美白观念建立 → 产品优势（温和、高效）→ 真实用户反馈/故事 → 长期使用益处。"
+      ],
+      "emotional_triggers": [
+        "渴望：对拥有白皙透亮肌肤的强烈向往和因此带来的自信提升。",
+        "焦虑：对肤色暗沉、斑点、不均等肌肤问题的担忧和困扰。",
+        "信任：对科学成分、专业背书和真实可见效果的信赖感。",
+        "惊喜：发现产品带来意想不到的显著改善。"
+      ]
+    },
+    "market_summary": {
+      "summary": "美白面霜市场竞争激烈，消费者追求安全、高效、温和的美白产品，对成分和科技含量要求高。暗沉、肤色不均和斑点是核心痛点，同时关注产品的肤感和长期维稳效果。",
+      "key_findings": [
+        "“成分党”崛起，消费者对烟酰胺、VC、熊果苷等美白成分有深入了解和明确偏好。",
+        "消费者对美白产品的安全性日益重视，天然、温和、敏感肌适用成为重要考量因素。",
+        "美白功效不再单一，用户期待产品能同时兼顾保湿、修护、抗氧化等综合护肤需求。",
+        "对“光速白”持怀疑态度，更看重温和、循序渐进且不易反弹的改善效果。"
+      ]
+    }
+  },
+  "created_at": "2026-02-26T17:59:26.789442"
+}

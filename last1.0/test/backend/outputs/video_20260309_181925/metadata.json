@@ -1,0 +1,144 @@
+{
+  "title": "优化款 · 健康科普",
+  "topic": "蛋白粉",
+  "product_name": "蛋白粉",
+  "product_detail": "蛋白粉",
+  "industry": "食品保健",
+  "target_duration": 30,
+  "total_duration": 30.0,
+  "shot_count": 6,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "act_type": "hook",
+      "visual_description": "Animated infographic showing common signs of protein deficiency (e.g., 'Fatigue', 'Slow Recovery') with a slightly concerned facial expression icon. Muted color palette transitions to a question mark. Gentle zoom in.",
+      "narration": "感觉疲惫、运动恢复慢？你可能忽视了蛋白质对身体的关键作用！",
+      "duration": 5.0,
+      "camera_movement": "zoom_in",
+      "text_overlay": "蛋白质缺乏？",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_181925/preview/frame_001.png"
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "wide",
+      "act_type": "main",
+      "visual_description": "Clean, scientific graphic illustrating how protein contributes to muscle repair, immunity, and overall vitality within the body. Bright, informative aesthetic with smooth transitions between diagrams. Static shot with animated overlays.",
+      "narration": "蛋白质是生命的基础，它支撑着肌肉、骨骼和免疫系统，缺它不可！",
+      "duration": 5.0,
+      "camera_movement": "static",
+      "text_overlay": "生命基石：蛋白质",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_181925/preview/frame_002.png"
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "product",
+      "act_type": "main",
+      "visual_description": "Smooth transition to the protein powder product, highlighting its 'High Protein' and 'Pure Ingredients' claims on the label. Product sits on a clean, minimalist background with soft, trustworthy lighting. Dolly in on product.",
+      "narration": "别担心！我们的优质蛋白粉，为你提供每日所需的全面营养支持。",
+      "duration": 5.0,
+      "camera_movement": "dolly_in",
+      "text_overlay": "高效蛋白解决方案",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true,
+      "preview_image": "/videos/video_20260309_181925/preview/frame_003.png"
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Macro shot of the fine protein powder texture, followed by an overlay graphic detailing key ingredients and a balanced amino acid profile. Professional, scientific, and clean visual style. Pan across ingredients list.",
+      "narration": "精选高纯度乳清蛋白，易消化易吸收，科学配方助你高效补充。",
+      "duration": 5.0,
+      "camera_movement": "pan_right",
+      "text_overlay": "高纯度，易吸收",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_181925/preview/frame_004.png"
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "hands_on",
+      "act_type": "main",
+      "visual_description": "A person (dressed in lab coat or smart casual, exuding expertise) preparing a protein shake, explaining its benefits concisely to the camera. Well-lit, professional studio setting. Medium shot.",
+      "narration": "无论是增肌、减脂还是日常保健，它都是你理想的健康伙伴。",
+      "duration": 5.0,
+      "camera_movement": "static",
+      "text_overlay": "多重功效，全面健康",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true,
+      "preview_image": "/videos/video_20260309_181925/preview/frame_005.png"
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "cta",
+      "act_type": "cta",
+      "visual_description": "Product packaging displayed prominently with a call to action. Overlay text: '专家推荐', '品质保证'. Confident, direct camera angle. A hand reaches in to tap a 'Shop Now' button.",
+      "narration": "投资健康，从优质蛋白开始！点击链接，了解更多科学补给方案！",
+      "duration": 5.0,
+      "camera_movement": "tilt_down",
+      "text_overlay": "专家推荐，立即购买",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false,
+      "preview_image": "/videos/video_20260309_181925/preview/frame_006.png"
+    }
+  ],
+  "selling_points": [
+    "科学配方，高纯度蛋白",
+    "易消化吸收，无负担",
+    "支持肌肉生长与修复",
+    "增强免疫力，提升活力"
+  ],
+  "quality_report": {},
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "934f5335",
+    "script_id": 1,
+    "script_name": "优化款 · 健康科普",
+    "risk_level": "moderate",
+    "competitor_summary": {
+      "winning_patterns": [
+        "食欲画面: 慢动作浇汁/切开特写，触发食欲",
+        "健康焦虑: '你每天吃的XX可能在伤害你'",
+        "数据震撼: '含有XX倍维生素C'等数据冲击"
+      ],
+      "hook_strategies": [
+        "高转化开场策略1：营造食欲诱惑，直击感官",
+        "高转化开场策略2：提出健康痛点，引发共鸣",
+        "高转化开场策略3：展示数据优势，建立信任"
+      ],
+      "content_structures": [
+        "食欲画面→成分亮点→食用场景→口感描述→下单引导",
+        "健康问题→解决方案→产品展示→食用方式→效果背书"
+      ],
+      "emotional_triggers": [
+        "食欲冲动",
+        "健康焦虑",
+        "便利感",
+        "性价比"
+      ]
+    },
+    "market_summary": {
+      "summary": "蛋白粉市场持续增长，消费者关注产品口感、溶解度、成分纯净度及多场景适用性。主要痛点包括传统蛋白粉口感不佳、冲调不便及对人工添加剂的担忧。",
+      "key_findings": [
+        "用户追求高效便捷的营养补充方式",
+        "对产品口味和溶解性有较高要求",
+        "关注产品对健身、塑形和日常健康的综合益处"
+      ]
+    }
+  },
+  "created_at": "2026-03-09T18:19:25.599277",
+  "updated_at": "2026-03-09T18:25:51.739685",
+  "script_locked": true
+}

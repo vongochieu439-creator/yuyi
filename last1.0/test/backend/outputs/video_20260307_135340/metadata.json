@@ -1,0 +1,125 @@
+{
+  "title": "稳妥款 · 实验对比",
+  "topic": "玻尿酸保湿面霜",
+  "product_name": "玻尿酸保湿面霜",
+  "product_detail": "三重玻尿酸分子，深层补水，不油腻",
+  "industry": "美妆护肤",
+  "target_duration": 60,
+  "total_duration": 60.0,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "visual_description": "Close-up macro shot of dry, flaky skin on a cheek, with uneven makeup. Dramatic, slightly desaturated lighting to emphasize the problem.",
+      "narration": "你的肌肤正在发出求救信号！干燥、细纹、卡粉，正在悄悄偷走你的颜值！",
+      "rationale": "修改文案以增加冲击力，更直接地指出肌肤问题，引发用户共鸣和紧迫感。"
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "product",
+      "visual_description": "Split screen: left side shows the dry skin from previous shot, right side features the '玻尿酸保湿面霜' prominently, glowing softly. A subtle animation of water droplets hydrating the skin on the right.",
+      "narration": "拯救沙漠肌，就靠它！三重玻尿酸，让肌肤喝饱水！",
+      "rationale": "介绍产品核心卖点和功效。"
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "demo",
+      "visual_description": "Close-up of model's hand applying the cream to the left half of the face. Focus on the smooth, effortless application and the cream quickly disappearing into the skin.",
+      "narration": "看！只涂半边脸，清爽质地瞬间吸收，告别油腻！",
+      "rationale": "展示产品质地和吸收速度，强调清爽不油腻。"
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "close_up",
+      "visual_description": "Extreme close-up macro shot of the moisturized left side of the face. Skin appears plump, dewy, and smooth. Fine lines are visibly diminished.",
+      "narration": "拒绝假润！深层补水，肌肤Q弹饱满，细纹瞬间隐形！",
+      "rationale": "强调深层补水效果，展现肌肤即时改善，如Q弹和细纹隐形。"
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "result",
+      "visual_description": "Split-screen comparison: left half of the face (before, dry and dull) vs. right half (after, hydrated and radiant). Clear visual contrast.",
+      "narration": "左右脸对比惊人！一边干枯，一边水润透亮！",
+      "rationale": "通过左右脸对比，直观展示产品使用前后的巨大差异。"
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "medium",
+      "visual_description": "Medium shot of the model smiling confidently, full face radiant and hydrated. Soft, natural lighting. Perhaps a subtle 'glow' effect.",
+      "narration": "持久水润不脱妆，素颜也自信，你也能拥有水光肌！",
+      "rationale": "展示产品带来的长期效果和自信状态，激发用户对美好肌肤的向往。"
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "cta",
+      "visual_description": "Product array with price tag overlay and a QR code/link. Warm, inviting lighting. Text overlay: '限时优惠' (Limited Time Offer).",
+      "narration": "限时福利！立即下单，告别干燥，开启你的水润奇迹！",
+      "rationale": "创造紧迫感，引导用户立即行动购买产品。"
+    }
+  ],
+  "selling_points": [
+    "三重玻尿酸深层补水",
+    "清爽不油腻，改善干燥细纹",
+    "持久保湿，提升妆容服帖度"
+  ],
+  "quality_report": {},
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "f79d4d1a",
+    "script_id": 0,
+    "script_name": "稳妥款 · 实验对比",
+    "risk_level": "safe",
+    "competitor_summary": {
+      "winning_patterns": [
+        "实验对比: 左右脸对比/素颜vs上妆，视觉冲击力强",
+        "成分党: 用显微镜/实验室画面展示核心成分",
+        "反常识: '千万别这样涂面霜' 引发好奇"
+      ],
+      "hook_strategies": [
+        "焦虑感(皮肤问题)切入，引发共鸣",
+        "提出反常识观点，激发好奇心",
+        "直观展示产品效果，制造视觉冲击"
+      ],
+      "content_structures": [
+        "痛点切入→产品亮相→上脸实测→效果对比→限时优惠",
+        "反常识开场→真相揭秘→产品介绍→使用教程→before/after"
+      ],
+      "emotional_triggers": [
+        "焦虑感(皮肤问题)",
+        "期待感(变美)",
+        "信任感(成分/实验)",
+        "紧迫感(限时)"
+      ]
+    },
+    "market_summary": {
+      "summary": "消费者普遍面临皮肤干燥、细纹、底妆不服帖等问题，尤其是在空调环境或换季时。市场对高效、深层补水且肤感清爽不油腻的面霜需求旺盛。",
+      "key_findings": [
+        "用户对产品成分和科技原理的了解需求日益增长。",
+        "直观可见的补水前后对比效果最能打动消费者。",
+        "清爽不油腻的肤感是用户选择保湿面霜的重要考量。"
+      ]
+    }
+  },
+  "created_at": "2026-03-07T13:53:40.039547",
+  "updated_at": "2026-03-07T13:53:50.129397",
+  "quality_check": {
+    "word_duration_match": false,
+    "selling_point_coverage": [
+      "三重玻尿酸深层补水",
+      "清爽不油腻，改善干燥细纹"
+    ],
+    "missing_selling_points": [
+      "持久保湿，提升妆容服帖度"
+    ],
+    "rhythm_score": 0.0,
+    "issues": [
+      "镜头#?口播偏长(33字/5秒)",
+      "总口播偏长(169字/35秒)，建议精简",
+      "缺失卖点: 持久保湿，提升妆容服帖度"
+    ],
+    "auto_fixes": []
+  },
+  "script_locked": true
+}

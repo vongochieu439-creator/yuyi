@@ -1,0 +1,170 @@
+{
+  "title": "真实蜕变见证",
+  "topic": "美白面霜",
+  "product_name": "美白面霜",
+  "product_detail": "美白面霜",
+  "industry": "美妆护肤",
+  "target_duration": 60,
+  "total_duration": 45,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "Medium shot of a 25-year-old urban white-collar woman, the influencer, looking at her bare face in a bathroom mirror. Her skin shows mild dullness and faint post-acne marks. She has a slightly frustrated and tired expression. Soft morning light, handheld camera, natural style, focusing on her relatable morning struggle.",
+      "narration": "每天早上照镜子，看到这张脸，就感觉气色差到不行。熬夜暗沉、肤色不均，心情都down到谷底了，姐妹们有没有同感？",
+      "duration": 5,
+      "camera_movement": "handheld",
+      "lighting": "soft_morning_light",
+      "mood": "relatable_frustration",
+      "text_overlay": null,
+      "use_product_image": false
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Close-up of the young woman's face, her fingers gently touching her cheek. Her brow is deeply furrowed, and her eyes convey a mix of helplessness and anxiety. At the 5-second mark of this frame, there's a quick, almost subliminal flash of the whitening face cream jar, followed by a sharp 'ding' sound. The shot then returns to a zoomed-in close-up on her face, highlighting skin dullness and faint marks. Zoom-in camera movement, dramatic lighting to emphasize the problem.",
+      "narration": "你懂那种感觉吗？明明才二十几岁，却总被说看起来很疲惫、没精神。厚厚的粉底都遮不住那种暗沉，真的好崩溃！",
+      "duration": 6,
+      "camera_movement": "zoom_in",
+      "lighting": "soft_directional",
+      "mood": "anxious_helplessness",
+      "text_overlay": null,
+      "use_product_image": true
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "product_showcase",
+      "act_type": "main",
+      "visual_description": "A close-up of the influencer's face, her eyes suddenly brighten, showing a surprised and relieved smile. She carefully pulls out a whitening face cream jar from a chic makeup bag. The product design is minimalist and high-quality. The camera focuses on the product, emphasizing its premium aesthetic with a shallow depth of field, blurring the background. Product showcase shot, zoom-in.",
+      "narration": "但自从我找到这个宝藏面霜，我的素颜焦虑就彻底缓解了！它长得低调又高级，效果真的让我惊艳到！",
+      "duration": 6,
+      "camera_movement": "zoom_in",
+      "lighting": "studio_soft",
+      "mood": "curiosity_hope",
+      "text_overlay": null,
+      "use_product_image": true
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "pov",
+      "act_type": "main",
+      "visual_description": "Point-of-view shot of the influencer applying the face cream evenly on her face, gently massaging it in circular motions with her fingertips, highlighting the cream's smooth texture. A quick cut transitions to a dramatic before-and-after comparison: 'Before' displays a sallow complexion with visible dark spots under slightly dimmer lighting, while 'After' shows significantly brighter, more even skin with faded spots under bright, natural light. Text overlay: '28 Days Later, Skin Reborn' in a prominent font. Tracking camera.",
+      "narration": "我当时就是抱着试试看的心态，结果用了一段时间，你看看！我这熬夜的黄气和晒出来的斑点，真的肉眼可见地变淡了，整个脸都透亮了起来，就像换了张脸一样！",
+      "duration": 7,
+      "camera_movement": "tracking",
+      "lighting": "bright_natural",
+      "mood": "surprise_delight",
+      "text_overlay": "使用28天，肌肤焕然新生",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "Medium shot of the influencer confidently holding the product, presenting it to the camera with a professional and sincere expression. On-screen text overlays appear to the side, clearly listing key ingredients like 'Niacinamide,' 'Vitamin C Derivative,' and 'Hyaluronic Acid,' accompanied by small, simple scientific explanation icons (e.g., chemical structures, water-locking molecules) to enhance professionalism. The background is a clean laboratory or vanity setting. Static camera.",
+      "narration": "它可不是那种乱七八糟、刺激皮肤的猛药，而是大牌护肤品才用的科学配方。你看，烟酰胺、VC衍生物这些明星成分，都是实打实给你把黑色素‘劝退’的！用着超安心！",
+      "duration": 8,
+      "camera_movement": "static",
+      "lighting": "clean_studio",
+      "mood": "trust_education",
+      "text_overlay": "核心成分：烟酰胺、VC衍生物、玻尿酸",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "text_overlay",
+      "act_type": "main",
+      "visual_description": "Rapid montage of authentic user review screenshots flashing across the screen (e.g., 'Late-night savior, glowing skin!', 'Spots really faded, no more dryness!'), with clear, aesthetically pleasing typography. Interspersed with the influencer nodding in agreement to enhance credibility. Subsequently, a simple, visually appealing graphic displaying skin test data appears (e.g., skin brightening index +20%, hydration +15%), with clear data visualization. Text overlay, static camera.",
+      "narration": "而且它美白的同时还兼顾保湿修护，我敏感肌用着都超安心，洗完脸之后水润润的，很多姐妹用了都说，它就是熬夜后的‘急救神器’！",
+      "duration": 7,
+      "camera_movement": "static",
+      "lighting": "bright_even",
+      "mood": "trust_validation",
+      "text_overlay": "用户好评如潮！敏感肌可用！",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "product_showcase",
+      "act_type": "main",
+      "visual_description": "Close-up of the influencer. She confidently holds the product in one hand and gestures towards the bottom-left corner of the screen where a shopping cart icon is. A genuine and persuasive smile is on her face. A prominent text overlay at the bottom reads: 'Limited Time Offer, Buy Now,' accompanied by a countdown timer to create urgency and scarcity. Bright lighting, with the product subtly gleaming in her hand. Product showcase, zoom-in.",
+      "narration": "真的姐妹们，想拥有那种自带打光板的透亮素颜，就别再犹豫了！今天直播间还有超级福利，点击左下角小黄车，和我一起白成一道光！",
+      "duration": 6,
+      "camera_movement": "zoom_in",
+      "lighting": "dynamic_commercial",
+      "mood": "urgency_excitement",
+      "text_overlay": "限时特惠，立即抢购！",
+      "use_product_image": true
+    }
+  ],
+  "selling_points": [
+    "显著提亮肤色，淡化斑点：通过素人或KOL长期使用前后对比，真实展现肤色提亮与淡斑效果，满足消费者对透亮无瑕肌肤的憧憬。",
+    "成分透明，配方安全有科学依据：针对消费者对产品安全性及虚假宣传的普遍担忧，由皮肤科医生或专业美妆博主进行成分科普与推荐，提供专业背书。",
+    "美白同时兼顾保湿修护，持久改善肤质：市场洞察显示消费者青睐能改善暗沉、斑点，同时兼顾保湿修护的产品，确保美白效果持久并提升整体肤质，告别熬夜暗沉、晒后损伤。"
+  ],
+  "quality_report": {
+    "hook_score": 9,
+    "info_density_score": 9,
+    "selling_point_coverage": [
+      "痛点共鸣 (Frame 1, 2): 熬夜暗沉、肤色不均、疲惫感",
+      "效果验证 (Frame 4): 肉眼可见的提亮、淡斑效果，28天焕肤",
+      "成分透明/科学背书 (Frame 5): 烟酰胺、VC衍生物等明星成分，安全配方",
+      "温和修护 (Frame 6): 敏感肌可用，保湿修护，不刺激",
+      "用户证言/社会认同 (Frame 6): 真实用户评价，数据支撑"
+    ],
+    "fixes_applied": [
+      "修改了所有帧的口播，使其更符合真人博主说话的口语化风格，去除AI腔。",
+      "调整了所有帧的duration，以匹配口播字数，确保语速自然，避免过快或过慢，总时长从32秒增加到45秒，更适合抖音转化视频。",
+      "补充了Frame 1、2、3、4、5、6、7的visual_description细节，使其更具体、生动，包含道具、动作、表情和光线描述。",
+      "Frame 2加入了产品闪现特写及音效，强化了Director策略中的'pattern_breaks'和'scroll_stop_trigger'。",
+      "Frame 4和Frame 6强化了视觉对比和数据展示，增强了'极致对比/实验'的创意质量。",
+      "确保了CTA的明确性和紧迫感，并与视觉元素（小黄车、倒计时）完美结合。"
+    ]
+  },
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "629b5a3b",
+    "script_id": 1,
+    "script_name": "真实蜕变见证",
+    "risk_level": "safe",
+    "competitor_summary": {
+      "winning_patterns": [
+        "素人或KOL长期使用前后对比，展现肤色提亮与淡斑效果",
+        "皮肤科医生或专业美妆博主进行成分科普与产品推荐",
+        "结合日常护肤流程，分享美白面霜的搭配使用技巧",
+        "针对特定肌肤问题（如熬夜暗沉、晒后修复）进行场景化演示"
+      ],
+      "hook_strategies": [
+        "直接点出用户痛点：'你的脸是不是总比脖子暗一个色号？'",
+        "制造悬念或挑战：'挑战28天，看我的黄黑皮如何逆袭成冷白皮！'",
+        "权威背书：'皮肤科医生推荐，这款美白面霜真的能淡斑！'",
+        "辟谣与纠正：'还在用错误的方法美白？这几点你必须知道！'"
+      ],
+      "content_structures": [
+        "问题痛点引入 - 产品方案介绍 - 真实使用效果展示 - 用户证言/数据支持 - 购买引导",
+        "美白知识科普 - 揭示产品核心成分优势 - 演示产品质地与使用方法 - 功效前后对比 - 购买链接"
+      ],
+      "emotional_triggers": [
+        "渴望拥有透亮无瑕肌肤的憧憬",
+        "对肤色不均、暗沉、斑点的焦虑",
+        "追求安全、有效且科学的美白方案",
+        "获得自信与提升颜值的成就感"
+      ]
+    },
+    "market_summary": {
+      "summary": "消费者对美白面霜的需求持续旺盛，但普遍存在对产品安全性、效果持久性及虚假宣传的担忧。市场青睐成分透明、有科学依据且能改善暗沉、斑点，同时兼顾保湿修护的产品。",
+      "key_findings": [
+        "消费者更关注美白成分的温和性和有效性（如烟酰胺、VC衍生物、传明酸、光甘草定）。",
+        "功效叠加需求日益增长，美白与抗老、保湿、修护、抗氧化等结合的产品更受欢迎。",
+        "真实用户反馈、前后对比图以及专业人士推荐是影响购买决策的重要因素。",
+        "对“纯净美妆”、“无刺激”、“温和美白”等概念的关注度提升。"
+      ]
+    }
+  },
+  "created_at": "2026-03-05T13:17:29.719434",
+  "updated_at": "2026-03-05T13:17:29.719434"
+}

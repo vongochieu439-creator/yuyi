@@ -1,0 +1,268 @@
+{
+  "title": "速食玉米粒 - 创意款",
+  "topic": "速食玉米粒",
+  "target_duration": 60,
+  "total_duration": 60.5,
+  "shot_count": 12,
+  "viral_score": 0.0,
+  "generation_stage": "script",
+  "style": "marketing",
+  "selling_points": [
+    "健身速食优选：专为健身人群解决速食难题，用户评价其为‘便捷的碳水源’，适合快速食用",
+    "高性价比之选：价格便宜，性价比高，同时成分干净，是健身人群的经济健康餐伴侣",
+    "纯净健康低负担：成分干净，热量低，膳食纤维高，为健身人群提供安心无负担的优质碳水"
+  ],
+  "shots": [
+    {
+      "id": 1,
+      "shot_type": "talking_head",
+      "act_type": "act1",
+      "visual_description": "A frantic montage of a person meticulously chopping vegetables, cooking, and packing meals, contrasted with their sad, unenthusiastic face eating a cold, bland fitness meal.",
+      "narration": "每天花1小时备餐，吃到嘴里却冷冰冰？健身人的时间，真的不该浪费在这上面！",
+      "rationale": "[痛点型开场] 深刻描绘健身备餐耗时耗力且体验差的痛点，引发目标用户强烈共鸣。",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.3,
+      "use_product_image": false
+    },
+    {
+      "id": 2,
+      "shot_type": "scene",
+      "act_type": "act1",
+      "visual_description": "A chaotic kitchen scene, dimly lit with cool, desaturated tones. A visibly exhausted fitness enthusiast, mid-20s, with messy hair and sweatpants, frantically chopping vegetables. The counter is overflowing with meal prep containers and ingredients, a large digital clock in the background rapidly ticks forward, emphasizing the relentless passage of time. Close-up on their stressed face.",
+      "narration": "看看这堆积如山的食材，还有这磨人的时间！",
+      "rationale": "极端放大健身备餐的耗时痛点，用视觉和情绪冲击力强化开场Hook，引发观众共鸣。",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.5,
+      "use_product_image": false
+    },
+    {
+      "id": 3,
+      "shot_type": "transition",
+      "act_type": "act1",
+      "visual_description": "A dynamic transition shot. The previous chaotic kitchen scene dissolves into a sleek, minimalist digital interface. Large, bold numbers flash across the screen: '每周浪费7小时！' '每年损失365小时！' accompanied by subtle, futuristic sound effects. The color palette shifts to cool blues and stark whites, suggesting data and efficiency. A frustrated silhouette briefly appears, then fades.",
+      "narration": "你每周花7小时，一年就是365小时！",
+      "rationale": "通过数据震撼，将备餐痛点具体量化，进一步放大问题严重性，为产品的解决方案出场做铺垫。",
+      "duration": 3.6666666666666665,
+      "emotion_score": 0.7,
+      "use_product_image": false
+    },
+    {
+      "id": 4,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "A close-up shot of the '速食玉米粒' product, elegantly presented on a clean, minimalist surface. Soft, natural light highlights the vibrant yellow of the corn kernels visible through the transparent packaging. The packaging itself is simple and modern, emphasizing its clean design. The background is a soft, out-of-focus blur, drawing full attention to the product.",
+      "narration": "别再浪费了！我的健身救星来了！",
+      "rationale": "产品首次亮相，简洁高效地展示其外观，以救星的形象登场，引发观众对解决方案的期待。",
+      "duration": 5,
+      "emotion_score": 0.7,
+      "use_product_image": true
+    },
+    {
+      "id": 5,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "A pair of strong, fit hands quickly and effortlessly tear open the '速食玉米粒' package. The camera follows the motion as the shiny, plump corn kernels are poured directly into a simple, clean bowl. The action is fluid and fast, emphasizing speed and ease. Bright, clean lighting maintains a fresh and healthy aesthetic.",
+      "narration": "撕开即食，真的太方便了！",
+      "rationale": "直观展示产品操作的便捷性，自然呈现“健身速食优选”的核心卖点，让观众感受其高效。",
+      "duration": 5,
+      "emotion_score": 0.76,
+      "use_product_image": true
+    },
+    {
+      "id": 6,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "A dynamic split-screen effect. On one side, a microscope view reveals perfectly formed, clean corn kernels, with subtle text overlays like '0添加', '高膳食纤维'. On the other side, a person (previously seen) smiles broadly, feeling light and energetic, perhaps stretching happily. The lighting is bright and airy, conveying freshness and vitality.",
+      "narration": "成分干净，吃着没负担，身体都轻盈了！",
+      "rationale": "通过视觉对比和信息叠加，强调产品“纯净健康低负担”的卖点，让观众感受到健康益处。",
+      "duration": 5,
+      "emotion_score": 0.8200000000000001,
+      "use_product_image": false
+    },
+    {
+      "id": 7,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "A beautifully composed flat lay shot featuring multiple '速食玉米粒' packages alongside other simple, healthy fitness meal components (e.g., a grilled chicken breast, some greens). The arrangement suggests a variety of quick meal options. The lighting is warm and inviting, making the food look appetizing and accessible. A subtle price tag graphic could be subtly integrated.",
+      "narration": "性价比高，每天吃都不心疼！",
+      "rationale": "多角度展示产品，暗示其多样化搭配和“高性价比之选”的卖点，加深产品在健身生活中的地位。",
+      "duration": 5.5,
+      "emotion_score": 0.88,
+      "use_product_image": true
+    },
+    {
+      "id": 8,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "A close-up of a person happily enjoying a spoonful of '速食玉米粒'. Their eyes convey satisfaction and enjoyment. The background is a bright, clean gym locker room or office desk, showing the versatility of consumption environments. The focus is on the texture and appealing look of the corn, with a gentle, warm light.",
+      "narration": "香甜软糯，健身餐也能这么好吃！",
+      "rationale": "聚焦用户体验，强调产品口感和美味，巩固“健身速食优选”的吸引力，提升产品好感度。",
+      "duration": 4.5,
+      "emotion_score": 0.8800000000000001,
+      "use_product_image": true
+    },
+    {
+      "id": 9,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "The same fitness enthusiast from Shot 2, now vibrant and energetic, easily completing a workout. A digital clock in the background shows '0:05' (5 minutes prep time) instead of hours. The scene is bright and dynamic, full of positive energy. They give a confident, satisfied nod to the camera, embodying efficiency and success.",
+      "narration": "省下时间，去享受真正的生活吧！",
+      "rationale": "通过戏剧性的前后对比，展现产品带来的时间节省和生活品质提升，完美呼应开场痛点，强化产品价值。",
+      "duration": 5.5,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 10,
+      "shot_type": "talking_head",
+      "act_type": "act3",
+      "visual_description": "The enthusiastic creator, with a radiant smile, holds up a vibrant pouch of instant corn kernels, demonstrating its readiness. They might perform a quick, effortless tear-and-eat motion, showcasing the ultimate convenience. The lighting is bright and inviting, emphasizing the product's fresh appeal and the user's satisfaction. The background is clean and minimalist, keeping the focus solely on the product and the creator's positive interaction.",
+      "narration": "看，有了它，你再也不用把时间浪费在无聊的备餐上，更不用吃冷冰冰的健身餐了。",
+      "rationale": "直接回应了开场Hook的痛点：'每天花1小时备餐'（浪费时间）和'吃到嘴里却冷冰冰'（食物不佳）。通过展示产品作为即时、便捷且美味的解决方案，形成问题-解决的闭环。",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 11,
+      "shot_type": "effect",
+      "act_type": "act3",
+      "visual_description": "A dynamic montage unfolds, depicting the creator or an athlete swiftly consuming the corn, then seamlessly transitioning into energetic activities like lifting weights, jogging outdoors, or engrossed in a hobby. Quick cuts and vibrant colors convey vitality and reclaimed time. A subtle steam effect might be added to the corn, reinforcing its freshness and warmth, contrasting with the 'cold food' pain.",
+      "narration": "你的时间，应该花在真正热爱的事情上，而不是被厨房束缚。每一口都是温暖和活力！",
+      "rationale": "视觉上强化了正文中'省下时间，去享受真正的生活吧！'的承诺，并直接呼应了Hook中'健身人的时间，真的不该浪费在这上面！'的观点。'温暖和活力'也巧妙地与Hook中的'冷冰冰'形成对比。",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.95,
+      "use_product_image": false
+    },
+    {
+      "id": 12,
+      "shot_type": "transition",
+      "act_type": "act3",
+      "visual_description": "A prominent, clean shot of the instant corn kernel packaging takes center stage, perhaps gently rotating or highlighted with a soft glow. Overlay text boldly displays a clear, inviting call to action like '点击链接，告别备餐烦恼'或'立即拥有你的高效健身餐！' The creator's hand might briefly enter the frame, pointing towards the on-screen text, signaling the next step.",
+      "narration": "别让备餐再成为你健身路上的绊脚石！点击下方链接，把时间还给自己，把美味和效率带回家！",
+      "rationale": "为开场Hook提出的痛点提供了具体的行动解决方案。'别让备餐再成为你健身路上的绊脚石'直接关联了Hook中'时间不该浪费'的痛点，而'把时间还给自己'则是对时间价值的最终呼应，形成一个强有力的、有记忆点的闭环。",
+      "duration": 3.6666666666666665,
+      "emotion_score": 1.0,
+      "use_product_image": false
+    }
+  ],
+  "product_images": [],
+  "keyframes": [],
+  "quality_check": {
+    "word_duration_match": false,
+    "selling_point_coverage": [
+      "健身速食优选：专为健身人群解决速食难题，用户评价其为‘便捷的碳水源’，适合快速食用",
+      "高性价比之选：价格便宜，性价比高，同时成分干净，是健身人群的经济健康餐伴侣",
+      "纯净健康低负担：成分干净，热量低，膳食纤维高，为健身人群提供安心无负担的优质碳水"
+    ],
+    "missing_selling_points": [],
+    "rhythm_score": 0.0,
+    "issues": [
+      "镜头#1口播偏长(36字/4.916666666666667秒)",
+      "镜头#10口播偏长(37字/4.916666666666667秒)",
+      "镜头#11口播偏长(38字/6.416666666666667秒)",
+      "镜头#12口播偏长(42字/3.6666666666666665秒)",
+      "总口播偏长(279字/60.49999999999999秒)，建议精简"
+    ],
+    "auto_fixes": []
+  },
+  "smart_create": {
+    "session_id": "2f093dc6",
+    "direction": {
+      "direction_id": 3,
+      "name": "创意款",
+      "risk_level": "creative",
+      "description": "运用极端放大和数据震撼手法，将健身备餐的痛点戏剧化，通过夸张的对比和数据冲击力，突出产品作为颠覆性解决方案的价值。",
+      "hook": "你有没有算过，为了那顿“健康餐”，你每周要多花3小时在厨房，每年为此额外支出上千块，最终却因为一次偷懒，让70%的努力付诸东流？",
+      "structure_preview": [
+        "开场: 以震撼数据和极端夸张的场景，描绘健身备餐的巨大时间、金钱和精神消耗。",
+        "主体1(A·放大痛苦): 用视觉化数据（如进度条倒退、钱包变空）和戏剧性口吻，放大不解决此问题对健身目标和生活品质的毁灭性打击。",
+        "主体2(S·解决方案): 在绝望顶点，速食玉米粒以“改变游戏规则者”的姿态登场，强调其“10秒即食”、“成分纯粹零负担”的颠覆性。",
+        "主体3(S·解决方案): 快速展示产品如何瞬间解决时间、金钱和健康困扰，用数字对比前后差异（如：成本降低80%，备餐时间缩短95%）。",
+        "结尾: 呈现用户从“备餐地狱”到“轻松高效”的巨大转变，给出紧迫的行动指令，抓住机会。"
+      ],
+      "creative_techniques": [
+        "极端放大",
+        "数据震撼",
+        "戏剧性对比"
+      ]
+    },
+    "selected_hook": {
+      "hook_id": 2,
+      "style": "痛点型",
+      "hook_text": "每天花1小时备餐，吃到嘴里却冷冰冰？健身人的时间，真的不该浪费在这上面！",
+      "visual_hint": "A frantic montage of a person meticulously chopping vegetables, cooking, and packing meals, contrasted with their sad, unenthusiastic face eating a cold, bland fitness meal.",
+      "rationale": "深刻描绘健身备餐耗时耗力且体验差的痛点，引发目标用户强烈共鸣。"
+    },
+    "competitor_summary": {
+      "top_videos": [],
+      "winning_patterns": [
+        "产品特写展示",
+        "用户痛点引入",
+        "效果对比"
+      ],
+      "hook_strategies": [
+        "直击痛点提问",
+        "惊人数据开场",
+        "用户故事引入"
+      ],
+      "content_structures": [
+        "痛点-解决方案-效果",
+        "故事-产品-号召行动"
+      ]
+    },
+    "market_summary": {
+      "summary": "速食玉米粒的卖点在于其便捷的真空包装和多样化的规格，适合不同消费者需求。它们热量低，膳食纤维高，健康优势明显。 速食玉米粒受欢迎，口感好，适合快速食用，健康营养。用户评价普遍正面，称其为便捷的碳水源。 Fast-cooked corn kernels face competition from brands focusing on quality, nutritional value, and market trends. Leading brands emphasize high-quality, health-oriented products. Market share depends on innovation and consumer preference.",
+      "key_findings": [
+        "比如，十月稻田在玉米棒之外还推出了涵盖玉米段、玉米粒等多种规格，让小孩和老人更方便食用。另外，十月稻田玉米采用了真空包装，只需煮一下即可食用，方便又快捷。产品规格也多样化，既有属于家庭1~2顿的量贩装，也有符合单身人士的独立小包装，不用担心浪费。",
+        "成立于2021年，致力于打...、即食玉米粒、东北香米及杂粮系... 禾久集团是由多家相关联企业组合而成的以鲜食玉米为主营的集团公司，主要从事鲜食甜糯玉米、杂粮等农产品研发生产加工销售及特色餐饮、商",
+        "据《中国食物成分表》，与同等质量的产品相比，北纬47°的鲜食玉米系列热量至少减少50%，膳食纤维含量增加1倍以上。这样的优势，让产品更好地打开销路，更利于建立品牌形象，瞄向更具有消费实力的人群。",
+        "#速食玉米粒. 开袋即食或微波加热，碳水+膳食 ... 其中oppo、vivo、iphone17、电脑、音响、ai智能眼镜等热门商品更是赢得了用户口碑和良好的评价。",
+        "整颗玉米粒颗粒饱满、甜度自然，适合做台式奶油玉米、韩式拌饭配菜、日式味噌汤添颗粒口感，也能加入中式炒饭或粥里提升甜香。富含膳食纤维和维生素B，低脂高能，健康零负担。",
+        "如果可以的话，我这辈子每天每顿饭都吃这个。这是熟食店里除了波尔斯头泡菜之外最好的东西了。我店里的熟食店女孩们知道我有多爱它们，每天早上只要有玉米块",
+        "玉米磨粉产品可分为两大类：粗磨产品和精磨产品。 粗磨产品，如玉米粉、粗玉米粉和玉米粥，保留了更多玉米粒的麸皮和胚芽，提供更高的纤维和营养成分。 精制研磨产品，包括",
+        "FIND AN ATTORNEY FIND AN OFFICE. We follow industry news and trends so you can stay ahead of the game. Subscribe to receive emails regarding policies and findings that impact you and your business. Cl",
+        "# 从实验室到田间、舌尖 苏产玉米“卷”出新高度. 你喜欢甜玉米的清甜，还是糯玉米的软糯？近日，江苏省农业科学院玉米研究中心正式揭牌成立，将聚焦玉米种源“卡脖子”难题与全产业链技术升级。大家常见的玉米还能研究些啥？为何要专门成立一个玉米研究中心？现代快报记者实地探访该中心，发现小小玉米背后，是关乎国家粮食安全与百姓餐桌的科技大文章。. 玉米是我国第一大粮食作物，对保障国家粮食安全、推动农业产业发展"
+      ],
+      "sources": [
+        {
+          "url": "https://t.cj.sina.com.cn/articles/view/5658041490/1513edc9200100zm36",
+          "title": "十月稻田玉米品类全国销量领先背后：“卖点”到“买点”的用户思维__财经头条"
+        },
+        {
+          "url": "https://m.chinabgao.com/top/brand/87461.html",
+          "title": "2024年玉米买哪个品牌好?_报告大厅"
+        },
+        {
+          "url": "https://t.cj.sina.com.cn/articles/view/5075846512/12e8b457000101fmi5",
+          "title": "消费分级，“鲜食”当道，它用一根玉米撬动餐饮新价值！__财经头条__新浪财经"
+        },
+        {
+          "url": "https://guangtao.taobao.com/topic-185824505",
+          "title": "宿舍碳水速食包 - 淘宝逛一逛"
+        },
+        {
+          "url": "https://www.sayweee.com/zh/grocery-near-me/chinese-lang/explore/%E7%8E%89%E7%B1%B3%E7%B2%92",
+          "title": "玉米粒哪里买？华人超市（可享免运费） - Weee!"
+        },
+        {
+          "url": "https://www.reddit.com/r/publix/comments/1cl2xnv/have_you_had_the_corn_nuggets_thoughts/?tl=zh-hans",
+          "title": "你吃过炸玉米粒吗？感觉怎么样？ : r/publix - Reddit"
+        },
+        {
+          "url": "https://m.qcc.com/postnews/21ef508b4b03a7d86de083cd0cb56304.html",
+          "title": "2025年全球玉米研磨产品市场规模将达到410.60亿美元-企查查"
+        },
+        {
+          "url": "https://www.bipc.com/tags?tag=Google%20Play%FinXion%20Markets%20V2%20Reviews",
+          "title": "https://www.bipc.com/tags?tag=Google%20Play%FinXio..."
+        },
+        {
+          "url": "https://article.xuexi.cn/articles/index.html?art_id=4321020726697321899&item_id=4321020726697321899&study_style_id=feeds_opaque&t=1752877920371&showmenu=false&ref_read_id=5b14fb97-958f-4d29-8c8b-781075db779b_1753486702094&pid=&ptype=-1&source=share&share_to=text_msg",
+          "title": "从实验室到田间、舌尖苏产玉米“卷”出新高度"
+        }
+      ]
+    }
+  },
+  "created_at": "2026-02-26T21:42:08.527153"
+}

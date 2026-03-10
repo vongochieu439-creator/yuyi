@@ -1,0 +1,88 @@
+{
+  "title": "创意迁移 — 美白面霜",
+  "topic": "美白面霜",
+  "product_name": "美白面霜",
+  "target_duration": 60,
+  "total_duration": 60,
+  "shot_count": 8,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "opening",
+      "narration": "姐妹们，有没有觉得夏天晒黑了之后，皮肤就很难白回来？或者痘印、斑点总是赖着不走，整个人看起来暗沉没精神？我之前也是这样，感觉自己离‘白皙透亮’总是差那么一点点。",
+      "visual_description": "Influencer (looking slightly tired, bare-faced or with light makeup) sighs while looking into a mirror. The camera zooms in on small blemishes on her face, or shows a phone screen with a past photo of dull skin.",
+      "duration": 7
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "product_reveal",
+      "narration": "直到我遇到了它！这款美白面霜，真的是我的‘救命稻草’！用了一段时间，皮肤状态简直是质的飞跃！",
+      "visual_description": "Influencer suddenly brightens up, smiling widely, and takes out the whitening cream from off-screen. The camera gives a close-up shot of the product.",
+      "duration": 7
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "device_intro",
+      "narration": "我知道你们肯定好奇效果到底有多好，光说不练假把式！我特意准备了一个‘光采魔盒’。你看，这是使用前的皮肤状态，是不是有点暗沉，还有一些小斑点？",
+      "visual_description": "Influencer presents a sleek, minimalist 'Radiance Light Box'. The left panel of the box lights up, clearly displaying a simulated skin texture or image with dullness and visible dark spots. Influencer gently touches the panel.",
+      "duration": 8
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "device_reveal",
+      "narration": "但用了它之后呢？铛铛铛！你再看右边，是不是整个肤色都提亮了，那些恼人的斑点和痘印也淡化了好多，感觉皮肤都在发光！这可不是P图，是实打实的改变！",
+      "visual_description": "Influencer slides or opens the right panel of the light box. The right panel lights up, revealing a simulated skin texture or image that is significantly brighter, more even-toned, and with diminished spots. A clear before/after contrast is shown.",
+      "duration": 8
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "application",
+      "narration": "它质地特别水润轻薄，一抹就吸收，完全不粘腻，敏感肌姐妹也能放心用。我每天早晚都会用，在斑点多的地方还会多涂一层，给它重点‘关照’。",
+      "visual_description": "Influencer opens the cream, takes a small amount on her fingertip, showcasing its creamy yet lightweight texture. She then applies it to her hand or side of her face, gently massaging until absorbed, leaving a natural glow.",
+      "duration": 9
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "results",
+      "narration": "坚持用下来，你会发现皮肤真的变得越来越透亮，以前的暗沉不见了，连素颜都自信满满！感觉整个人的气色都提升了好几个度。",
+      "visual_description": "Quick cuts: Influencer confidently smiling at the camera, her skin visibly radiant; a close-up of her skin's glow in natural light; influencer gently touching her cheek with a satisfied expression.",
+      "duration": 7
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "call_to_action",
+      "narration": "如果你也想告别暗沉，拥有那种由内而外散发的光泽肌，那这款美白面霜你真的不能错过！赶紧试试，给自己一个惊喜！",
+      "visual_description": "Influencer holds the cream up to her chest, smiling brightly and looking sincerely at the camera, making a recommending gesture.",
+      "duration": 7
+    },
+    {
+      "shot_id": 8,
+      "shot_type": "closing",
+      "narration": "相信我，你一定会爱上这种白皙透亮的感觉！",
+      "visual_description": "Product static shot close-up with a blurred background. Influencer's hand gently rests beside the product. The frame freezes on the product and influencer's confident smile.",
+      "duration": 7
+    }
+  ],
+  "selling_points": [],
+  "quality_check": {},
+  "generation_stage": "script",
+  "data_driven": {
+    "session_id": "75c1a340",
+    "direction": "creative",
+    "direction_label": "创意迁移",
+    "data_source": "灵感来自2个跨行业创意视频",
+    "reference_videos": [
+      {
+        "title": "鉴定网络热门科学小实验\n#科学小实验 #鉴定网络热门视频 #物理实验 #手工",
+        "play_count": 0,
+        "digg_count": 11972
+      },
+      {
+        "title": "鉴定网络热门科学小实验\n#科学小实验 #测评",
+        "play_count": 0,
+        "digg_count": 9369
+      }
+    ]
+  },
+  "created_at": "2026-03-06T11:54:13.047217"
+}

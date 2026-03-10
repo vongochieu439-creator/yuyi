@@ -1,0 +1,164 @@
+{
+  "title": "稳妥款",
+  "topic": "玻尿酸洗面奶",
+  "product_name": "玻尿酸洗面奶",
+  "product_detail": "华熙生物出品，含专利留存型玻尿酸，氨基酸温和配方，清洁同时锁水保湿，100g便携装，价格两位数",
+  "industry": "美妆护肤",
+  "target_duration": 60,
+  "total_duration": 68,
+  "shot_count": 8,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "[extreme_close_up]",
+      "visual": "Extreme close-up of a vibrant red, plump cherry tomato being forcefully pressed ...",
+      "narration": "我的天！这个番茄放进去一秒钟，水分直接被抽干了！你每天洗脸，你的皮肤也在经历同样的事！",
+      "rationale": "保持不变，口语化程度适中。",
+      "preview_image": "/outputs/video_20260305_134745/preview/frame_001.png"
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "[close_up]",
+      "visual": "Close-up of a female influencer's face, hands covering cheeks, brows furrowed in...",
+      "narration": "洗完脸，脸就绷得要裂开，干涩得要命，甚至泛红？感觉皮肤都在窒息！你是不是也这样？",
+      "rationale": "保持不变，口语化程度适中。",
+      "preview_image": "/outputs/video_20260305_134745/preview/frame_002.png"
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "[close_up]",
+      "visual": "Close-up of the influencer's hand gently touching the shriveled tomato, then her...",
+      "narration": "你洗脸后的紧绷，就像这番茄一样，是过度清洁，把皮肤原本的保护都洗没了！",
+      "rationale": "将“天然屏障”改为更口语化的“原本的保护”，符合博主聊天语气。",
+      "preview_image": "/outputs/video_20260305_134745/preview/frame_003.png"
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "[medium_shot]",
+      "visual": "Medium shot of the influencer confidently presenting the Huaxi Bio Hyaluronic Ac...",
+      "narration": "告别紧绷！我找到了它——华熙生物专利玻尿酸洗面奶！温和清洁，洗完不紧绷，洗完脸水水的，亮亮的！",
+      "rationale": "将“洗出水润光泽肌”改为更口语化的“洗完脸水水的，亮亮的”，更像真人聊天。",
+      "preview_image": "/outputs/video_20260305_134745/preview/frame_004.png"
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "[extreme_close_up]",
+      "visual": "Extreme close-up of a gloved hand squeezing a small amount of Huaxi Bio cleanser...",
+      "narration": "不信？我们再来做个实验！我用华熙生物洗面奶涂抹番茄。看，它不仅没干瘪，反而更水润了！这才是真正的温和清洁！",
+      "rationale": "保持不变，口语化程度适中。",
+      "preview_image": "/outputs/video_20260305_134745/preview/frame_005.png"
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "[close_up]",
+      "visual": "Close-up of the influencer at a sink, dispensing Huaxi Bio cleanser, lathering i...",
+      "narration": "现在，轮到我的脸了！看我用它洗完脸，皮肤不仅不紧绷，还水润润的，看着可透亮了！水分仪数据证明，洗完脸水分值直接飙升！",
+      "rationale": "将“水润透亮”改为更口语化的“水润润的，看着可透亮了”，更贴近博主聊天风格。",
+      "preview_image": "/outputs/video_20260305_134745/preview/frame_006.png"
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "[animated_infographic]",
+      "visual": "Animated infographic transitioning from a close-up of the influencer's hydrated ...",
+      "narration": "它为什么这么厉害？秘密就在于华熙生物的专利玻尿酸！它能在清洁同时，给皮肤补水锁水，让皮肤自己形成一层保护，洗完脸当然水润润的，不会绷着了！",
+      "rationale": "将“形成天然保护膜”改为更口语化的“让皮肤自己形成一层保护”，并将“水润不紧绷”改为更具聊天感的“水润润的，不会绷着了”。",
+      "preview_image": "/outputs/video_20260305_134745/preview/frame_007.png"
+    },
+    {
+      "shot_id": 8,
+      "shot_type": "[close_up]",
+      "visual": "Close-up of the influencer holding the Huaxi Bio cleanser, smiling confidently a...",
+      "narration": "还在忍受洗脸后的紧绷吗？别犹豫了！点击链接，把华熙生物洗面奶带回家，洗出你水润又亮的皮肤！",
+      "rationale": "将“洗出你的水润光泽肌”改为更口语化的“洗出你水润又亮的皮肤”，更像朋友推荐。",
+      "preview_image": "/outputs/video_20260305_134745/preview/frame_008.png"
+    }
+  ],
+  "selling_points": [
+    "卖点1：清洁同时长效锁水：含专利留存型玻尿酸，氨基酸温和配方，清洁后肌肤水润不紧绷，满足消费者对“温和清洁同时能保湿”的需求。",
+    "卖点2：科技护肤更安心：由华熙生物出品，含专利留存型玻尿酸，选择温和安全成分，避免刺激和过敏，让肌肤享受专业级呵护。",
+    "卖点3：高端护肤轻松享：华熙生物专利成分洗面奶，价格两位数，用亲民价即可体验大牌品质与科技护肤的满足感。"
+  ],
+  "quality_report": {
+    "hook_score": 10,
+    "info_density_score": 9,
+    "selling_point_coverage": [
+      "温和清洁，不紧绷: 在第5帧通过番茄实验对比，第6帧通过真人洗脸体验和水分仪数据覆盖。",
+      "保湿，洗后水润: 在第5帧通过番茄实验对比，第6帧通过真人洗脸体验和水分仪数据覆盖。",
+      "华熙生物专利玻尿酸成分: 在第4帧产品介绍和第7帧成分解析中覆盖。",
+      "解决皮肤干燥、紧绷、泛红问题: 在第2帧痛点戳心和第6帧真人体验中覆盖。"
+    ],
+    "fixes_applied": [
+      "修改了第1、2、3、4、5、6、7、8帧口播，原文太长或稍显书面，已改为口语化并精简字数以匹配时长。",
+      "补充了第3、4、5、6、7、8帧的画面描述细节，使其更具体、可执行。",
+      "将原脚本的2帧扩展至8帧，增加了揭示真相、产品展示、温和实验、真人体验、成分解析和CTA等环节，使内容更完整、有说服力。",
+      "调整了部分帧的时长，以优化整体节奏和口播字数匹配。"
+    ]
+  },
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "79761b2d",
+    "script_id": 0,
+    "script_name": "稳妥款",
+    "risk_level": "safe",
+    "competitor_summary": {
+      "winning_patterns": [
+        "真实用户使用前后对比：主要展示洗脸后皮肤的水润度、光滑度、不紧绷感。",
+        "成分科普与功效拆解：邀请护肤博主或专业人士讲解玻尿酸、氨基酸的温和清洁与保湿原理。",
+        "日常护肤流程融入：将洗面奶作为护肤第一步，强调其为后续护肤打下良好基础。",
+        "专业机构/专家推荐：通过皮肤科医生或权威媒体的背书，增加产品可信度。"
+      ],
+      "hook_strategies": [
+        "痛点提问式：直接抛出用户洗脸后紧绷、干燥的痛点，引起共鸣。",
+        "反常识开场：颠覆传统洗面奶“洗完会干”的认知，强调保湿清洁二合一。",
+        "结果展示式：直接展示洗脸后水润透亮的皮肤状态，引发好奇。",
+        "权威背书式：开场即亮出品牌或成分的专业背景，吸引成分党。"
+      ],
+      "content_structures": [
+        "痛点引入 -> 解决方案（产品）-> 核心卖点（成分/功效）-> 使用演示 -> 效果对比 -> 购买引导。",
+        "场景代入 -> 产品介绍（突出优势）-> 权威解读/专业背书 -> 用户证言/反馈 -> 限时福利/行动号召。"
+      ],
+      "emotional_triggers": [
+        "摆脱干燥紧绷的焦虑，追求水润舒适的愉悦感。",
+        "选择温和安全成分的安心感，避免刺激和过敏。",
+        "用高性价比产品获得高端护肤体验的满足感。",
+        "对科技护肤、专利成分的信任与好奇心。"
+      ]
+    },
+    "market_summary": {
+      "summary": "玻尿酸洗面奶市场竞争激烈，消费者对温和清洁同时能保湿、洗后不紧绷的需求日益增长。华熙生物的专业背景和专利成分，结合亲民价格，具有显著竞争优势。",
+      "key_findings": [
+        "消费者对洗面奶的首要关注点是“清洁力”和“温和度”，其次是“洗后不紧绷”和“保湿效果”。",
+        "对华熙生物这类拥有生物科技背景的品牌，消费者信任度高，专利成分是重要的购买决策点。",
+        "两位数的价格在玻尿酸品类中极具竞争力，能吸引对价格敏感但又追求品质的年轻消费者。",
+        "便携装符合现代人快节奏生活和差旅需求，可作为日常或旅行常备品推广。"
+      ]
+    }
+  },
+  "created_at": "2026-03-05T13:47:45.685741",
+  "updated_at": "2026-03-05T14:30:02.844578",
+  "quality_check": {
+    "word_duration_match": false,
+    "selling_point_coverage": [],
+    "missing_selling_points": [
+      "卖点1：清洁同时长效锁水：含专利留存型玻尿酸，氨基酸温和配方，清洁后肌肤水润不紧绷，满足消费者对“温和清洁同时能保湿”的需求。",
+      "卖点2：科技护肤更安心：由华熙生物出品，含专利留存型玻尿酸，选择温和安全成分，避免刺激和过敏，让肌肤享受专业级呵护。",
+      "卖点3：高端护肤轻松享：华熙生物专利成分洗面奶，价格两位数，用亲民价即可体验大牌品质与科技护肤的满足感。"
+    ],
+    "rhythm_score": 0.0,
+    "issues": [
+      "镜头#?口播偏长(31字/5秒)",
+      "镜头#?口播偏长(40字/5秒)",
+      "镜头#?口播偏长(35字/5秒)",
+      "镜头#?口播偏长(47字/5秒)",
+      "镜头#?口播偏长(53字/5秒)",
+      "镜头#?口播偏长(58字/5秒)",
+      "镜头#?口播偏长(69字/5秒)",
+      "镜头#?口播偏长(45字/5秒)",
+      "总口播偏长(378字/40秒)，建议精简",
+      "缺失卖点: 卖点1：清洁同时长效锁水：含专利留存型玻尿酸，氨基酸温和配方，清洁后肌肤水润不紧绷，满足消费者对“温和清洁同时能保湿”的需求。, 卖点2：科技护肤更安心：由华熙生物出品，含专利留存型玻尿酸，选择温和安全成分，避免刺激和过敏，让肌肤享受专业级呵护。, 卖点3：高端护肤轻松享：华熙生物专利成分洗面奶，价格两位数，用亲民价即可体验大牌品质与科技护肤的满足感。"
+    ],
+    "auto_fixes": []
+  },
+  "script_locked": true
+}

@@ -1,0 +1,155 @@
+{
+  "title": "优化款",
+  "topic": "智能手表",
+  "product_name": "智能手表",
+  "product_detail": "智能手表",
+  "industry": "数码3C",
+  "target_duration": 60,
+  "total_duration": 32,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "Commercial medium shot related to 智能手表, handheld camera, professional lighting, 4K quality",
+      "narration": "[hook] 痛点场景引发共鸣",
+      "duration": 4,
+      "camera_movement": "handheld",
+      "lighting": "studio_soft",
+      "mood": "共鸣",
+      "text_overlay": null,
+      "use_product_image": false
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Commercial close_up shot related to 智能手表, zoom_in camera, professional lighting, 4K quality",
+      "narration": "[problem] 放大痛点严重性",
+      "duration": 5,
+      "camera_movement": "zoom_in",
+      "lighting": "studio_soft",
+      "mood": "焦虑",
+      "text_overlay": null,
+      "use_product_image": false
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "product_showcase",
+      "act_type": "main",
+      "visual_description": "Commercial product_showcase shot related to 智能手表, zoom_in camera, professional lighting, 4K quality",
+      "narration": "[reveal] 产品首次出现",
+      "duration": 4,
+      "camera_movement": "zoom_in",
+      "lighting": "studio_soft",
+      "mood": "好奇",
+      "text_overlay": null,
+      "use_product_image": false
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "pov",
+      "act_type": "main",
+      "visual_description": "Commercial pov shot related to 智能手表, tracking camera, professional lighting, 4K quality",
+      "narration": "[demo] 展示智能手表品质优异",
+      "duration": 6,
+      "camera_movement": "tracking",
+      "lighting": "studio_soft",
+      "mood": "惊喜",
+      "text_overlay": null,
+      "use_product_image": false
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "Commercial medium shot related to 智能手表, static camera, professional lighting, 4K quality",
+      "narration": "[benefit] 展示性价比高",
+      "duration": 5,
+      "camera_movement": "static",
+      "lighting": "studio_soft",
+      "mood": "信任",
+      "text_overlay": null,
+      "use_product_image": false
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "text_overlay",
+      "act_type": "main",
+      "visual_description": "Commercial text_overlay shot related to 智能手表, static camera, professional lighting, 4K quality",
+      "narration": "[social_proof] 用户评价/数据增加信任",
+      "duration": 4,
+      "camera_movement": "static",
+      "lighting": "studio_soft",
+      "mood": "信任",
+      "text_overlay": null,
+      "use_product_image": false
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "product_showcase",
+      "act_type": "main",
+      "visual_description": "Commercial product_showcase shot related to 智能手表, zoom_in camera, professional lighting, 4K quality",
+      "narration": "[cta] 限时优惠+行动号召",
+      "duration": 4,
+      "camera_movement": "zoom_in",
+      "lighting": "studio_soft",
+      "mood": "紧迫",
+      "text_overlay": null,
+      "use_product_image": false
+    }
+  ],
+  "selling_points": [
+    "智能手表品质优异",
+    "性价比高",
+    "用户好评如潮"
+  ],
+  "quality_report": {
+    "hook_score": 6,
+    "info_density_score": 6,
+    "selling_point_coverage": [],
+    "fixes_applied": [
+      "Producer降级，未执行质审"
+    ]
+  },
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "a13401c3",
+    "script_id": 2,
+    "script_name": "优化款",
+    "risk_level": "moderate",
+    "competitor_summary": {
+      "winning_patterns": [
+        "功能解说与场景演示：通过模拟日常生活场景（如运动、通勤、办公），直观展示心率监测、移动支付、消息通知等核心功能。",
+        "健康管理与健身伴侣：强调其在运动追踪、睡眠分析、压力监测等方面的专业性，常结合用户健身成果或健康数据变化。",
+        "时尚穿搭与个性化：突出手表的设计感、表盘自定义、表带更换等时尚元素，吸引注重外观和个性化的用户。"
+      ],
+      "hook_strategies": [
+        "痛点直击式：直接提出用户可能面临的健康或效率痛点，如“还在为错过重要信息烦恼？”或“你的健康数据，真的精准吗？”",
+        "利益诱惑式：开门见山地抛出产品能带来的巨大好处，如“一块表，搞定你的健康、运动和支付！”",
+        "好奇提问式：提出一个引人深思或激发好奇心的问题，如“你知道智能手表能帮你省多少时间吗？”"
+      ],
+      "content_structures": [
+        "痛点-方案-功能展示-利益点-CTA：先提出用户在健康或效率方面的痛点，引出智能手表作为解决方案，详细展示其核心功能及带来的具体好处，最后引导购买。",
+        "场景代入-产品融入-效果呈现-CTA：模拟用户一天生活中的不同场景（晨跑、通勤、工作），将智能手表自然融入并展示其如何提升效率和生活品质，最后呼吁行动。"
+      ],
+      "emotional_triggers": [
+        "安全感与健康焦虑：强调健康监测功能（如心率异常提醒、跌倒检测），解决用户对健康的担忧，提供安心感。",
+        "高效与便利：突出移动支付、消息提醒、日程管理等功能，满足用户对时间管理和便捷生活的追求，带来掌控感。"
+      ]
+    },
+    "market_summary": {
+      "summary": "智能手表市场日益成熟，消费者对健康监测、便捷支付和运动追踪功能需求旺盛。用户痛点主要集中在续航短、功能同质化、数据精准度及价格等方面。",
+      "key_findings": [
+        "健康与运动功能是用户购买智能手表的第一驱动力，尤其心率、血氧、睡眠监测的准确性和实用性。",
+        "移动支付、消息提醒等便捷功能已成为标配，用户对其稳定性和兼容性有高要求。",
+        "年轻用户群体更关注时尚外观和个性化定制，而中老年用户则更看重健康预警和紧急求助功能。"
+      ]
+    }
+  },
+  "created_at": "2026-03-05T15:06:16.007115",
+  "updated_at": "2026-03-05T15:07:23.484121",
+  "script_locked": true
+}

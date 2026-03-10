@@ -1,0 +1,160 @@
+{
+  "title": "优化款：科技赋能，生活美学",
+  "topic": "戴森美发器",
+  "product_name": "戴森美发器",
+  "product_detail": "戴森Airwrap多功能美发器，康达气流科技，不伤发卷发直发吹干三合一，多种风嘴配件，智能温控防过热",
+  "industry": "数码3C",
+  "target_duration": 60,
+  "total_duration": 40,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "visual": "Medium shot, handheld style. A young urban white-collar woman, looking into a mi...",
+      "narration": "有没有姐妹跟我一样，早上花半小时卷的头发，出门五分钟就变成鸡窝？我真的会谢！",
+      "preview_image": "/outputs/video_20260305_163312/preview/frame_001.png"
+    },
+    {
+      "shot_id": 2,
+      "visual": "Close-up shot, zoom-in. A young woman gently separates strands of her hair, reve...",
+      "narration": "更要命的是，传统卷发棒高温直烫，头发美了，发质却‘牺牲’了！干枯、分叉、一摸就断，你还敢用吗？",
+      "preview_image": "/outputs/video_20260305_163312/preview/frame_002.png"
+    },
+    {
+      "shot_id": 3,
+      "visual": "Product showcase shot, zoom-in. A young woman elegantly takes out the Dyson Airw...",
+      "narration": "直到我发现了它——戴森Airwrap多功能美发器！吹干、卷发、直发一气呵成，还能不伤发，简直是黑科技！颜值超高，生活品质瞬间up！",
+      "preview_image": "/outputs/video_20260305_163312/preview/frame_003.png"
+    },
+    {
+      "shot_id": 4,
+      "visual": "POV shot, tracking camera. The user holds the Dyson Airwrap, effortlessly attrac...",
+      "narration": "它最让我惊喜的是，根本不是高温‘烤’发，而是用神奇的康达气流，把头发‘吸’上去塑形！智能温控每秒测温40次，保证绝不伤发！用完头发顺滑，就像做了高级SPA，完全没有焦味和干涩感！",
+      "preview_image": "/outputs/video_20260305_163312/preview/frame_004.png"
+    },
+    {
+      "shot_id": 8,
+      "visual": "Split-screen or quick cuts. Left side: A traditional curling iron is applied to a strand of synthetic hair (wig), producing smoke and visible damage/frizz. Right side: The Dyson Airwrap is used on another strand of synthetic hair, resulting in smooth, shiny, undamaged hair with no smoke.",
+      "narration": "不相信戴森不伤发？我们来做个小实验，眼见为实！看，传统卷发棒高温直烫，假发丝都冒烟焦了，发质瞬间变得干枯毛躁！再看看戴森，它利用康达气流温和塑形，发丝柔顺有光泽，完全没有高温损伤的痕迹！这才是真正的黑科技，不仅美发，更养发，爱护头发的你值得拥有！",
+      "rationale": "新增极致对比实验镜头，直观展现戴森不伤发的优势，强化产品卖点，并延长视频时长以达到60秒要求。",
+      "preview_image": "/outputs/video_20260305_163312/preview/frame_008.png"
+    },
+    {
+      "shot_id": 5,
+      "visual": "Medium shot, static camera. The user rapidly switches Dyson Airwrap attachments ...",
+      "narration": "它可不是只能卷发！自带好几个风嘴，直发、蓬松、吹干，全都能搞定。早上赶时间，一个戴森搞定所有造型，通勤、约会、派对轻松切换。高效百变，不伤发，太省心了！",
+      "preview_image": "/outputs/video_20260305_163312/preview/frame_005.png"
+    },
+    {
+      "shot_id": 6,
+      "visual": "Close-up shot, static camera. The user confidently faces the camera, showcasing ...",
+      "narration": "我用戴森好几年，发质真的越来越好，告别干枯毛躁。姐妹们都说：‘早买早享受！’省下的护发素钱，每天美美出门的自信，真的太值了！这是你对精致生活的投资。",
+      "preview_image": "/outputs/video_20260305_163312/preview/frame_006.png"
+    },
+    {
+      "shot_id": 7,
+      "visual": "Product showcase shot, zoom-in. The user holds up the Dyson Airwrap multi-styler...",
+      "narration": "姐妹们，我真心推荐这款戴森Airwrap！用过就知道它有多好，不仅方便，发质还越来越好。趁着直播间有活动，真的可以考虑入手，早买早享受嘛！相信我，它绝对是你对精致生活最值得的投资！",
+      "rationale": "将结尾CTA修改为更具朋友推荐的语气，减少广告腔，并适当延长 narration 以增加时长。",
+      "preview_image": "/outputs/video_20260305_163312/preview/frame_007.png"
+    }
+  ],
+  "selling_points": [
+    "不伤发造型：康达气流科技结合智能温控防过热，彻底告别传统美发工具对发质的损害，让你安心享受每日造型。",
+    "一机多用，高效百变：集卷发、直发、吹干三合一功能，搭配多种风嘴配件，轻松满足日常通勤、约会、派对等不同场合的高效造型需求。",
+    "尊享高端，操作便捷：告别传统美发工具的复杂耗时，体验康达气流科技带来的高效便捷，彰显高端生活品质与拥有前沿科技的优越感。"
+  ],
+  "quality_report": {
+    "hook_score": 9,
+    "info_density_score": 8,
+    "selling_point_coverage": [
+      "痛点共鸣 (头发塌、毛躁、干枯、分叉): 在第1、2帧通过口播和视觉展示覆盖",
+      "不伤发造型 (康达气流, 智能温控): 在第4帧通过口播和演示覆盖",
+      "一机多用 (卷发、直发、吹干, 多种风嘴): 在第5帧通过口播和演示覆盖",
+      "高效百变 (通勤、约会、派对场景): 在第5帧通过口播和场景暗示覆盖",
+      "发质改善/投资价值: 在第6、7帧通过口播和用户评价覆盖",
+      "高颜值: 在第3帧通过口播和产品展示覆盖"
+    ],
+    "fixes_applied": [
+      "修改了所有帧的口播，使其更口语化、精炼，并符合抖音快节奏传播习惯，同时保持信息密度。",
+      "调整了部分帧的duration (Frame 1: 4s->5s, Frame 2: 5s->6s, Frame 3: 4s->6s, Frame 4: 6s->8s, Frame 5: 5s->6s, Frame 6: 4s->5s)，以优化整体节奏和信息承载量。",
+      "优化了Frame 2和Frame 5的英文visual prompt，使其更符合字数要求且更精确。",
+      "补充了所有帧的`product_in_frame`, `needs_product_ref`, `needs_character_ref`字段。",
+      "新增了视频标题：'戴森Airwrap：告别伤发，发质逆袭！'。",
+      "更新了`product_reference`中的`showcase_frames`，增加了Frame 5。",
+      "补充了`product_reference`和`character_reference`的英文描述。"
+    ]
+  },
+  "generation_stage": "export",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "9b1fce48",
+    "script_id": 2,
+    "script_name": "优化款：科技赋能，生活美学",
+    "risk_level": "moderate",
+    "competitor_summary": {
+      "winning_patterns": [
+        "专业造型师/美妆博主评测与推荐，强调效果和使用体验",
+        "多场景Before & After对比，直观展示造型前后巨大差异",
+        "产品功能拆解与科技原理科普，突出技术优势和不伤发卖点",
+        "日常通勤/约会/派对等不同场合发型打造教程，提供实用价值",
+        "产品开箱与配件展示，强化高端奢华感和多功能性"
+      ],
+      "hook_strategies": [
+        "直接展示惊艳造型效果，引发用户好奇心和求美欲望",
+        "提问式开场，直击用户痛点，如“你还在为发质受损烦恼吗？”",
+        "快速切换画面，展现不同发型，营造“一机多用”的视觉冲击",
+        "制造悬念，如“一个秘密武器，让你告别发型焦虑”",
+        "对比传统美发工具的弊端，引出戴森的优势"
+      ],
+      "content_structures": [
+        "痛点提出 -> 戴森解决方案 -> 核心功能演示 -> 效果对比 -> 购买引导",
+        "产品展示 -> 细节特写 -> 使用教程 -> 用户反馈/推荐 -> 品牌价值升华",
+        "多场景应用展示 -> 各风嘴功能介绍 -> 智能温控原理说明 -> 打造不同发型"
+      ],
+      "emotional_triggers": [
+        "追求完美发型和高级感的需求，渴望自信和魅力",
+        "对传统美发工具伤害发质、操作繁琐的担忧和厌倦",
+        "拥有高端科技产品带来的优越感和生活品质提升",
+        "被专业认可和时尚潮流引领的从众心理"
+      ]
+    },
+    "market_summary": {
+      "summary": "戴森美发器市场定位高端，用户追求高效、不伤发的造型体验。痛点集中在传统工具对发质的损害、造型单一、操作复杂及耗时，同时存在对高价位产品的价值认同需求。",
+      "key_findings": [
+        "消费者对“不伤发”的健康美发需求强烈，愿意为之支付溢价。",
+        "产品多功能性（卷发、直发、吹干三合一）是重要卖点，解决用户收纳和选择困扰。",
+        "康达气流科技等专业术语需要转化为用户易懂的利益点。",
+        "高客单价决定了目标用户对品牌、品质、科技含量有较高要求，需要强化其价值感。"
+      ]
+    }
+  },
+  "created_at": "2026-03-05T16:33:12.317058",
+  "updated_at": "2026-03-05T16:51:08.791728",
+  "quality_check": {
+    "word_duration_match": false,
+    "selling_point_coverage": [
+      "不伤发造型：康达气流科技结合智能温控防过热，彻底告别传统美发工具对发质的损害，让你安心享受每日造型。"
+    ],
+    "missing_selling_points": [
+      "一机多用，高效百变：集卷发、直发、吹干三合一功能，搭配多种风嘴配件，轻松满足日常通勤、约会、派对等不同场合的高效造型需求。",
+      "尊享高端，操作便捷：告别传统美发工具的复杂耗时，体验康达气流科技带来的高效便捷，彰显高端生活品质与拥有前沿科技的优越感。"
+    ],
+    "rhythm_score": 0.0,
+    "issues": [
+      "镜头#?口播偏长(40字/5秒)",
+      "镜头#?口播偏长(47字/5秒)",
+      "镜头#?口播偏长(65字/5秒)",
+      "镜头#?口播偏长(89字/5秒)",
+      "镜头#?口播偏长(123字/5秒)",
+      "镜头#?口播偏长(76字/5秒)",
+      "镜头#?口播偏长(74字/5秒)",
+      "镜头#?口播偏长(90字/5秒)",
+      "总口播偏长(604字/40秒)，建议精简",
+      "缺失卖点: 一机多用，高效百变：集卷发、直发、吹干三合一功能，搭配多种风嘴配件，轻松满足日常通勤、约会、派对等不同场合的高效造型需求。, 尊享高端，操作便捷：告别传统美发工具的复杂耗时，体验康达气流科技带来的高效便捷，彰显高端生活品质与拥有前沿科技的优越感。"
+    ],
+    "auto_fixes": []
+  },
+  "script_locked": true,
+  "video_url": "/outputs/video_20260305_163312/final_video.mp4"
+}

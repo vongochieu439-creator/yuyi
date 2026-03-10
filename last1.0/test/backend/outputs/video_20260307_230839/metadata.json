@@ -1,0 +1,203 @@
+{
+  "title": "稳妥款 · 实验对比",
+  "topic": "玻尿酸保湿面霜",
+  "product_name": "玻尿酸保湿面霜",
+  "product_detail": null,
+  "industry": "美妆护肤",
+  "target_duration": 60,
+  "total_duration": 60.0,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "act_type": "hook",
+      "visual_description": "Close-up of a woman's cheek with visible dry patches and fine lines, under harsh, slightly desaturated lighting. Macro lens.",
+      "narration": "皮肤干燥起皮、细纹明显？别让缺水肌拖垮你的颜值！",
+      "duration": 8.0,
+      "camera_movement": "push_in",
+      "text_overlay": "干燥肌？细纹？",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "product",
+      "act_type": "main",
+      "visual_description": "Elegant hero shot of the hyaluronic acid moisturizing cream on a pristine marble surface, with a soft, warm glow. Product slowly rotates, highlighting its texture.",
+      "narration": "别担心！这款玻尿酸保湿面霜，就是你肌肤的“救星”！",
+      "duration": 8.0,
+      "camera_movement": "rotating_pan",
+      "text_overlay": "玻尿酸保湿面霜",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "hands_on",
+      "act_type": "main",
+      "visual_description": "A hand scoops a pearl-sized amount of cream and gently applies it to the right side of a woman's face. Natural, bright lighting. Close-up on the application area.",
+      "narration": "轻柔涂抹，感受瞬间的润泽，让肌肤大口“喝饱水”。",
+      "duration": 9.0,
+      "camera_movement": "smooth_tracking",
+      "text_overlay": "半边脸实测",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Extreme close-up of the cream being massaged into the skin, showing quick absorption without residue. Skin appears smoother. Soft focus.",
+      "narration": "独特配方，快速渗透，深入肌底，补水效果立竿见影。",
+      "duration": 8.0,
+      "camera_movement": "macro_zoom",
+      "text_overlay": "快速吸收 不黏腻",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "result",
+      "act_type": "main",
+      "visual_description": "Split-screen before/after. Left side shows dry, dull skin (from Shot 1). Right side shows plump, radiant skin after application. Bright, even studio lighting. Genuine happy expression.",
+      "narration": "左右脸对比，惊人效果看得见！干燥暗沉一扫而光。",
+      "duration": 9.0,
+      "camera_movement": "static_split_screen",
+      "text_overlay": "使用前 VS 使用后",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Close-up of the hydrated, glowing skin on the treated side, subtly dewy, no visible dry lines. The woman smiles confidently.",
+      "narration": "肌肤Q弹水润，摸起来柔软细腻，仿佛喝饱了水。",
+      "duration": 8.0,
+      "camera_movement": "slow_pan",
+      "text_overlay": "水润Q弹 告别粗糙",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "cta",
+      "act_type": "cta",
+      "visual_description": "Product array with a '限时优惠' (limited time offer) price tag overlay. Hands point to the product. Warm, inviting lighting. Animated '立即购买' button.",
+      "narration": "别再犹豫！限时优惠，立即拥有水润美肌，点击下方链接！",
+      "duration": 10.0,
+      "camera_movement": "zoom_out",
+      "text_overlay": "限时优惠 立即抢购",
+      "lighting": "natural",
+      "mood": "neutral",
+      "use_product_image": false
+    }
+  ],
+  "selling_points": [
+    "强效补水，缓解干燥",
+    "长效锁水，持久滋润",
+    "改善粗糙，细腻肌肤",
+    "提亮肤色，增加光泽"
+  ],
+  "quality_report": {},
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "2dcfc943",
+    "script_id": 0,
+    "script_name": "稳妥款 · 实验对比",
+    "risk_level": "safe",
+    "competitor_summary": {
+      "winning_patterns": [
+        "实验对比: 左右脸对比/素颜vs上妆",
+        "成分党: 用显微镜/实验室画面展示核心成分",
+        "痛点故事: 真实场景切入，引发共鸣"
+      ],
+      "hook_strategies": [
+        "视觉冲击力强，直接展示问题与解决方案",
+        "反常识开场，引发用户好奇心",
+        "强调科学依据和成分优势，建立信任"
+      ],
+      "content_structures": [
+        "痛点切入→产品亮相→上脸实测→效果对比→限时优惠",
+        "反常识开场→真相揭秘→产品介绍→使用教程→before/after"
+      ],
+      "emotional_triggers": [
+        "焦虑感(皮肤干燥、暗沉、细纹等问题)",
+        "期待感(变美、肌肤改善、重获自信)",
+        "信任感(成分透明、实验证明、专家推荐)",
+        "紧迫感(限时优惠、库存有限)"
+      ]
+    },
+    "market_summary": {
+      "summary": "美妆护肤市场对保湿面霜需求旺盛，消费者普遍面临皮肤干燥、缺水、暗沉、细纹等问题，期望产品能提供长效保湿、清爽不黏腻的使用感，并能改善肤质，提升肌肤光泽和弹性。",
+      "key_findings": [
+        "消费者看重成分的有效性与安全性，尤其对玻尿酸等经典保湿成分有认知度。",
+        "偏好有可视效果的产品，如使用前后对比、即时水润感。",
+        "对产品质地和吸收速度有高要求，不希望厚重或搓泥。",
+        "年轻消费者更易被新颖的科普或故事性内容吸引。"
+      ]
+    }
+  },
+  "created_at": "2026-03-07T23:08:39.077594",
+  "updated_at": "2026-03-07T23:08:39.077594",
+  "narration_voice": "zh-CN-XiaoxiaoNeural",
+  "narrations": [
+    {
+      "shot_id": 1,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_230839\\narrations\\shot_01.mp3",
+      "audio_url": "/outputs/video_20260307_230839/narrations/shot_01.mp3",
+      "text": "皮肤干燥起皮、细纹明显？别让缺水肌拖垮你的颜值！",
+      "duration": 19.37
+    },
+    {
+      "shot_id": 2,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_230839\\narrations\\shot_02.mp3",
+      "audio_url": "/outputs/video_20260307_230839/narrations/shot_02.mp3",
+      "text": "别担心！这款玻尿酸保湿面霜，就是你肌肤的“救星”！",
+      "duration": 17.5
+    },
+    {
+      "shot_id": 3,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_230839\\narrations\\shot_03.mp3",
+      "audio_url": "/outputs/video_20260307_230839/narrations/shot_03.mp3",
+      "text": "轻柔涂抹，感受瞬间的润泽，让肌肤大口“喝饱水”。",
+      "duration": 16.2
+    },
+    {
+      "shot_id": 4,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_230839\\narrations\\shot_04.mp3",
+      "audio_url": "/outputs/video_20260307_230839/narrations/shot_04.mp3",
+      "text": "独特配方，快速渗透，深入肌底，补水效果立竿见影。",
+      "duration": 18.07
+    },
+    {
+      "shot_id": 5,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_230839\\narrations\\shot_05.mp3",
+      "audio_url": "/outputs/video_20260307_230839/narrations/shot_05.mp3",
+      "text": "左右脸对比，惊人效果看得见！干燥暗沉一扫而光。",
+      "duration": 17.28
+    },
+    {
+      "shot_id": 6,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_230839\\narrations\\shot_06.mp3",
+      "audio_url": "/outputs/video_20260307_230839/narrations/shot_06.mp3",
+      "text": "肌肤Q弹水润，摸起来柔软细腻，仿佛喝饱了水。",
+      "duration": 16.06
+    },
+    {
+      "shot_id": 7,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_230839\\narrations\\shot_07.mp3",
+      "audio_url": "/outputs/video_20260307_230839/narrations/shot_07.mp3",
+      "text": "别再犹豫！限时优惠，立即拥有水润美肌，点击下方链接！",
+      "duration": 20.09
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "title": "优化款",
+  "topic": "智能手表",
+  "product_name": "智能手表",
+  "product_detail": "智能手表",
+  "industry": "数码3C",
+  "target_duration": 60,
+  "total_duration": 60,
+  "shot_count": 8,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "wide_shot_to_macro_close_up",
+      "act_type": "main",
+      "visual_description": "Wide shot of a peaceful living room with sunlight, transitioning to a macro close-up. An elderly woman, with grey hair, quietly slips and falls silently to the floor while watering a plant. The camera swiftly zooms in on her wrist, showcasing a smart watch screen that illuminates with an urgent red text: 'Fall detected, sending distress signal!' accompanied by a loud alarm sound. Cinematic, dramatic lighting, high contrast.",
+      "narration": "你有没有想过，当意外突然发生，而你身边空无一人时，会是怎样的绝望？就像这样…它来得猝不及防，也可能是无声无息。",
+      "duration": 5,
+      "camera_movement": "quick_push_in",
+      "lighting": "studio_soft",
+      "mood": "shocking",
+      "text_overlay": "跌落检测｜紧急求助",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "close_up_on_watch_and_person",
+      "act_type": "main",
+      "visual_description": "Close-up on an elderly woman lying helplessly on the floor, her face contorted in pain and worry. Simultaneously, a smart watch screen on her wrist shows a prominent countdown: 'Calling emergency contact in 5 seconds'. Background features her faint, anxious breathing sounds and the urgent ticking of the watch countdown. Cinematic, high emotion, focus on distress and urgency.",
+      "narration": "你以为这只是一次普通的跌倒？但在关键时刻，它可能是独居老人最无助的求救信号，也可能是户外探险者身陷险境的最后一道防线。你知道吗？每一秒都可能决定生命的走向。",
+      "duration": 8,
+      "camera_movement": "static_slight_pull_back",
+      "lighting": "dramatic",
+      "mood": "anxious",
+      "text_overlay": "生命倒计时｜5秒自动求助",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "split_screen_demonstration",
+      "act_type": "main",
+      "visual_description": "Split screen. Left: Smartwatch automatically making an emergency call and sending precise GPS location, displaying 'Emergency contact called' and a map interface. Right: Influencer's (simulating a child's) smartphone receiving an urgent notification and location. She anxiously answers the call, her eyes filled with worry, then quickly stands up as if rushing to the scene. Cinematic, urgent, clear demonstration.",
+      "narration": "就是说，当意外来临，它就像你身边最忠诚的守护者，不给你后悔的机会。一块小小的手表，在生死攸关之际，为你争取到宝贵的救援时间，真的太重要了！",
+      "duration": 10,
+      "camera_movement": "static",
+      "lighting": "bright_functional",
+      "mood": "hopeful_relief",
+      "text_overlay": "自动呼叫｜精准定位｜家人安心",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "medium_close_up_with_macro_ui",
+      "act_type": "main",
+      "visual_description": "Medium close-up shot in a bright, clean home environment. Influencer confidently wears a smartwatch, demonstrating ECG and blood oxygen monitoring functions. The camera zooms in, showing real-time ECG waveforms and blood oxygen saturation data on the watch screen. Influencer gestures while explaining how these daily monitoring features help 'prevent problems before they start,' such as alerting users to abnormal heart rates. Professional, informative, clear UI display.",
+      "narration": "但它不只是事后补救，更厉害的是，它能帮你防患于未然！你知道吗，像心电图、血氧监测这些高级功能，现在都能在你手腕上实时查看了。它就像一个24小时在线的私人医生，帮你及时发现那些潜在的健康风险。",
+      "duration": 10,
+      "camera_movement": "smooth_pan_to_watch",
+      "lighting": "natural_daylight",
+      "mood": "informative_professional",
+      "text_overlay": "实时心电图｜血氧监测｜健康预警",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "quick_cuts_montage",
+      "act_type": "main",
+      "visual_description": "Quick cuts montage of multiple daily life scenarios. 1. Influencer in a convenience store, effortlessly making mobile payment with her smartwatch, smiling. 2. Influencer reading in a cafe, smartwatch vibrates, she checks an important notification, focused expression. 3. Influencer getting ready to leave, smartwatch buzzes with today's schedule reminder, she glances at it confidently. Dynamic, modern, urban lifestyle, clear UI on watch.",
+      "narration": "当然了，除了健康守护，它还是你生活里不可或缺的智能小管家。移动支付、消息通知、日程提醒，所有的一切，抬腕可见。再也不会错过重要的信息，告别手忙脚乱的生活！",
+      "duration": 8,
+      "camera_movement": "dynamic",
+      "lighting": "bright_ambient",
+      "mood": "convenient_efficient",
+      "text_overlay": "移动支付｜消息通知｜日程提醒",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "dynamic_action_shots_with_ui_overlay",
+      "act_type": "main",
+      "visual_description": "Dynamic tracking shot of influencer in sportswear, energetically running on an outdoor park path or doing yoga in a gym. Smartwatch displays real-time heart rate zones, calorie burn, and exercise route. An animated 'Fitness Challenge' leaderboard pops up on the side of the screen. Influencer, with a sweaty but vibrant smile, looks at the camera as if inviting viewers to join. Energetic, inspiring, clear UI overlay.",
+      "narration": "而且，如果你是运动爱好者，它简直就是你的专属运动教练！精准追踪你的每一次心跳，记录你的运动轨迹，甚至还能加入健身挑战赛，让你越动越有劲儿，越活越年轻，真的！",
+      "duration": 8,
+      "camera_movement": "tracking_shot",
+      "lighting": "outdoor_bright",
+      "mood": "energetic_motivating",
+      "text_overlay": "运动追踪｜心率区间｜健身挑战赛",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "medium_close_up_with_soft_focus",
+      "act_type": "main",
+      "visual_description": "Medium close-up of influencer, with sincere and emotional eyes, holding a smartwatch and gazing at it gently. The background is softly blurred with warm lighting, creating a cozy atmosphere. Influencer speaks passionately about the watch embodying love for life and family responsibility, providing invaluable peace of mind. Quick flashbacks of the elderly person being rescued and children's relieved smiles. Emotional, heartfelt, warm.",
+      "narration": "所以你看，它不只是一块冰冷的科技产品，它承载着我们对生命的热爱，对家人的责任，更是那种花多少钱都买不到的、无价的安心。我当时就觉得，这才是真正值得拥有的东西。",
+      "duration": 8,
+      "camera_movement": "slow_zoom_in",
+      "lighting": "soft_warm",
+      "mood": "emotional_trusting",
+      "text_overlay": "守护生命｜家人责任｜无价安心",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 8,
+      "shot_type": "full_screen_graphic_with_influencer_gesture",
+      "act_type": "main",
+      "visual_description": "Full-screen graphic with a concise and powerful call-to-action message: 'Don't let regret be an option. Protect your health and family's safety, starting now!' A clear purchase QR code or link appears at the bottom of the screen. Influencer has a determined expression, pointing with one hand towards the bottom-left of the screen, her eyes conveying encouragement. Urgent, decisive, clean graphics.",
+      "narration": "真的，别让遗憾成为可能！守护你和家人的健康安全，从这一刻开始。点击下方小黄车，把它带回家，给爱一个实实在在的保障！",
+      "duration": 3,
+      "camera_movement": "static",
+      "lighting": "bright_direct",
+      "mood": "urgent_decisive",
+      "text_overlay": "立即购买｜守护家人｜点击小黄车",
+      "use_product_image": false
+    }
+  ],
+  "selling_points": [
+    "全面健康守护：实时监测心率、血氧，支持心电图和跌落检测，让你和家人防患于未然，获得安心保障。",
+    "智能生活管家：模拟用户一天生活流，移动支付、消息通知、日程提醒一手掌握，告别错失，体验高效便捷。",
+    "你的专属运动教练：精准追踪运动数据、心率，结合健身达人挑战赛模式，激发运动热情，助你科学健身，健康活力触手可及。"
+  ],
+  "quality_report": {
+    "hook_score": 6,
+    "info_density_score": 6,
+    "selling_point_coverage": [],
+    "fixes_applied": [
+      "Producer降级，未执行质审"
+    ]
+  },
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "0d06c970",
+    "script_id": 2,
+    "script_name": "优化款",
+    "risk_level": "moderate",
+    "competitor_summary": {
+      "winning_patterns": [
+        "健身达人挑战赛：结合运动场景，展示运动数据追踪、心率监测等功能，激发用户运动热情。",
+        "一天生活流：模拟用户从早到晚佩戴智能手表的便利性，如移动支付、消息通知、日程提醒和健康监测。",
+        "功能深度解析：针对某一核心或创新功能（如心电图、血氧饱和度、跌落检测）进行详细演示和科学解读。"
+      ],
+      "hook_strategies": [
+        "反问痛点：\"你还在为错过重要信息，或者担忧父母健康而烦恼吗？\"",
+        "直接展示核心功能：\"看，我的手表不仅能测心电图，还能帮你提前预警潜在风险！\"",
+        "制造好奇：\"一块小小的手表，竟然能帮你省下每天半小时，改变你的生活方式！\""
+      ],
+      "content_structures": [
+        "问题引入 -> 解决方案（产品） -> 功能演示 -> 用户证言/利益点总结 -> CTA（Call To Action）",
+        "场景代入 -> 产品功能融入 -> 情感共鸣 -> 价值升华 -> CTA"
+      ],
+      "emotional_triggers": [
+        "健康焦虑与安全感：关注自身健康数据，防患于未然，获得安心。",
+        "效率提升与便捷感：掌控生活节奏，告别错失，体验智能生活。",
+        "身份认同与时尚感：佩戴科技潮品，彰显品味，走在潮流前沿。"
+      ]
+    },
+    "market_summary": {
+      "summary": "智能手表市场已趋于成熟，但仍有增长空间，主要驱动力来自用户对健康监测、运动追踪和生活便捷的需求。主要痛点在于续航能力、数据精准度、隐私保护以及部分用户认为其“非必需品”的认知。",
+      "key_findings": [
+        "健康监测（如心率、血氧、睡眠质量）是用户购买智能手表的第一驱动力，尤其受中老年和健身人群青睐。",
+        "与主流手机生态系统的无缝集成和多设备协同体验，是提升用户粘性和产品竞争力的关键。",
+        "外观设计、材质选择以及个性化表盘/表带的定制能力，对年轻消费者和注重时尚的用户具有重要吸引力。",
+        "电池续航能力仍是用户普遍关注的痛点，直接影响使用体验和购买决策。"
+      ]
+    }
+  },
+  "created_at": "2026-03-05T16:31:15.765816",
+  "updated_at": "2026-03-05T16:31:15.765816"
+}

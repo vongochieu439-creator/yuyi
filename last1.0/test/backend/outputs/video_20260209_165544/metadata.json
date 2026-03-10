@@ -1,0 +1,136 @@
+{
+  "title": "洗面奶 - AI生成视频",
+  "topic": "洗面奶",
+  "target_duration": 60,
+  "total_duration": 60.5,
+  "shot_count": 12,
+  "viral_score": 0.0,
+  "generation_stage": "script",
+  "style": "marketing",
+  "selling_points": null,
+  "shots": [
+    {
+      "id": 1,
+      "shot_type": "talking_head",
+      "act_type": "act1",
+      "visual_description": "A young, vibrant female influencer looking directly at the camera with a slightly concerned yet engaging expression, gently touching her cheek. Soft studio lighting, clean minimalist background, focusing on her expressive face to convey a common skin dilemma.",
+      "narration": "你的肌肤是不是总觉得洗不干净，毛孔粗大还泛油光？",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.3,
+      "use_product_image": false
+    },
+    {
+      "id": 2,
+      "shot_type": "scene",
+      "act_type": "act1",
+      "visual_description": "Extreme close-up macro shot of a human skin surface, highlighting enlarged pores, subtle oiliness, and dull texture. The lighting is slightly desaturated and clinical, emphasizing imperfections and the need for deep cleansing.",
+      "narration": "每次清洁都像在做无用功，脏污和残留让肌肤暗沉无光？",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.5,
+      "use_product_image": false
+    },
+    {
+      "id": 3,
+      "shot_type": "transition",
+      "act_type": "act1",
+      "visual_description": "A dynamic and swift graphic transition sequence: a blurred, dull skin texture quickly dissolves into a vibrant, glowing, clear skin texture with a bright, energetic light sweep. Fast-paced, modern, and visually impactful.",
+      "narration": "别担心，你的肌肤救星来了！",
+      "duration": 3.6666666666666665,
+      "emotion_score": 0.7,
+      "use_product_image": false
+    },
+    {
+      "id": 4,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "A pristine, elegant close-up of a sleek facial cleanser bottle, rotating slowly on a minimalist white pedestal. Soft, professional studio lighting highlights product details, texture, and brand elegance, creating a premium feel.",
+      "narration": "隆重介绍——[产品名称]洗面奶，开启你净透美肌的第一步。",
+      "duration": 5,
+      "emotion_score": 0.7,
+      "use_product_image": true
+    },
+    {
+      "id": 5,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "Macro shot of hands expertly squeezing a small amount of cleanser and then creating a rich, dense, creamy white foam. Water droplets glisten, with soft focus on the luxurious, voluminous texture of the lather forming.",
+      "narration": "轻柔一挤，瞬间搓出绵密云朵般的泡沫，极致亲肤，温和不刺激。",
+      "duration": 5,
+      "emotion_score": 0.76,
+      "use_product_image": true
+    },
+    {
+      "id": 6,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "Stylized animation or VFX: microscopic dirt particles and oil droplets are visibly lifted and dissolved from a skin surface by tiny, glowing cleansing bubbles, revealing pristine, clear skin underneath. Dynamic and scientifically appealing.",
+      "narration": "它能深入毛孔，像磁铁一样吸走顽固污垢、彩妆残留和多余油脂。",
+      "duration": 5,
+      "emotion_score": 0.8200000000000001,
+      "use_product_image": false
+    },
+    {
+      "id": 7,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "Close-up of the facial cleanser bottle, with animated glowing lines tracing key ingredient names or benefits (e.g., 'Deep Cleansing,' 'Hydrating Formula') appearing as elegant text overlays. Bright, inviting, and informative lighting.",
+      "narration": "独特的温和配方，富含多种护肤精华，清洁同时滋养肌肤。",
+      "duration": 5.5,
+      "emotion_score": 0.88,
+      "use_product_image": true
+    },
+    {
+      "id": 8,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "A model's hands gently massaging the rich foam onto her face in a circular motion. Her expression is serene and relaxed, conveying comfort and a pleasant experience. Soft, natural lighting in a clean bathroom aesthetic.",
+      "narration": "告别紧绷干涩，享受每一次洗脸的愉悦，肌肤仿佛在深呼吸。",
+      "duration": 4.5,
+      "emotion_score": 0.8800000000000001,
+      "use_product_image": true
+    },
+    {
+      "id": 9,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "Close-up of a model's face after cleansing: skin appears visibly brighter, smoother, and more radiant, with minimized pores and a healthy, dewy glow. Soft, flattering light emphasizes the fresh, clean results.",
+      "narration": "洗后肌肤清爽不假滑，水润Q弹，焕发自然健康光泽。",
+      "duration": 5.5,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 10,
+      "shot_type": "talking_head",
+      "act_type": "act3",
+      "visual_description": "The female influencer from Shot 1, now smiling confidently and warmly, holding the facial cleanser product. Her skin looks visibly radiant and clear, conveying genuine satisfaction and endorsement. Bright, positive studio lighting.",
+      "narration": "坚持使用，你会发现肌肤质感显著提升，每天都能自信满满。",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 11,
+      "shot_type": "effect",
+      "act_type": "act3",
+      "visual_description": "A fast-paced montage of diverse individuals (men and women) smiling, laughing, and confidently touching their clear, glowing faces in various daily scenarios (e.g., outdoor, office, social settings). Bright, energetic, and aspirational.",
+      "narration": "净透肌肤不再是梦想，是每天都能拥有的真实体验！",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.95,
+      "use_product_image": false
+    },
+    {
+      "id": 12,
+      "shot_type": "transition",
+      "act_type": "act3",
+      "visual_description": "A clean, modern graphic display: the product bottle centered, with the brand logo prominently displayed below. Website address and social media handles animate in smoothly. Bright, inviting colors for a clear call to action.",
+      "narration": "立即购买[产品名称]，从现在开始，给你的肌肤一次彻底的改变！",
+      "duration": 3.6666666666666665,
+      "emotion_score": 1.0,
+      "use_product_image": false
+    }
+  ],
+  "product_images": [],
+  "keyframes": [],
+  "created_at": "2026-02-09T16:56:03.732974"
+}

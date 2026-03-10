@@ -1,0 +1,694 @@
+C:\Users\86187\Desktop\yuyi_pro_v2\webapp\main.py:91: DeprecationWarning: 
+        on_event is deprecated, use lifespan event handlers instead.
+
+        Read more about it in the
+        [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+        
+  @app.on_event("startup")
+C:\Users\86187\Desktop\yuyi_pro_v2\webapp\main.py:105: DeprecationWarning: 
+        on_event is deprecated, use lifespan event handlers instead.
+
+        Read more about it in the
+        [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+        
+  @app.on_event("shutdown")
+[32m2026-02-09 13:31:25.770[0m | [1mINFO    [0m | [36m__main__[0m:[36m<module>[0m:[36m113[0m - [1m启动Web服务器: http://0.0.0.0:8081[0m
+INFO:     Started server process [23956]
+INFO:     Waiting for application startup.
+[32m2026-02-09 13:31:25.814[0m | [1mINFO    [0m | [36mwebapp.main[0m:[36mstartup_event[0m:[36m94[0m - [1m羽翼Pro V2 Web服务器启动中...[0m
+[32m2026-02-09 13:31:25.814[0m | [1mINFO    [0m | [36mwebapp.main[0m:[36mstartup_event[0m:[36m95[0m - [1m输出目录: C:\Users\86187\Desktop\yuyi_pro_v2\outputs[0m
+[32m2026-02-09 13:31:25.814[0m | [1mINFO    [0m | [36mwebapp.main[0m:[36mstartup_event[0m:[36m96[0m - [1m静态文件目录: C:\Users\86187\Desktop\yuyi_pro_v2\webapp\static[0m
+[32m2026-02-09 13:31:25.815[0m | [1mINFO    [0m | [36mwebapp.main[0m:[36mstartup_event[0m:[36m103[0m - [1m找到 9 个视频项目[0m
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8081 (Press CTRL+C to quit)
+[32m2026-02-09 13:31:51.421[0m | [1mINFO    [0m | [36mwebapp.api.keyframes[0m:[36mgenerate_keyframes[0m:[36m49[0m - [1m开始为项目 video_20260209_132522 生成关键帧[0m
+[32m2026-02-09 13:31:51.423[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mcreate_generation_task[0m:[36m73[0m - [1m创建关键帧生成任务: 672f39f0-257b-4d52-b0aa-f4d7d38a07ee, 项目: video_20260209_132522, 分镜数: 12[0m
+[32m2026-02-09 13:31:51.423[0m | [1mINFO    [0m | [36mwebapp.api.keyframes[0m:[36mgenerate_keyframes[0m:[36m75[0m - [1m关键帧生成任务已创建: 672f39f0-257b-4d52-b0aa-f4d7d38a07ee[0m
+INFO:     127.0.0.1:52513 - "POST /api/projects/video_20260209_132522/generate-keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:31:51.424[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m110[0m - [1m开始处理关键帧生成任务: 672f39f0-257b-4d52-b0aa-f4d7d38a07ee[0m
+[32m2026-02-09 13:31:51.424[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: A professional tech reviewer w... -> A professional tech reviewer w...[0m
+[32m2026-02-09 13:31:51.424[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=A professional tech reviewer with an energetic exp...[0m
+[32m2026-02-09 13:31:51.424[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=A professional tech reviewer with an energetic exp..., num_images=1[0m
+[32m2026-02-09 13:31:52.864[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4126561, 'quantity': 1}, 'exec_time': 0.502174, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 13:31:52.864[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4126561[0m
+[32m2026-02-09 13:31:53.476[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 13:31:57.309[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 13:32:01.017[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 13:32:04.848[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+[32m2026-02-09 13:32:08.486[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 13:32:12.361[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 13:32:15.980[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 13:32:19.832[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+[32m2026-02-09 13:32:23.435[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 13:32:27.272[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 13:32:30.976[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+[32m2026-02-09 13:32:34.887[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=2[0m
+[32m2026-02-09 13:32:34.887[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/171026dc06e54463b2c6b9b88668f2cd.png...[0m
+[32m2026-02-09 13:32:34.888[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 13:32:34.890[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/171026dc06e54463b2c6b9b88668f2cd.png..., 成本: ¥0.12[0m
+[32m2026-02-09 13:32:37.389[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_001_v1.jpg[0m
+[32m2026-02-09 13:32:37.393[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m195[0m - [1m关键帧生成成功: shot_1, 成本: ¥0.12[0m
+[32m2026-02-09 13:32:37.910[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: A fast-paced montage of a pers... -> A fast-paced montage of a pers...[0m
+[32m2026-02-09 13:32:37.910[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=A fast-paced montage of a person jogging outdoors,...[0m
+[32m2026-02-09 13:32:37.910[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=A fast-paced montage of a person jogging outdoors,..., num_images=1[0m
+[32m2026-02-09 13:32:39.256[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4126605, 'quantity': 1}, 'exec_time': 0.50296, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 13:32:39.256[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4126605[0m
+[32m2026-02-09 13:32:39.959[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 13:32:43.779[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 13:32:47.418[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 13:32:51.260[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+[32m2026-02-09 13:32:54.913[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 13:32:58.763[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 13:33:02.537[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 13:33:06.390[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+[32m2026-02-09 13:33:10.026[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 13:33:13.858[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 13:33:17.504[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+[32m2026-02-09 13:33:21.347[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=0[0m
+[32m2026-02-09 13:33:24.980[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 13/60: status=0[0m
+INFO:     127.0.0.1:61204 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:33:28.805[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 14/60: status=0[0m
+[32m2026-02-09 13:33:32.448[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 15/60: status=0[0m
+INFO:     127.0.0.1:61221 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:33:36.316[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 16/60: status=2[0m
+[32m2026-02-09 13:33:36.316[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/12df29c72d6f45be8664742ceab5b587.png...[0m
+[32m2026-02-09 13:33:36.316[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 13:33:36.318[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/12df29c72d6f45be8664742ceab5b587.png..., 成本: ¥0.12[0m
+[32m2026-02-09 13:33:38.207[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_002_v1.jpg[0m
+[32m2026-02-09 13:33:38.210[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m195[0m - [1m关键帧生成成功: shot_2, 成本: ¥0.12[0m
+[32m2026-02-09 13:33:38.706[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: A dynamic graphic animation fe... -> A dynamic graphic animation fe...[0m
+[32m2026-02-09 13:33:38.707[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=A dynamic graphic animation featuring streams of d...[0m
+[32m2026-02-09 13:33:38.707[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=A dynamic graphic animation featuring streams of d..., num_images=1[0m
+[32m2026-02-09 13:33:40.061[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4126622, 'quantity': 1}, 'exec_time': 0.47345, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 13:33:40.062[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4126622[0m
+[32m2026-02-09 13:33:40.724[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 13:33:44.564[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 13:33:48.249[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+INFO:     127.0.0.1:57829 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:33:52.110[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+[32m2026-02-09 13:33:55.783[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 13:33:59.631[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 13:34:03.309[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+INFO:     127.0.0.1:57851 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:34:07.142[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+[32m2026-02-09 13:34:10.927[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 13:34:14.850[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=2[0m
+[32m2026-02-09 13:34:14.851[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/8f1284d29a304429996ae4869c9c1cf4.png...[0m
+[32m2026-02-09 13:34:14.852[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 13:34:14.855[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/8f1284d29a304429996ae4869c9c1cf4.png..., 成本: ¥0.12[0m
+[32m2026-02-09 13:34:16.998[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_003_v1.jpg[0m
+[32m2026-02-09 13:34:17.000[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m195[0m - [1m关键帧生成成功: shot_3, 成本: ¥0.12[0m
+[32m2026-02-09 13:34:17.491[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: An extreme close-up shot of th... -> An extreme close-up shot of th...[0m
+[32m2026-02-09 13:34:17.491[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=An extreme close-up shot of the smartwatch screen,...[0m
+[32m2026-02-09 13:34:17.491[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=An extreme close-up shot of the smartwatch screen,..., num_images=1[0m
+[32m2026-02-09 13:34:19.326[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4126631, 'quantity': 1}, 'exec_time': 0.507149, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 13:34:19.326[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4126631[0m
+INFO:     127.0.0.1:57874 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:34:19.935[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 13:34:23.815[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 13:34:27.456[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 13:34:31.320[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+INFO:     127.0.0.1:61702 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:34:34.992[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 13:34:38.834[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 13:34:42.445[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 13:34:46.309[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+INFO:     127.0.0.1:61722 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:34:49.917[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 13:34:53.707[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 13:34:57.320[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=2[0m
+[32m2026-02-09 13:34:57.320[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/642aeb99b0c04968955860a941c4669d.png...[0m
+[32m2026-02-09 13:34:57.321[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 13:34:57.324[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/642aeb99b0c04968955860a941c4669d.png..., 成本: ¥0.12[0m
+[32m2026-02-09 13:34:59.519[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_004_v1.jpg[0m
+[32m2026-02-09 13:34:59.524[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m195[0m - [1m关键帧生成成功: shot_4, 成本: ¥0.12[0m
+[32m2026-02-09 13:35:00.017[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: A hand gently tapping and swip... -> A hand gently tapping and swip...[0m
+[32m2026-02-09 13:35:00.018[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=A hand gently tapping and swiping through various ...[0m
+[32m2026-02-09 13:35:00.018[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=A hand gently tapping and swiping through various ..., num_images=1[0m
+[32m2026-02-09 13:35:01.389[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4126643, 'quantity': 1}, 'exec_time': 0.508817, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 13:35:01.389[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4126643[0m
+[32m2026-02-09 13:35:02.024[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+INFO:     127.0.0.1:61748 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:35:05.915[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 13:35:09.545[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 13:35:13.706[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+[32m2026-02-09 13:35:17.321[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+INFO:     127.0.0.1:61765 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:35:21.179[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 13:35:24.796[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 13:35:28.636[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+[32m2026-02-09 13:35:32.275[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+INFO:     127.0.0.1:61782 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:35:36.403[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 13:35:40.053[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+[32m2026-02-09 13:35:43.922[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=0[0m
+[32m2026-02-09 13:35:47.589[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 13/60: status=0[0m
+INFO:     127.0.0.1:61799 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:35:51.425[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 14/60: status=0[0m
+[32m2026-02-09 13:35:55.059[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 15/60: status=0[0m
+[32m2026-02-09 13:35:58.890[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 16/60: status=0[0m
+[32m2026-02-09 13:36:02.523[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 17/60: status=0[0m
+INFO:     127.0.0.1:54590 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:36:06.379[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 18/60: status=0[0m
+[32m2026-02-09 13:36:10.023[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 19/60: status=0[0m
+[32m2026-02-09 13:36:13.872[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 20/60: status=0[0m
+[32m2026-02-09 13:36:17.516[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 21/60: status=0[0m
+INFO:     127.0.0.1:54607 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:36:21.380[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 22/60: status=2[0m
+[32m2026-02-09 13:36:21.380[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/0f3437891bf14aa795dd8ae8e18f0114.png...[0m
+[32m2026-02-09 13:36:21.382[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 13:36:21.387[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/0f3437891bf14aa795dd8ae8e18f0114.png..., 成本: ¥0.12[0m
+[32m2026-02-09 13:36:23.277[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_005_v1.jpg[0m
+[32m2026-02-09 13:36:23.284[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m195[0m - [1m关键帧生成成功: shot_5, 成本: ¥0.12[0m
+[32m2026-02-09 13:36:23.789[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: A vibrant animated graphic sho... -> A vibrant animated graphic sho...[0m
+[32m2026-02-09 13:36:23.790[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=A vibrant animated graphic showing a battery icon ...[0m
+[32m2026-02-09 13:36:23.790[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=A vibrant animated graphic showing a battery icon ..., num_images=1[0m
+[32m2026-02-09 13:36:25.200[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4126675, 'quantity': 1}, 'exec_time': 0.500366, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 13:36:25.201[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4126675[0m
+[32m2026-02-09 13:36:25.827[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 13:36:29.653[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 13:36:33.264[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+INFO:     127.0.0.1:54630 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:36:37.142[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+[32m2026-02-09 13:36:40.824[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 13:36:44.659[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 13:36:48.292[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+INFO:     127.0.0.1:54083 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:36:52.117[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+[32m2026-02-09 13:36:55.795[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 13:36:59.648[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 13:37:03.302[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+INFO:     127.0.0.1:54126 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:37:07.152[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=0[0m
+[32m2026-02-09 13:37:10.807[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 13/60: status=0[0m
+[32m2026-02-09 13:37:14.642[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 14/60: status=0[0m
+[32m2026-02-09 13:37:18.282[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 15/60: status=2[0m
+[32m2026-02-09 13:37:18.282[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/af4ffb03d9284b30977ca9a7652d1e5a.png...[0m
+[32m2026-02-09 13:37:18.283[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 13:37:18.287[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/af4ffb03d9284b30977ca9a7652d1e5a.png..., 成本: ¥0.12[0m
+INFO:     127.0.0.1:56719 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:37:20.260[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_006_v1.jpg[0m
+[32m2026-02-09 13:37:20.265[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m195[0m - [1m关键帧生成成功: shot_6, 成本: ¥0.12[0m
+[32m2026-02-09 13:37:20.773[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: A close-up shot of the smartwa... -> A close-up shot of the smartwa...[0m
+[32m2026-02-09 13:37:20.773[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=A close-up shot of the smartwatch charging wireles...[0m
+[32m2026-02-09 13:37:20.773[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=A close-up shot of the smartwatch charging wireles..., num_images=1[0m
+[32m2026-02-09 13:37:22.192[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4126692, 'quantity': 1}, 'exec_time': 0.503252, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 13:37:22.193[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4126692[0m
+[32m2026-02-09 13:37:22.826[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 13:37:26.693[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 13:37:30.338[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 13:37:34.155[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+INFO:     127.0.0.1:63942 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:37:37.868[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 13:37:41.774[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 13:37:45.425[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 13:37:49.277[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+INFO:     127.0.0.1:63962 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:37:52.984[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 13:37:56.844[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=2[0m
+[32m2026-02-09 13:37:56.845[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/1658ca1ba2ba46d283098122c3d258fd.png...[0m
+[32m2026-02-09 13:37:56.845[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 13:37:56.849[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/1658ca1ba2ba46d283098122c3d258fd.png..., 成本: ¥0.12[0m
+[32m2026-02-09 13:37:58.635[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_007_v1.jpg[0m
+[32m2026-02-09 13:37:58.648[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m195[0m - [1m关键帧生成成功: shot_7, 成本: ¥0.12[0m
+[32m2026-02-09 13:37:59.170[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: A person wearing the smartwatc... -> A person wearing the smartwatc...[0m
+[32m2026-02-09 13:37:59.171[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=A person wearing the smartwatch, jogging outdoors ...[0m
+[32m2026-02-09 13:37:59.173[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=A person wearing the smartwatch, jogging outdoors ..., num_images=1[0m
+[32m2026-02-09 13:38:00.657[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4126712, 'quantity': 1}, 'exec_time': 0.544053, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 13:38:00.657[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4126712[0m
+[32m2026-02-09 13:38:01.326[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+INFO:     127.0.0.1:56680 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:38:05.168[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 13:38:08.830[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 13:38:12.680[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+[32m2026-02-09 13:38:16.341[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+INFO:     127.0.0.1:56695 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:38:20.179[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 13:38:23.852[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 13:38:27.761[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+[32m2026-02-09 13:38:31.435[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+INFO:     127.0.0.1:56718 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:38:35.266[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 13:38:38.920[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+[32m2026-02-09 13:38:42.789[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=0[0m
+[32m2026-02-09 13:38:46.442[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 13/60: status=0[0m
+INFO:     127.0.0.1:56745 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:38:50.289[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 14/60: status=0[0m
+[32m2026-02-09 13:38:54.036[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 15/60: status=0[0m
+[32m2026-02-09 13:38:57.898[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 16/60: status=0[0m
+[32m2026-02-09 13:39:01.614[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 17/60: status=0[0m
+INFO:     127.0.0.1:63697 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:39:05.799[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 18/60: status=0[0m
+[32m2026-02-09 13:39:09.457[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 19/60: status=0[0m
+[32m2026-02-09 13:39:13.344[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 20/60: status=0[0m
+[32m2026-02-09 13:39:16.958[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 21/60: status=0[0m
+INFO:     127.0.0.1:58375 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:39:20.849[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 22/60: status=0[0m
+[32m2026-02-09 13:39:24.496[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 23/60: status=0[0m
+[32m2026-02-09 13:39:28.393[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 24/60: status=0[0m
+[32m2026-02-09 13:39:32.115[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 25/60: status=2[0m
+[32m2026-02-09 13:39:32.115[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/60f3bf910bc14266b22d0f023225564d.png...[0m
+[32m2026-02-09 13:39:32.117[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 13:39:32.121[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/60f3bf910bc14266b22d0f023225564d.png..., 成本: ¥0.12[0m
+[32m2026-02-09 13:39:33.917[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_008_v1.jpg[0m
+[32m2026-02-09 13:39:33.924[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m195[0m - [1m关键帧生成成功: shot_8, 成本: ¥0.12[0m
+[32m2026-02-09 13:39:34.442[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: A split screen effect: one sid... -> A split screen effect: one sid...[0m
+[32m2026-02-09 13:39:34.442[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=A split screen effect: one side shows a person sle...[0m
+[32m2026-02-09 13:39:34.443[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=A split screen effect: one side shows a person sle..., num_images=1[0m
+INFO:     127.0.0.1:65303 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:39:36.159[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4126758, 'quantity': 1}, 'exec_time': 0.56349, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 13:39:36.159[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4126758[0m
+[32m2026-02-09 13:39:36.802[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 13:39:40.670[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 13:39:44.291[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 13:39:48.187[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+INFO:     127.0.0.1:53734 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:39:51.841[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 13:39:55.684[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 13:39:59.332[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 13:40:03.251[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+INFO:     127.0.0.1:53753 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:40:06.939[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 13:40:10.855[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 13:40:14.519[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+[32m2026-02-09 13:40:18.369[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=0[0m
+INFO:     127.0.0.1:53774 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:40:21.995[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 13/60: status=2[0m
+[32m2026-02-09 13:40:21.995[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/35a3b29fb8dc47c8a8cc20bac1e047f6.png...[0m
+[32m2026-02-09 13:40:21.996[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 13:40:21.999[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/35a3b29fb8dc47c8a8cc20bac1e047f6.png..., 成本: ¥0.12[0m
+[32m2026-02-09 13:40:25.037[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_009_v1.jpg[0m
+[32m2026-02-09 13:40:25.044[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m195[0m - [1m关键帧生成成功: shot_9, 成本: ¥0.12[0m
+[32m2026-02-09 13:40:25.549[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: The professional tech reviewer... -> The professional tech reviewer...[0m
+[32m2026-02-09 13:40:25.550[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=The professional tech reviewer, now enthusiastic a...[0m
+[32m2026-02-09 13:40:25.551[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=The professional tech reviewer, now enthusiastic a..., num_images=1[0m
+[32m2026-02-09 13:40:26.933[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4126826, 'quantity': 1}, 'exec_time': 0.489967, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 13:40:26.933[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4126826[0m
+[32m2026-02-09 13:40:27.566[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 13:40:31.413[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+INFO:     127.0.0.1:53794 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:40:35.076[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 13:40:38.914[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+[32m2026-02-09 13:40:42.549[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 13:40:46.389[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 13:40:50.023[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+INFO:     127.0.0.1:53815 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:40:53.861[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+[32m2026-02-09 13:40:57.537[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 13:41:01.453[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 13:41:05.103[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+INFO:     127.0.0.1:53834 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:41:08.968[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=0[0m
+[32m2026-02-09 13:41:12.569[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 13/60: status=0[0m
+[32m2026-02-09 13:41:16.441[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 14/60: status=0[0m
+[32m2026-02-09 13:41:20.105[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 15/60: status=0[0m
+INFO:     127.0.0.1:53849 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:41:23.961[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 16/60: status=0[0m
+[32m2026-02-09 13:41:27.576[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 17/60: status=2[0m
+[32m2026-02-09 13:41:27.576[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/b850243c1cbf4691a92c9708ea3baf48.png...[0m
+[32m2026-02-09 13:41:27.577[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 13:41:27.581[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/b850243c1cbf4691a92c9708ea3baf48.png..., 成本: ¥0.12[0m
+[32m2026-02-09 13:41:29.616[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_010_v1.jpg[0m
+[32m2026-02-09 13:41:29.627[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m195[0m - [1m关键帧生成成功: shot_10, 成本: ¥0.12[0m
+[32m2026-02-09 13:41:30.151[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: A dynamic animated graphic sho... -> A dynamic animated graphic sho...[0m
+[32m2026-02-09 13:41:30.152[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=A dynamic animated graphic showcasing key features...[0m
+[32m2026-02-09 13:41:30.152[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=A dynamic animated graphic showcasing key features..., num_images=1[0m
+[32m2026-02-09 13:41:31.559[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4126942, 'quantity': 1}, 'exec_time': 0.50844, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 13:41:31.560[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4126942[0m
+[32m2026-02-09 13:41:32.186[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+INFO:     127.0.0.1:53872 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:41:36.271[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 13:41:39.998[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 13:41:43.835[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+[32m2026-02-09 13:41:47.532[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+INFO:     127.0.0.1:49675 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:41:51.402[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 13:41:55.031[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 13:41:58.844[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+[32m2026-02-09 13:42:02.477[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+INFO:     127.0.0.1:49706 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:42:06.333[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 13:42:09.968[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+[32m2026-02-09 13:42:13.849[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=0[0m
+[32m2026-02-09 13:42:17.513[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 13/60: status=2[0m
+[32m2026-02-09 13:42:17.513[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/6591f6d6053e43eca370a91531b8c1ce.png...[0m
+[32m2026-02-09 13:42:17.515[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 13:42:17.516[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/6591f6d6053e43eca370a91531b8c1ce.png..., 成本: ¥0.12[0m
+[32m2026-02-09 13:42:19.278[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_011_v1.jpg[0m
+[32m2026-02-09 13:42:19.286[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m195[0m - [1m关键帧生成成功: shot_11, 成本: ¥0.12[0m
+[32m2026-02-09 13:42:19.810[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: The smartwatch's elegant logo ... -> The smartwatch's elegant logo ...[0m
+[32m2026-02-09 13:42:19.811[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=The smartwatch's elegant logo appears prominently ...[0m
+[32m2026-02-09 13:42:19.811[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=The smartwatch's elegant logo appears prominently ..., num_images=1[0m
+INFO:     127.0.0.1:49735 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:42:21.501[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4127045, 'quantity': 1}, 'exec_time': 0.776681, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 13:42:21.501[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4127045[0m
+[32m2026-02-09 13:42:22.126[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 13:42:26.006[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 13:42:29.689[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 13:42:33.557[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+INFO:     127.0.0.1:49758 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:42:37.202[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 13:42:41.055[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 13:42:44.717[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 13:42:48.552[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+INFO:     127.0.0.1:49781 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:42:52.201[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 13:42:56.078[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 13:42:59.732[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+[32m2026-02-09 13:43:03.593[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=0[0m
+INFO:     127.0.0.1:49805 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:43:07.215[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 13/60: status=0[0m
+[32m2026-02-09 13:43:11.111[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 14/60: status=0[0m
+[32m2026-02-09 13:43:14.755[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 15/60: status=0[0m
+[32m2026-02-09 13:43:18.630[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 16/60: status=0[0m
+INFO:     127.0.0.1:49827 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:43:22.285[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 17/60: status=0[0m
+[32m2026-02-09 13:43:26.125[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 18/60: status=0[0m
+[32m2026-02-09 13:43:29.779[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 19/60: status=0[0m
+[32m2026-02-09 13:43:33.645[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 20/60: status=0[0m
+INFO:     127.0.0.1:49844 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 13:43:37.304[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 21/60: status=0[0m
+[32m2026-02-09 13:43:41.198[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 22/60: status=0[0m
+[32m2026-02-09 13:43:44.843[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 23/60: status=2[0m
+[32m2026-02-09 13:43:44.843[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/0d1792c3512d4c668b4f0dc77162ebfb.png...[0m
+[32m2026-02-09 13:43:44.844[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 13:43:44.847[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/0d1792c3512d4c668b4f0dc77162ebfb.png..., 成本: ¥0.12[0m
+[32m2026-02-09 13:43:47.576[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_012_v1.jpg[0m
+[32m2026-02-09 13:43:47.587[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m195[0m - [1m关键帧生成成功: shot_12, 成本: ¥0.12[0m
+[32m2026-02-09 13:43:48.102[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mprocess_generation[0m:[36m222[0m - [1m关键帧生成任务完成: 672f39f0-257b-4d52-b0aa-f4d7d38a07ee, 总成本: ¥1.44[0m
+INFO:     127.0.0.1:49870 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63174 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60565 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60565 - "GET /static/js/app.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:60807 - "GET /static/js/app.js HTTP/1.1" 200 OK
+[32m2026-02-09 14:17:41.613[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:60833 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64268 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64268 - "GET /static/css/app.css HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49821 - "GET /static/js/app.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49821 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49821 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:49821 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49821 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49821 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49821 - "GET /static/js/app.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53647 - "GET /static/test.html HTTP/1.1" 200 OK
+[32m2026-02-09 14:18:52.089[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:53647 - "GET /api/projects/ HTTP/1.1" 200 OK
+[32m2026-02-09 14:18:58.253[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:58436 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50570 - "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:57616 - "GET /static/test.html HTTP/1.1" 304 Not Modified
+[32m2026-02-09 14:27:03.088[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:57616 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57616 - "GET /static/test.html HTTP/1.1" 304 Not Modified
+[32m2026-02-09 14:27:03.657[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:57616 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57616 - "GET /static/test.html HTTP/1.1" 304 Not Modified
+[32m2026-02-09 14:27:05.736[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:57616 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57616 - "GET /static/js/app.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57616 - "GET /api/projects HTTP/1.1" 307 Temporary Redirect
+[32m2026-02-09 14:27:10.803[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:57616 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57616 - "GET /videos/video_20260208_221834/scene_001.mp4 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:55570 - "GET /videos/video_20260208_220816/scene_002.mp4 HTTP/1.1" 206 Partial Content
+Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Program Files\python\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Program Files\python\lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+Exception in callback _ProactorBasePipeTransport._call_connection_lost(None)
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost(None)>
+Traceback (most recent call last):
+  File "C:\Program Files\python\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Program Files\python\lib\asyncio\proactor_events.py", line 162, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+ConnectionResetError: [WinError 10054] 远程主机强迫关闭了一个现有的连接。
+INFO:     127.0.0.1:60382 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "GET /videos/video_20260209_132522/keyframes/keyframe_001_v1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "GET /videos/video_20260209_132522/keyframes/keyframe_008_v1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "GET /videos/video_20260209_132522/keyframes/keyframe_007_v1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "GET /videos/video_20260209_132522/keyframes/keyframe_002_v1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "GET /videos/video_20260209_132522/keyframes/keyframe_003_v1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "GET /videos/video_20260209_132522/keyframes/keyframe_004_v1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "GET /videos/video_20260209_132522/keyframes/keyframe_005_v1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "GET /videos/video_20260209_132522/keyframes/keyframe_006_v1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "GET /videos/video_20260209_132522/keyframes/keyframe_009_v1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "GET /videos/video_20260209_132522/keyframes/keyframe_010_v1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "GET /videos/video_20260209_132522/keyframes/keyframe_011_v1.jpg HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60382 - "GET /videos/video_20260209_132522/keyframes/keyframe_012_v1.jpg HTTP/1.1" 200 OK
+[32m2026-02-09 14:27:17.904[0m | [1mINFO    [0m | [36mwebapp.api.keyframes[0m:[36mregenerate_keyframe[0m:[36m179[0m - [1m重新生成关键帧: 项目video_20260209_132522, 分镜1, 版本数3[0m
+[32m2026-02-09 14:27:17.906[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: A professional tech reviewer w... -> A professional tech reviewer w...[0m
+[32m2026-02-09 14:27:17.906[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=A professional tech reviewer with an energetic exp...[0m
+[32m2026-02-09 14:27:17.906[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=A professional tech reviewer with an energetic exp..., num_images=1[0m
+[32m2026-02-09 14:27:20.848[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4129086, 'quantity': 1}, 'exec_time': 1.93922, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 14:27:20.848[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4129086[0m
+[32m2026-02-09 14:27:22.373[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 14:27:26.711[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 14:27:31.905[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+INFO:     127.0.0.1:55903 - "POST /api/shots/video_20260209_132522/1/select-version HTTP/1.1" 422 Unprocessable Entity
+[32m2026-02-09 14:27:36.027[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+INFO:     127.0.0.1:55903 - "POST /api/shots/video_20260209_132522/2/select-version HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:55903 - "POST /api/shots/video_20260209_132522/4/select-version HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:55903 - "POST /api/shots/video_20260209_132522/12/select-version HTTP/1.1" 422 Unprocessable Entity
+[32m2026-02-09 14:27:40.966[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 14:27:44.721[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 14:27:49.191[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 14:27:52.996[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+[32m2026-02-09 14:27:57.768[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 14:28:02.759[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 14:28:07.574[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+[32m2026-02-09 14:28:11.770[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=0[0m
+[32m2026-02-09 14:28:17.698[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 13/60: status=0[0m
+[32m2026-02-09 14:28:22.077[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 14/60: status=0[0m
+[32m2026-02-09 14:28:27.079[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 15/60: status=0[0m
+[32m2026-02-09 14:28:31.303[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 16/60: status=0[0m
+[32m2026-02-09 14:28:34.776[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 17/60): [0m
+[32m2026-02-09 14:28:38.230[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 18/60): [0m
+[32m2026-02-09 14:28:41.690[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 19/60): [0m
+[32m2026-02-09 14:28:45.143[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 20/60): [0m
+[32m2026-02-09 14:28:48.593[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 21/60): [0m
+[32m2026-02-09 14:28:52.041[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 22/60): [0m
+[32m2026-02-09 14:28:55.474[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 23/60): [0m
+[32m2026-02-09 14:28:58.922[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 24/60): [0m
+[32m2026-02-09 14:29:02.367[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 25/60): [0m
+[32m2026-02-09 14:29:05.804[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 26/60): [0m
+[32m2026-02-09 14:29:12.120[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 27/60): [0m
+[32m2026-02-09 14:29:18.398[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 28/60): [0m
+[32m2026-02-09 14:29:24.724[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 29/60): [0m
+[32m2026-02-09 14:29:31.303[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 30/60): [0m
+[32m2026-02-09 14:29:35.198[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 31/60): Expecting value: line 1 column 1 (char 0)[0m
+[32m2026-02-09 14:29:38.501[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 32/60): Expecting value: line 1 column 1 (char 0)[0m
+[32m2026-02-09 14:29:42.528[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 33/60): Expecting value: line 1 column 1 (char 0)[0m
+[32m2026-02-09 14:29:46.390[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 34/60): Expecting value: line 1 column 1 (char 0)[0m
+[32m2026-02-09 14:29:50.475[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m160[0m - [31m[1m轮询异常 (尝试 35/60): Expecting value: line 1 column 1 (char 0)[0m
+[32m2026-02-09 14:29:54.341[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m136[0m - [31m[1m查询失败: {'code': 500, 'msg': '系统错误，错误ID: ERR_20260209_142954_85b740e6，请联系管理员', 'data': None, 'exec_time': 0.005791, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 14:29:57.623[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m136[0m - [31m[1m查询失败: {'code': 500, 'msg': '系统错误，错误ID: ERR_20260209_142957_2e713b47，请联系管理员', 'data': None, 'exec_time': 0.00484, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 14:30:00.902[0m | [31m[1mERROR   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m136[0m - [31m[1m查询失败: {'code': 500, 'msg': '系统错误，错误ID: ERR_20260209_143000_86cdf461，请联系管理员', 'data': None, 'exec_time': 0.008426, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 14:30:04.956[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 39/60: status=2[0m
+[32m2026-02-09 14:30:04.956[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/e132900efecc4755931ac5fb28b73279.png...[0m
+[32m2026-02-09 14:30:04.957[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 14:30:04.959[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/e132900efecc4755931ac5fb28b73279.png..., 成本: ¥0.12[0m
+[32m2026-02-09 14:30:07.131[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_001_v1.jpg[0m
+[32m2026-02-09 14:30:07.136[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mregenerate_keyframe[0m:[36m291[0m - [1m生成关键帧版本: shot_1_v1, 成本: ¥0.12[0m
+[32m2026-02-09 14:30:07.136[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: A professional tech reviewer w... -> A professional tech reviewer w...[0m
+[32m2026-02-09 14:30:07.136[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=A professional tech reviewer with an energetic exp...[0m
+[32m2026-02-09 14:30:07.137[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=A professional tech reviewer with an energetic exp..., num_images=1[0m
+[32m2026-02-09 14:30:10.697[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4129132, 'quantity': 1}, 'exec_time': 2.150314, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 14:30:10.697[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4129132[0m
+[32m2026-02-09 14:30:11.725[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 14:30:15.796[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 14:30:19.623[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 14:30:24.855[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+[32m2026-02-09 14:30:28.506[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 14:30:32.393[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 14:30:38.378[0m | [1mINFO    [0m | [36mwebapp.api.keyframes[0m:[36mregenerate_keyframe[0m:[36m179[0m - [1m重新生成关键帧: 项目video_20260209_132522, 分镜10, 版本数3[0m
+[32m2026-02-09 14:30:38.384[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: The professional tech reviewer... -> The professional tech reviewer...[0m
+[32m2026-02-09 14:30:38.384[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=The professional tech reviewer, now enthusiastic a...[0m
+[32m2026-02-09 14:30:38.385[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=The professional tech reviewer, now enthusiastic a..., num_images=1[0m
+[32m2026-02-09 14:30:39.677[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+INFO:     127.0.0.1:58518 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58518 - "GET /static/js/app.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:58518 - "GET /api/projects HTTP/1.1" 307 Temporary Redirect
+[32m2026-02-09 14:30:43.997[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:58518 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58518 - "GET /videos/video_20260208_220816/scene_002.mp4 HTTP/1.1" 206 Partial Content
+INFO:     127.0.0.1:58518 - "GET /videos/video_20260208_221834/scene_001.mp4 HTTP/1.1" 206 Partial Content
+[32m2026-02-09 14:30:44.948[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+INFO:     127.0.0.1:50117 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50117 - "GET /api/projects HTTP/1.1" 307 Temporary Redirect
+[32m2026-02-09 14:30:48.141[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:50117 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50117 - "GET /api/projects/video_20260209_132253/script HTTP/1.1" 200 OK
+[32m2026-02-09 14:30:50.168[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 14:30:50.191[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4129152, 'quantity': 1}, 'exec_time': 10.188736, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 14:30:50.191[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4129152[0m
+[32m2026-02-09 14:30:51.635[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 14:30:54.162[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 14:30:56.229[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 14:30:58.719[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+[32m2026-02-09 14:31:00.284[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 14:31:02.662[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=2[0m
+[32m2026-02-09 14:31:02.663[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/32d7be096d4e44779a3f59a5f79cb53a.png...[0m
+[32m2026-02-09 14:31:02.664[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 14:31:02.667[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/32d7be096d4e44779a3f59a5f79cb53a.png..., 成本: ¥0.12[0m
+INFO:     127.0.0.1:55679 - "GET /api/projects HTTP/1.1" 307 Temporary Redirect
+[32m2026-02-09 14:31:03.183[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:55679 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55679 - "GET /api/projects/video_20260209_124958/script HTTP/1.1" 200 OK
+[32m2026-02-09 14:31:04.835[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+[32m2026-02-09 14:31:04.881[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_001_v2.jpg[0m
+[32m2026-02-09 14:31:04.887[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mregenerate_keyframe[0m:[36m291[0m - [1m生成关键帧版本: shot_1_v2, 成本: ¥0.12[0m
+[32m2026-02-09 14:31:04.888[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: A professional tech reviewer w... -> A professional tech reviewer w...[0m
+[32m2026-02-09 14:31:04.888[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=A professional tech reviewer with an energetic exp...[0m
+[32m2026-02-09 14:31:04.888[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=A professional tech reviewer with an energetic exp..., num_images=1[0m
+[32m2026-02-09 14:31:09.130[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 14:31:09.192[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4129178, 'quantity': 1}, 'exec_time': 2.821129, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 14:31:09.192[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4129178[0m
+[32m2026-02-09 14:31:10.295[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 14:31:13.077[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 14:31:14.123[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 14:31:20.664[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 14:31:20.680[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+INFO:     127.0.0.1:56561 - "GET /api/projects HTTP/1.1" 307 Temporary Redirect
+[32m2026-02-09 14:31:21.398[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:56561 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55574 - "GET /api/projects/video_20260209_124844/script HTTP/1.1" 200 OK
+[32m2026-02-09 14:31:24.308[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=2[0m
+[32m2026-02-09 14:31:24.309[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/af100cc5d1b34d3dab8f7ec26e632ecd.png...[0m
+[32m2026-02-09 14:31:24.309[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 14:31:24.323[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/af100cc5d1b34d3dab8f7ec26e632ecd.png..., 成本: ¥0.12[0m
+[32m2026-02-09 14:31:24.529[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+INFO:     127.0.0.1:55574 - "GET /api/projects HTTP/1.1" 307 Temporary Redirect
+[32m2026-02-09 14:31:24.779[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:55574 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55574 - "GET /api/projects/video_20260209_104701/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 14:31:26.539[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_010_v1.jpg[0m
+[32m2026-02-09 14:31:26.543[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mregenerate_keyframe[0m:[36m291[0m - [1m生成关键帧版本: shot_10_v1, 成本: ¥0.12[0m
+[32m2026-02-09 14:31:26.544[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: The professional tech reviewer... -> The professional tech reviewer...[0m
+[32m2026-02-09 14:31:26.544[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=The professional tech reviewer, now enthusiastic a...[0m
+[32m2026-02-09 14:31:26.544[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=The professional tech reviewer, now enthusiastic a..., num_images=1[0m
+INFO:     127.0.0.1:55574 - "GET /api/projects HTTP/1.1" 307 Temporary Redirect
+[32m2026-02-09 14:31:27.166[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:55574 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55574 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 200 OK
+[32m2026-02-09 14:31:27.970[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4129195, 'quantity': 1}, 'exec_time': 0.516675, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 14:31:27.970[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4129195[0m
+[32m2026-02-09 14:31:28.153[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 14:31:28.631[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 14:31:31.990[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 14:31:32.482[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 14:31:36.012[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 14:31:36.164[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 14:31:39.844[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+[32m2026-02-09 14:31:40.018[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+[32m2026-02-09 14:31:43.492[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 14:31:43.657[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 14:31:47.356[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 14:31:47.480[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 14:31:50.968[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+[32m2026-02-09 14:31:51.116[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 14:31:54.783[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=0[0m
+[32m2026-02-09 14:31:54.984[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+[32m2026-02-09 14:31:58.407[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 13/60: status=0[0m
+[32m2026-02-09 14:31:58.614[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 14:32:02.277[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 14/60: status=0[0m
+[32m2026-02-09 14:32:02.456[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 14:32:05.930[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 15/60: status=0[0m
+[32m2026-02-09 14:32:06.130[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+[32m2026-02-09 14:32:09.789[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 16/60: status=0[0m
+[32m2026-02-09 14:32:10.062[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=0[0m
+[32m2026-02-09 14:32:13.442[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 17/60: status=0[0m
+[32m2026-02-09 14:32:13.684[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 13/60: status=0[0m
+[32m2026-02-09 14:32:17.325[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 18/60: status=0[0m
+[32m2026-02-09 14:32:17.521[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 14/60: status=0[0m
+[32m2026-02-09 14:32:20.956[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 19/60: status=0[0m
+[32m2026-02-09 14:32:21.208[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 15/60: status=0[0m
+[32m2026-02-09 14:32:24.785[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 20/60: status=0[0m
+[32m2026-02-09 14:32:25.057[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 16/60: status=0[0m
+INFO:     127.0.0.1:63332 - "GET /static/js/app.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:63332 - "GET /api/projects HTTP/1.1" 307 Temporary Redirect
+[32m2026-02-09 14:32:26.182[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:63332 - "GET /api/projects/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63332 - "GET /videos/video_20260208_221834/scene_001.mp4 HTTP/1.1" 206 Partial Content
+[32m2026-02-09 14:32:28.421[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 21/60: status=2[0m
+[32m2026-02-09 14:32:28.422[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/8313db3c8f304610a969b479d9c3842e.png...[0m
+[32m2026-02-09 14:32:28.422[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 14:32:28.427[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/8313db3c8f304610a969b479d9c3842e.png..., 成本: ¥0.12[0m
+[32m2026-02-09 14:32:28.696[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 17/60: status=0[0m
+INFO:     127.0.0.1:53298 - "GET /api/projects/video_20260208_164019/script HTTP/1.1" 404 Not Found
+[32m2026-02-09 14:32:30.660[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_001_v3.jpg[0m
+[32m2026-02-09 14:32:30.662[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mregenerate_keyframe[0m:[36m291[0m - [1m生成关键帧版本: shot_1_v3, 成本: ¥0.12[0m
+[32m2026-02-09 14:32:30.665[0m | [1mINFO    [0m | [36mwebapp.api.keyframes[0m:[36m_score_versions[0m:[36m382[0m - [1m开始为版本评分: 项目video_20260209_132522, 分镜1[0m
+[32m2026-02-09 14:32:30.665[0m | [1mINFO    [0m | [36mwebapp.services.ai_scorer[0m:[36mscore_keyframe[0m:[36m40[0m - [1m开始评分关键帧: /videos/video_20260209_132522/keyframes/keyframe_0...[0m
+[32m2026-02-09 14:32:30.665[0m | [1mINFO    [0m | [36mwebapp.services.ai_scorer[0m:[36mscore_keyframe[0m:[36m69[0m - [1m评分完成: 总分 78.2[0m
+[32m2026-02-09 14:32:30.665[0m | [1mINFO    [0m | [36mwebapp.services.ai_scorer[0m:[36mscore_keyframe[0m:[36m40[0m - [1m开始评分关键帧: /videos/video_20260209_132522/keyframes/keyframe_0...[0m
+[32m2026-02-09 14:32:30.665[0m | [1mINFO    [0m | [36mwebapp.services.ai_scorer[0m:[36mscore_keyframe[0m:[36m69[0m - [1m评分完成: 总分 83.7[0m
+[32m2026-02-09 14:32:30.665[0m | [1mINFO    [0m | [36mwebapp.services.ai_scorer[0m:[36mscore_keyframe[0m:[36m40[0m - [1m开始评分关键帧: /videos/video_20260209_132522/keyframes/keyframe_0...[0m
+[32m2026-02-09 14:32:30.665[0m | [1mINFO    [0m | [36mwebapp.services.ai_scorer[0m:[36mscore_keyframe[0m:[36m69[0m - [1m评分完成: 总分 80.8[0m
+[32m2026-02-09 14:32:30.694[0m | [31m[1mERROR   [0m | [36mwebapp.services.metadata_manager[0m:[36msave_metadata[0m:[36m73[0m - [31m[1m保存元数据失败 C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\metadata.json: Object of type datetime is not JSON serializable[0m
+[32m2026-02-09 14:32:30.694[0m | [31m[1mERROR   [0m | [36mwebapp.api.keyframes[0m:[36m_score_versions[0m:[36m405[0m - [31m[1m评分失败: Object of type datetime is not JSON serializable[0m
+INFO:     127.0.0.1:53298 - "GET /api/projects HTTP/1.1" 307 Temporary Redirect
+[32m2026-02-09 14:32:31.847[0m | [31m[1mERROR   [0m | [36mwebapp.services.metadata_manager[0m:[36mload_metadata[0m:[36m40[0m - [31m[1m读取元数据失败 C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\metadata.json: Expecting value: line 147 column 25 (char 7096)[0m
+[32m2026-02-09 14:32:31.849[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:53298 - "GET /api/projects/ HTTP/1.1" 200 OK
+[32m2026-02-09 14:32:32.546[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 18/60: status=0[0m
+INFO:     127.0.0.1:53298 - "GET /api/projects/video_20260209_132253/script HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53298 - "GET /api/projects HTTP/1.1" 307 Temporary Redirect
+[32m2026-02-09 14:32:33.991[0m | [31m[1mERROR   [0m | [36mwebapp.services.metadata_manager[0m:[36mload_metadata[0m:[36m40[0m - [31m[1m读取元数据失败 C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\metadata.json: Expecting value: line 147 column 25 (char 7096)[0m
+[32m2026-02-09 14:32:33.992[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:53298 - "GET /api/projects/ HTTP/1.1" 200 OK
+[32m2026-02-09 14:32:34.715[0m | [31m[1mERROR   [0m | [36mwebapp.services.metadata_manager[0m:[36mload_metadata[0m:[36m40[0m - [31m[1m读取元数据失败 C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\metadata.json: Expecting value: line 147 column 25 (char 7096)[0m
+INFO:     127.0.0.1:53298 - "GET /api/projects/video_20260209_132522/keyframes HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:53298 - "GET /api/projects HTTP/1.1" 307 Temporary Redirect
+[32m2026-02-09 14:32:35.898[0m | [31m[1mERROR   [0m | [36mwebapp.services.metadata_manager[0m:[36mload_metadata[0m:[36m40[0m - [31m[1m读取元数据失败 C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\metadata.json: Expecting value: line 147 column 25 (char 7096)[0m
+[32m2026-02-09 14:32:35.899[0m | [1mINFO    [0m | [36mwebapp.services.project_manager[0m:[36mlist_all_projects[0m:[36m97[0m - [1m找到 9 个视频项目[0m
+INFO:     127.0.0.1:53298 - "GET /api/projects/ HTTP/1.1" 200 OK
+[32m2026-02-09 14:32:36.174[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 19/60: status=0[0m
+INFO:     127.0.0.1:53298 - "GET /api/projects/video_20260209_124958/script HTTP/1.1" 200 OK
+[32m2026-02-09 14:32:40.008[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 20/60: status=0[0m
+[32m2026-02-09 14:32:43.967[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 21/60: status=0[0m
+[32m2026-02-09 14:32:47.798[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 22/60: status=0[0m
+[32m2026-02-09 14:32:51.446[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 23/60: status=0[0m
+[32m2026-02-09 14:32:55.324[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 24/60: status=0[0m
+[32m2026-02-09 14:32:59.017[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 25/60: status=0[0m
+[32m2026-02-09 14:33:02.863[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 26/60: status=0[0m
+[32m2026-02-09 14:33:06.494[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 27/60: status=2[0m
+[32m2026-02-09 14:33:06.495[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/0e4d6062a1e045929a3a81cf652ebc9a.png...[0m
+[32m2026-02-09 14:33:06.496[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 14:33:06.498[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/0e4d6062a1e045929a3a81cf652ebc9a.png..., 成本: ¥0.12[0m
+[32m2026-02-09 14:33:08.640[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_010_v2.jpg[0m
+[32m2026-02-09 14:33:08.642[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mregenerate_keyframe[0m:[36m291[0m - [1m生成关键帧版本: shot_10_v2, 成本: ¥0.12[0m
+[32m2026-02-09 14:33:08.642[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_optimize_prompt[0m:[36m353[0m - [1m提示词优化: The professional tech reviewer... -> The professional tech reviewer...[0m
+[32m2026-02-09 14:33:08.642[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m324[0m - [1m调用NanoBanana API生成图片: prompt=The professional tech reviewer, now enthusiastic a...[0m
+[32m2026-02-09 14:33:08.643[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m39[0m - [1m开始生成图片: prompt=The professional tech reviewer, now enthusiastic a..., num_images=1[0m
+[32m2026-02-09 14:33:09.979[0m | [34m[1mDEBUG   [0m | [36mwebapp.services.nanobanana_client[0m:[36m_submit_request[0m:[36m97[0m - [34m[1m提交响应: {'code': 200, 'msg': '成功', 'data': {'id': 4129243, 'quantity': 1}, 'exec_time': 0.493405, 'ip': '154.26.180.164'}[0m
+[32m2026-02-09 14:33:09.979[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m50[0m - [1m请求已提交: id=4129243[0m
+[32m2026-02-09 14:33:10.636[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 1/60: status=0[0m
+[32m2026-02-09 14:33:14.476[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 2/60: status=0[0m
+[32m2026-02-09 14:33:18.104[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 3/60: status=0[0m
+[32m2026-02-09 14:33:21.949[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 4/60: status=0[0m
+[32m2026-02-09 14:33:25.882[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 5/60: status=0[0m
+[32m2026-02-09 14:33:29.750[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 6/60: status=0[0m
+[32m2026-02-09 14:33:33.382[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 7/60: status=0[0m
+[32m2026-02-09 14:33:37.242[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 8/60: status=0[0m
+[32m2026-02-09 14:33:40.916[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 9/60: status=0[0m
+[32m2026-02-09 14:33:44.759[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 10/60: status=0[0m
+[32m2026-02-09 14:33:48.399[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 11/60: status=0[0m
+[32m2026-02-09 14:33:52.234[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 12/60: status=0[0m
+[32m2026-02-09 14:33:55.875[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 13/60: status=0[0m
+[32m2026-02-09 14:33:59.718[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 14/60: status=0[0m
+[32m2026-02-09 14:34:03.337[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 15/60: status=0[0m
+[32m2026-02-09 14:34:07.169[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 16/60: status=0[0m
+[32m2026-02-09 14:34:10.811[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36m_poll_until_complete[0m:[36m144[0m - [1m轮询 17/60: status=2[0m
+[32m2026-02-09 14:34:10.811[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m57[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/9b704355665c4462aa6819db6df5e68a.png...[0m
+[32m2026-02-09 14:34:10.812[0m | [1mINFO    [0m | [36mwebapp.services.nanobanana_client[0m:[36mgenerate_image[0m:[36m61[0m - [1m图片生成完成: 1张[0m
+[32m2026-02-09 14:34:10.815[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_generate_image[0m:[36m339[0m - [1m图片生成成功: https://openpt.wuyinkeji.com/9b704355665c4462aa6819db6df5e68a.png..., 成本: ¥0.12[0m
+[32m2026-02-09 14:34:12.991[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36m_download_and_save_image[0m:[36m373[0m - [1m图片已保存: C:\Users\86187\Desktop\yuyi_pro_v2\outputs\video_20260209_132522\keyframes\keyframe_010_v3.jpg[0m
+[32m2026-02-09 14:34:12.994[0m | [1mINFO    [0m | [36mwebapp.services.keyframe_generator[0m:[36mregenerate_keyframe[0m:[36m291[0m - [1m生成关键帧版本: shot_10_v3, 成本: ¥0.12[0m
+[32m2026-02-09 14:34:12.994[0m | [31m[1mERROR   [0m | [36mwebapp.api.keyframes[0m:[36mregenerate_keyframe[0m:[36m206[0m - [31m[1m重新生成关键帧失败: Expecting value: line 147 column 25 (char 7096)[0m

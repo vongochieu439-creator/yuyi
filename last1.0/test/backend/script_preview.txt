@@ -1,0 +1,48 @@
+Shot 1: [talking_head] (act1) 4.9s  product=False
+  Visual: A professional tech reviewer with an energetic expression, looking directly at the camera. The background is a modern, softly lit studio with subtle tech elements. Dynamic framing and vibrant colors set an engaging tone for the video.
+  Narration: 大家好！今天我们要聊一个颠覆你生活的小玩意儿——AI智能手表！
+
+Shot 2: [scene] (act1) 6.4s  product=False
+  Visual: A fast-paced montage of a person jogging outdoors, then seamlessly transitioning to them working diligently at a modern desk, followed by a peaceful shot of them sleeping. Dynamic camera movements, bright and active lighting emphasize diverse daily activities.
+  Narration: 还在为健康数据烦恼？续航焦虑？这款手表将彻底改变你的运动、工作和睡眠体验！
+
+Shot 3: [transition] (act1) 3.7s  product=False
+  Visual: A dynamic graphic animation featuring streams of data flowing into a stylized smartwatch icon, culminating in a bright, futuristic flash. The design is clean, high-tech, with a digital blue and white color scheme.
+  Narration: 准备好了吗？让我们深入探索它的强大之处！
+
+Shot 4: [product] (act2) 5.0s  product=True
+  Visual: An extreme close-up shot of the smartwatch screen, vibrantly displaying detailed health data like a heart rate graph and blood oxygen percentage. The sleek design is highlighted by soft studio lighting, emphasizing screen clarity and data readability.
+  Narration: 看，这是它强大的AI健康监测功能，实时掌握你的身体状况，让你安心无忧。
+
+Shot 5: [hands_on] (act2) 5.0s  product=True
+  Visual: A hand gently tapping and swiping through various health monitoring interfaces on the smartwatch. The smooth, responsive UI interaction is clearly shown. A clean, modern background keeps focus on the user experience and product features.
+  Narration: 从心率到血氧，全天候不间断监测，所有数据一目了然，健康管理从未如此简单。
+
+Shot 6: [effect] (act2) 5.0s  product=False
+  Visual: A vibrant animated graphic showing a battery icon rapidly filling up, followed by the text "7 Days" appearing prominently. Energetic lines radiate from a stylized watch icon, creating a bright, engaging, high-tech visual effect.
+  Narration: 告别频繁充电的烦恼！这款手表拥有长达7天的超长续航，让你尽情享受智能生活。
+
+Shot 7: [product] (act2) 5.5s  product=True
+  Visual: A close-up shot of the smartwatch charging wirelessly on a sleek, minimalist pad, then a quick cut to the watch on a wrist, still active and displaying a low battery icon. The scene emphasizes convenience and the product's long-lasting power.
+  Narration: 不管是出差旅行，还是日常使用，超长续航都能让你摆脱电量焦虑。
+
+Shot 8: [hands_on] (act2) 4.5s  product=True
+  Visual: A person wearing the smartwatch, jogging outdoors with a determined expression, then pausing briefly to check their heart rate on the watch mid-run. A dynamic action shot with natural lighting, focusing on active use.
+  Narration: 运动时，它能精准记录你的每一次心跳，每一次呼吸，为你提供专业的运动指导。
+
+Shot 9: [effect] (act2) 5.5s  product=False
+  Visual: A split screen effect: one side shows a person sleeping soundly in a serene setting, while the other side displays a detailed graph of sleep data and blood oxygen levels on the smartwatch interface. Smooth transition between two scenes, emphasizing comprehensive monitoring.
+  Narration: 甚至在你熟睡时，它也在默默守护，全天候心率血氧监测，只为你的健康保驾护航。
+
+Shot 10: [talking_head] (act3) 4.9s  product=False
+  Visual: The professional tech reviewer, now enthusiastic and confident, holds the smartwatch slightly up while smiling at the camera. A modern studio background with warm lighting creates an inviting atmosphere. Direct eye contact reinforces connection.
+  Narration: 怎么样？是不是被这款AI智能手表的强大功能惊艳到了？它不仅仅是手表，更是你的健康管家！
+
+Shot 11: [effect] (act3) 6.4s  product=False
+  Visual: A dynamic animated graphic showcasing key features: "AI Health Monitoring", "7-Day Battery Life", and "All-Day HR/SpO2". Each feature is highlighted with sleek icons and text, then seamlessly merging into the smartwatch's brand logo. Bright, impactful, and marketing-oriented visuals.
+  Narration: AI健康监测、7天超长续航、全天候心率血氧监测，这些核心卖点，让它成为你日常生活的理想伴侣。
+
+Shot 12: [transition] (act3) 3.7s  product=False
+  Visual: The smartwatch's elegant logo appears prominently on screen, followed by a clear call to action text such as "立即购买" (Buy Now) or "了解更多" (Learn More). A bright, clean, and professional final screen design.
+  Narration: 别再犹豫了！现在就拥有它，开启你的智能健康新生活！
+

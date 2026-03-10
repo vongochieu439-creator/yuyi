@@ -1,0 +1,184 @@
+{
+  "title": "玻尿酸洗面奶 - 创意款",
+  "topic": "玻尿酸洗面奶",
+  "target_duration": 30,
+  "total_duration": 30.0,
+  "shot_count": 11,
+  "viral_score": 0.0,
+  "generation_stage": "script",
+  "style": "marketing",
+  "selling_points": null,
+  "shots": [
+    {
+      "id": 1,
+      "shot_type": "开场/主持人特写",
+      "duration": 7,
+      "visual": "A thoughtful, elegant female presenter in her late 20s or early 30s, with soft, ...",
+      "narration": "我们是不是都曾怀疑过，一支洗面奶，真能做到深层清洁，同时又让皮肤水润不紧绷吗？"
+    },
+    {
+      "id": 2,
+      "shot_type": "痛点展示/对比画面",
+      "duration": 9,
+      "visual": "A split screen or quick cuts showing two contrasting scenes. On one side, a clos...",
+      "narration": "这就像是，洗完脸总觉得要么没洗干净，要么就是干涩紧绷。在很多人的印象里，清洁和滋润，似乎总是一对矛盾体。"
+    },
+    {
+      "id": 3,
+      "shot_type": "过渡/解决方案引出",
+      "duration": 5,
+      "visual": "A gentle, smooth transition effect, perhaps a soft glow or a ripple effect, lead...",
+      "narration": "直到我们，找到了一个真正能兼顾清洁与滋润的解决方案。"
+    },
+    {
+      "id": 4,
+      "shot_type": "产品展示/特写",
+      "duration": 7,
+      "visual": "The玻尿酸洗面奶 bottle elegantly presented on a clean, minimalist background, perhaps ...",
+      "narration": "这支洗面奶，就像肌肤的专业清洁师，首先以它温和的配方，轻柔带走肌肤表层的污垢和油脂。"
+    },
+    {
+      "id": 5,
+      "shot_type": "产品使用演示/细节特写",
+      "duration": 7,
+      "visual": "Elegant hands gently dispensing a translucent, pearl-like amount of cleanser ont...",
+      "narration": "它绵密的泡沫，能深入毛孔，彻底清洁污垢，却不会带走肌肤原有的水分和弹性。"
+    },
+    {
+      "id": 6,
+      "shot_type": "效果展示/动画特写",
+      "duration": 6,
+      "visual": "A macro shot of skin being cleansed, presented with stylized animation showing i...",
+      "narration": "就像给肌肤做了一次深层SPA，让毛孔自由呼吸，肌肤重现清透本色。"
+    },
+    {
+      "id": 7,
+      "shot_type": "成分特写/功效强调",
+      "duration": 7,
+      "visual": "A close-up shot of the product label, specifically highlighting the text \"三重玻尿酸\"...",
+      "narration": "更重要的是，它蕴含的三重玻尿酸精粹，能层层渗透，为肌肤深层补水，滋养肌底。"
+    },
+    {
+      "id": 8,
+      "shot_type": "使用后效果/肌肤状态特写",
+      "duration": 6,
+      "visual": "A quick, graceful close-up shot of hands gently patting clean, damp skin after r...",
+      "narration": "让肌肤告别单纯的洁净感，真正感受到由内而外的水润饱满。"
+    },
+    {
+      "id": 9,
+      "shot_type": "主持人反馈/惊喜表情",
+      "duration": 8,
+      "visual": "The same elegant presenter from Shot 1, now looking genuinely surprised and deli...",
+      "narration": "使用后，你会发现，肌肤不仅清爽通透，连毛孔都变得更细腻了，这种改变真的让人惊喜！"
+    },
+    {
+      "id": 10,
+      "shot_type": "最终效果展示/模特特写",
+      "duration": 8,
+      "visual": "A slow-motion, high-definition shot of a model's face, transitioning from slight...",
+      "narration": "这种颠覆性的体验，彻底打消了我们之前的疑虑，原来清洁和滋润真的可以完美融合。"
+    },
+    {
+      "id": 11,
+      "shot_type": "结尾/品牌展示",
+      "duration": 6,
+      "visual": "An elegant fade-out effect, with the product logo appearing centrally on screen,...",
+      "narration": "告别传统清洁的困扰，体验科技带来的洁净与润泽的平衡之美。"
+    }
+  ],
+  "product_images": [],
+  "keyframes": [],
+  "smart_create": {
+    "session_id": "f7a0aba8",
+    "direction": {
+      "direction_id": 3,
+      "name": "创意款",
+      "risk_level": "creative",
+      "description": "颠覆传统宣传模式，通过‘自嘲示弱’引发共鸣，再以‘跨界类比’将产品功效具象化、艺术化，打造独特且记忆深刻的国风美妆短视频。",
+      "hook": "我们曾一度‘怀疑’，一支洗面奶，真的能同时做到深层清洁，又让肌肤如玉般水润吗？",
+      "structure_preview": [
+        "开场: 创意自嘲，提出行业“难题”（洗面奶清洁与保湿的平衡），引发观众好奇。",
+        "跨界类比: 将产品功效类比国风艺术（如：古画修复，先去尘污，再润色养护），展现“净”与“润”的和谐。",
+        "产品特写与创新: 聚焦三重玻尿酸配方，结合国风元素，展示产品质地与科技感。",
+        "用户体验反转: 模特使用后，肌肤状态的惊喜转变（从“干涩”到“光泽水润”），强调毛孔细腻。",
+        "结尾: 升华产品理念，强调“国风智慧与现代科技的融合”，引导用户体验“颠覆性”护肤。"
+      ],
+      "creative_techniques": [
+        "自嘲示弱",
+        "跨界类比"
+      ]
+    },
+    "competitor_summary": {
+      "top_videos": [],
+      "winning_patterns": [
+        "产品特写展示",
+        "用户痛点引入",
+        "效果对比"
+      ],
+      "hook_strategies": [
+        "直击痛点提问",
+        "惊人数据开场",
+        "用户故事引入"
+      ],
+      "content_structures": [
+        "痛点-解决方案-效果",
+        "故事-产品-号召行动"
+      ]
+    },
+    "market_summary": {
+      "summary": "玻尿酸洗面奶主要卖点是深层清洁和高效保湿，能缩小毛孔，保持皮肤水润。其三重玻尿酸配方深入肌底，提供持久保湿效果。高性价比和大容量装适合多种肌肤类型。 玻尿酸洗面奶受用户好评，多功能保湿和清洁，不干燥，适合各性别使用。用户称其为护肤神器，推荐频繁。 Hyaluronic acid cleansers compete on price, effectiveness, and brand reputation; key players include Estée Lauder and SK-II; market trends favor high-quality, multi-functional products.",
+      "key_findings": [
+        "✨核心成分：三重玻尿酸（大分子锁水膜+中分子渗透补水+纳米级深入肌底）+积雪草提取物+氨基酸表活 使用感：泡沫绵密像云朵☁️，洗完不紧绷不假滑，皮肤摸起来软软",
+        "谁说学生就不能讲究洗脸？本敏感肌+油痘肌少女亲测 这款玻尿酸洗面奶居然能同时做到温和清洁+控油祛痘+高保湿！重点是性价比超高，大容量装够用一整个",
+        "这款港版进口的深层净化保湿洗面乳真的让我疯狂心动！玻尿酸+双重锁水科技，不仅能清洁毛孔还能补水，懒人必备！ 谁说洁面只能“干巴巴”？ 姐妹们！",
+        "100000人好评. 用了几天感觉非常好，泡沫丰富，清洁效果也好，用后面部不紧绷，不干燥，推荐 · 欧莱雅洗面奶女士复颜氨基酸洁面乳葡萄籽深层清洁补水洁面膏花蜜玻尿酸葡萄籽",
+        "夏天用它清爽，冬天用它保湿，换季的时候用它稳定肌肤状态，简直就是一瓶“多功能护肤神器”！不管是男生还是女生，都可以放心使用。我男朋友用了一次之后直接问",
+        "一、玻尿酸也能洗脸？成分党狂喜的氨基酸洁面黑科技！ · ‍♀️二、洗卸二合一真的靠谱吗？实测防晒/淡妆都能卸！ · ✨三、干敏皮狂喜！洗完脸居然不拔干的洗面奶？",
+        "竞品对比：为什么这款比同类更值得买？ 市面同价位洁面乳很多，但能像它这样兼顾清洁与保湿的不多。很多便宜产品要么清洁力不足，要么过度清洁导致",
+        "# 2023美妆品牌增长力系列报告—靠重组胶原蛋白打出一片天， 可复美是怎么做到的？. ### 可复美增长力APR模型解读. #### 增长力总分与市场力评估. #### 营销力. * **营销力热力总值中等**：通过与头部KOL如李佳琦的合作，可复美有效提升了品牌认知度，尤其是在小红书上的转化率高。为了进一步提升市场渗透率，建议强化情感营销策略，建立与消费者之间的情感连接，并探索多元化营销渠道，",
+        "... 竞品！ 这款产品超级重磅，上市三年就占据爱美客近半 ... 比较成熟小众的市场 ... 2018年，次抛原液大显神威，当年营收1.8亿，带动整个护肤品业务斩获2.9亿营收。"
+      ],
+      "sources": [
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/a03ac5c01c46e17ce43d065886c4bab1.html",
+          "title": "玻尿酸洗面奶居然能养肤？本十年烂脸星人亲测：毛孔真的会缩小！"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/9f7689c09073938e81eedad944b3d7f3.html",
+          "title": "学生党闭眼入！玻尿酸洗面奶测评大公开  控油祛痘还能当高保湿洁面 ..."
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/3957ab7113bb59070c2e5ab95a139bf6",
+          "title": "啊啊啊！这个玻尿酸洗面乳也太神仙了吧！_洁面 - 淘宝美妆网"
+        },
+        {
+          "url": "https://www.jd.com/phb/1316d17b59f67bde7f3d.html",
+          "title": "玻尿酸洗面奶品牌排行榜 - JD.com"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/3957ab7113bb59070c2e5ab95a139bf6",
+          "title": "啊啊啊！这个玻尿酸洗面乳也太神仙了吧！_洁面 - 美妆- Taobao"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/jiemian_47/a7141f67d5860958599afce426a078a5.html",
+          "title": "爆火洗面奶测评  女人宣言小分子玻尿酸洗面奶真的值得冲吗？ - 美妆"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/mianbuhulitaozhuang_21/5eb6537da0885cb2b85d18d2cc53f0b2.html",
+          "title": "干皮油皮都爱的洁面黑马！形象美玻尿酸净嫩洁面乳实测红黑榜"
+        },
+        {
+          "url": "https://www.fxbaogao.com/detail/4386714",
+          "title": "[Flywheel]：2023美妆品牌增长力系列报告—靠重组胶原蛋白打出一片 ..."
+        },
+        {
+          "url": "https://caifuhao.eastmoney.com/news/20201119155133302023480",
+          "title": "医美4剑客大PK：哪支玻尿酸能打出茅台的气质？_财富号_东方财富网"
+        }
+      ]
+    }
+  },
+  "created_at": "2026-02-10T14:21:18.176830",
+  "updated_at": "2026-02-10T14:24:03.114385"
+}

@@ -1,0 +1,140 @@
+{
+  "title": "代码深渊",
+  "frames": [
+    {
+      "frame_id": 1,
+      "narration": "夜色深沉，代码的海洋无边无际，只有他与屏幕相伴。",
+      "visual_prompt": "Wide shot of a dimly lit, messy home office at late night. A disheveled young male programmer, messy black hair, dark hoodie, rimless glasses, tired eyes, sits hunched over a glowing monitor, bathed in its blue light. Empty coffee cups and snack wrappers litter the desk. The room is quiet, emphasizing isolation. cinematic lighting, photorealistic, 8K ultra HD, dramatic shadows, film grain, anamorphic lens flare, movie color grading, shallow depth of field",
+      "duration": 4,
+      "shot_type": "wide",
+      "camera_movement": "dolly_in",
+      "lighting": "low_key",
+      "mood": "mysterious",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 2,
+      "narration": "指尖飞舞，每一行字符都承载着无尽的疲惫与执着。",
+      "visual_prompt": "Medium shot, slightly over the shoulder of the disheveled young male programmer, messy black hair, dark hoodie, rimless glasses, tired eyes, as he types furiously on his mechanical keyboard. His face is partially visible, illuminated by the monitor's glow, showing intense concentration and exhaustion. Dust motes dance in the faint light. cinematic lighting, photorealistic, 8K ultra HD, dramatic shadows, film grain, anamorphic lens flare, movie color grading, shallow depth of field",
+      "duration": 5,
+      "shot_type": "medium",
+      "camera_movement": "slow_pan_right",
+      "lighting": "dramatic",
+      "mood": "intense",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 3,
+      "narration": "咖啡已凉，思绪却依旧滚烫，他正追逐着一个顽固的bug。",
+      "visual_prompt": "Close-up on the face of the disheveled young male programmer, messy black hair, dark hoodie, rimless glasses, tired eyes. His brow is furrowed in deep thought, eyes darting across the screen (implied, out of frame). A subtle twitch in his eye indicates fatigue and frustration. The glow from the monitor reflects in his glasses. cinematic lighting, photorealistic, 8K ultra HD, dramatic shadows, film grain, anamorphic lens flare, movie color grading, shallow depth of field",
+      "duration": 6,
+      "shot_type": "close_up",
+      "camera_movement": "breathe",
+      "lighting": "dramatic",
+      "mood": "dark",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 4,
+      "narration": "突然，屏幕闪烁，一行从未见过的字符，打破了深夜的平静。",
+      "visual_prompt": "Extreme close-up on the computer monitor. The screen momentarily glitches, then a single line of glowing, unfamiliar, cryptic code appears amidst the regular code. The characters are foreign and unsettling, pulsing faintly. The background is a blur of the programmer's workspace. cinematic lighting, photorealistic, 8K ultra HD, dramatic shadows, film grain, anamorphic lens flare, movie color grading, shallow depth of field",
+      "duration": 4,
+      "shot_type": "extreme_close",
+      "camera_movement": "static",
+      "lighting": "neon",
+      "mood": "mysterious",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 5,
+      "narration": "他瞳孔骤缩，疑惑与恐惧交织。这串代码，究竟预示着什么？",
+      "visual_prompt": "Close-up on the face of the disheveled young male programmer, messy black hair, dark hoodie, rimless glasses, tired eyes. His eyes are wide, pupils dilated, staring intently at the screen (out of frame). A mix of bewilderment, curiosity, and dawning fear crosses his face. The monitor's strange glow intensifies on his features. cinematic lighting, photorealistic, 8K ultra HD, dramatic shadows, film grain, anamorphic lens flare, movie color grading, shallow depth of field",
+      "duration": 6,
+      "shot_type": "close_up",
+      "camera_movement": "zoom_in",
+      "lighting": "dramatic",
+      "mood": "intense",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 6,
+      "narration": "屏幕上，那串代码仿佛有了生命，正无声地改变着一切。",
+      "visual_prompt": "Low angle shot, looking up at the computer screen from the programmer's perspective. The mysterious line of code is now subtly multiplying or morphing, with strange patterns emerging around it. The disheveled young male programmer's, messy black hair, dark hoodie, rimless glasses, tired eyes, hands are frozen on the keyboard, his reflection faintly visible in the screen, his expression a mixture of awe and growing apprehension. cinematic lighting, photorealistic, 8K ultra HD, dramatic shadows, film grain, anamorphic lens flare, movie color grading, shallow depth of field",
+      "duration": 5,
+      "shot_type": "low_angle",
+      "camera_movement": "dolly_in",
+      "lighting": "neon",
+      "mood": "mysterious",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    }
+  ],
+  "total_duration": 30,
+  "total_cost_estimate": {
+    "image": 0.3,
+    "video": 7.2,
+    "total": 7.5
+  },
+  "hook_type": "suspense",
+  "psychology_framework": "hook_retain_reward",
+  "character": {
+    "description": "A disheveled young male programmer in his late 20s, with slightly messy black hair, wearing a loose dark hoodie and rimless glasses, tired eyes, and a faint stubble. He looks exhausted and deeply focused on his work.",
+    "name": "李明"
+  },
+  "style": "cinematic",
+  "analysis": {
+    "core_emotion": "好奇",
+    "target_audience": "长期加班的程序员、科技爱好者以及对未知和神秘事件感兴趣的普通观众。",
+    "emotional_triggers": [
+      "深夜加班的疲惫与孤独",
+      "电脑屏幕上突然出现的异常",
+      "神秘代码带来的未知与挑战",
+      "程序员身份对技术细节的好奇"
+    ],
+    "content_angle": "以神秘代码为核心，结合程序员的日常痛点，构建一个悬疑或带有科幻色彩的短故事。"
+  },
+  "user_input": "一个程序员在深夜加班时，电脑屏幕突然显示出一行神秘代码",
+  "project_id": "sb_1772644624_576cc0",
+  "created_at": "2026-03-05 01:18:05"
+}

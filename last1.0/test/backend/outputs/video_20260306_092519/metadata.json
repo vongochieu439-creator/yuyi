@@ -1,0 +1,72 @@
+{
+  "title": "评论区需求 — 美白面霜",
+  "topic": "美白面霜",
+  "product_name": "美白面霜",
+  "target_duration": 60,
+  "total_duration": 60,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "opening",
+      "narration": "美白面霜真的有用吗？观望很久的姐妹们看过来！今天我来给你们揭秘这款火爆全网的美白面霜！",
+      "visual_description": "博主手持美白面霜，微笑看向镜头，背景虚化，桌面摆放一些护肤品。面霜瓶身特写。",
+      "duration": 8
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "problem_address",
+      "narration": "很多人问我：这款美白面霜到底是不是智商税？油皮能用吗？会不会起脂肪粒？别急，你的疑问我来一一解答！",
+      "visual_description": "博主表情认真，模拟回答粉丝提问状，屏幕上出现弹幕或文字气泡，显示“真的好用吗？”“油皮能用吗？”“会起脂肪粒吗？”等问题。",
+      "duration": 10
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "efficacy_proof_experiment",
+      "narration": "先看这个！我们用黑色素模拟纸做了淡斑实验，涂抹面霜的区域，短短几分钟，肉眼可见地变淡了！这效果，是不是秒杀你用过的所有产品？",
+      "visual_description": "桌面实验：一张带有均匀黑色素斑点的模拟纸，博主将面霜涂抹在其中一半区域，并用计时器快速展示几分钟后涂抹区域明显变淡的效果对比。",
+      "duration": 12
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "texture_absorption_demo",
+      "narration": "再看质地！它不是那种厚重黏腻的，而是超级清爽的乳霜质地，一抹化水，瞬间吸收。油皮敏感肌都能放心用，完全不用担心闷痘、起脂肪粒！",
+      "visual_description": "博主将面霜挤在手背，轻柔推开，展示其轻薄水润、快速吸收的质地。镜头特写手背，强调清爽无残留。",
+      "duration": 10
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "user_case_study",
+      "narration": "我身边很多姐妹，包括我自己，坚持用了四周，脸上的暗沉、痘印真的淡了很多，皮肤整体都透亮了好几个度！",
+      "visual_description": "屏幕上闪过2-3组真人使用前后对比图（可遮挡面部，突出局部皮肤如额头、脸颊的提亮和淡印效果），配以文字“四周对比，肉眼可见”。",
+      "duration": 10
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "value_proposition_cta",
+      "narration": "所以别再犹豫了！一瓶面霜帮你解决暗沉、痘印、肤色不均，真正做到提亮肤色，这钱花得绝对值！",
+      "visual_description": "博主再次拿起面霜，自信地展示，背景出现面霜解决的皮肤问题（暗沉、痘印、不均）的图标，然后逐渐消失，只留下提亮后的健康肌肤图标。",
+      "duration": 7
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "closing_cta",
+      "narration": "点击下方链接，抓住夏日美白好时机，和暗沉说拜拜！",
+      "visual_description": "博主指向屏幕下方，露出灿烂笑容，画面下方出现“立即购买”或“点击链接”的引导按钮。",
+      "duration": 3
+    }
+  ],
+  "selling_points": [],
+  "quality_check": {},
+  "generation_stage": "script",
+  "data_driven": {
+    "session_id": "836e5a8d",
+    "direction": "comments",
+    "direction_label": "评论区需求",
+    "data_source": "基于40条真实评论的痛点聚类分析",
+    "reference_videos": []
+  },
+  "created_at": "2026-03-06T09:25:19.533907",
+  "script_locked": true,
+  "updated_at": "2026-03-06T09:25:47.183908"
+}

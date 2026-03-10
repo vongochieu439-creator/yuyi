@@ -1,0 +1,121 @@
+{
+  "title": "稳妥款 · 反常识",
+  "topic": "羽翼智能台灯",
+  "product_name": "羽翼智能台灯",
+  "product_detail": "",
+  "industry": "智能家居",
+  "target_duration": 60,
+  "total_duration": 56.800000000000004,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "act_type": "hook",
+      "visual_description": "Eye-catching opening scene, dramatic lighting or unusual angle",
+      "narration": "用了羽翼智能台灯之后，我再也不想换回去了",
+      "duration": 6.9,
+      "camera_movement": "push_in",
+      "lighting": "dramatic",
+      "mood": "intriguing",
+      "text_overlay": "",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "Clean product hero shot, professional studio lighting",
+      "narration": "这款羽翼智能台灯真的让我眼前一亮",
+      "duration": 8.6,
+      "camera_movement": "static",
+      "lighting": "natural",
+      "mood": "positive",
+      "text_overlay": "",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Real person using product, natural setting, authentic feel",
+      "narration": "最让我惊喜的是它的核心功能",
+      "duration": 8.6,
+      "camera_movement": "slow_pan",
+      "lighting": "natural",
+      "mood": "curious",
+      "text_overlay": "",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "medium",
+      "act_type": "main",
+      "visual_description": "Person using 羽翼智能台灯 in daily life, natural setting",
+      "narration": "日常使用起来真的很方便",
+      "duration": 8.6,
+      "camera_movement": "follow",
+      "lighting": "natural",
+      "mood": "satisfied",
+      "text_overlay": "",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "wide",
+      "act_type": "main",
+      "visual_description": "Lifestyle shot showing 羽翼智能台灯 in context",
+      "narration": "用了一段时间，效果真的很明显",
+      "duration": 8.6,
+      "camera_movement": "static",
+      "lighting": "warm",
+      "mood": "confident",
+      "text_overlay": "",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "close_up",
+      "act_type": "main",
+      "visual_description": "Satisfying result reveal, bright positive atmosphere",
+      "narration": "对比一下使用前后的差别",
+      "duration": 8.6,
+      "camera_movement": "static",
+      "lighting": "bright",
+      "mood": "amazed",
+      "text_overlay": "",
+      "use_product_image": false
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "medium",
+      "act_type": "cta",
+      "visual_description": "Product with offer overlay, clean professional layout",
+      "narration": "感兴趣的朋友赶紧去试试吧",
+      "duration": 6.9,
+      "camera_movement": "zoom_out",
+      "lighting": "warm",
+      "mood": "encouraging",
+      "text_overlay": "点击链接",
+      "use_product_image": true
+    }
+  ],
+  "selling_points": [
+    "核心功能",
+    "使用便捷",
+    "效果显著"
+  ],
+  "quality_report": {},
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "a51e6e5a",
+    "script_id": 0,
+    "script_name": "稳妥款 · 反常识",
+    "risk_level": "safe",
+    "competitor_summary": {},
+    "market_summary": {}
+  },
+  "created_at": "2026-03-07T23:50:38.997910",
+  "updated_at": "2026-03-07T23:50:38.997910"
+}

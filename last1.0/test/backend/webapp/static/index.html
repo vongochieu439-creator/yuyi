@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>羽翼Pro V2 - 视频管理中心</title>
+
+    <!-- Element Plus CSS (CDN) -->
+    <link rel="stylesheet" href="https://unpkg.com/element-plus/dist/index.css">
+
+    <!-- Element Plus Icons -->
+    <link rel="stylesheet" href="https://unpkg.com/@element-plus/icons-vue/dist/style.css">
+
+    <!-- 自定义样式 -->
+    <link rel="stylesheet" href="/static/css/app.css">
+
+    <!-- Vue 3 (CDN) -->
+    <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+    <!-- Element Plus (CDN) -->
+    <script src="https://unpkg.com/element-plus"></script>
+
+    <!-- Element Plus Icons -->
+    <script src="https://unpkg.com/@element-plus/icons-vue"></script>
+
+    <!-- Sortable.js - 拖拽排序库 (CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/sortablejs@1.15.0/Sortable.min.js"></script>
+</head>
+<body>
+    <div id="app">
+        <!-- 主应用容器 -->
+        <el-container class="app-container">
+            <!-- 顶部导航栏 -->
+            <el-header class="app-header">
+                <div class="header-content">
+                    <h1 class="app-title">🎬 羽翼Pro V2 - 视频管理中心</h1>
+                    <el-button v-if="currentView !== 'list'" @click="backToList" type="primary">
+                        返回项目列表
+                    </el-button>
+                </div>
+            </el-header>
+
+            <!-- 主内容区域 -->
+            <el-main class="app-main">
+                <!-- 项目列表页 -->
+                <project-list
+                    v-if="currentView === 'list'"
+                    @select-project="selectProject"
+                    @smart-create="startSmartCreate"
+                    @open-templates="openTemplates"
+                    @open-ip-studio="currentView = 'ip-studio'">
+                </project-list>
+
+                <!-- 模板库页 -->
+                <template-library
+                    v-else-if="currentView === 'templates'"
+                    @back="backToList">
+                </template-library>
+
+                <!-- 个人IP工作室 -->
+                <ip-studio
+                    v-else-if="currentView === 'ip-studio'"
+                    @back="backToList">
+                </ip-studio>
+
+                <!-- 智能脚本创作页 -->
+                <script-creator-v2
+                    v-else-if="currentView === 'smart-create'"
+                    @back="backToList"
+                    @done="onSmartCreateDone">
+                </script-creator-v2>
+
+                <!-- 脚本编辑页 -->
+                <script-editor
+                    v-else-if="currentView === 'script' && selectedProject"
+                    :project="selectedProject"
+                    @back="backToList"
+                    @go-keyframes="goToKeyframes">
+                </script-editor>
+
+                <!-- 关键帧九宫格页 -->
+                <keyframe-grid
+                    v-else-if="currentView === 'keyframes' && selectedProject"
+                    :project="selectedProject"
+                    @back="backToList"
+                    @start-image-to-video="currentView = 'editor'">
+                </keyframe-grid>
+
+                <!-- 分镜编辑页 -->
+                <shot-editor
+                    v-else-if="currentView === 'editor' && selectedProject"
+                    :project="selectedProject"
+                    @back="backToList"
+                    @export="showExportDialog">
+                </shot-editor>
+            </el-main>
+
+            <!-- 底部 -->
+            <el-footer class="app-footer">
+                <p>羽翼Pro V2 © 2026 | Made with ❤️ by YuyiPro Team</p>
+            </el-footer>
+        </el-container>
+
+        <!-- 导出对话框 -->
+        <export-dialog
+            v-model="exportDialogVisible"
+            :project-id="selectedProject?.project_id">
+        </export-dialog>
+    </div>
+
+    <!-- Vue应用脚本 -->
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

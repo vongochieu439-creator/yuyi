@@ -1,0 +1,189 @@
+{
+  "title": "稳妥款 · 反常识",
+  "topic": "羽翼智能台灯",
+  "product_name": "羽翼智能台灯",
+  "product_detail": "一款AI智能台灯，支持语音控制、自动调光、护眼模式。售价299元。",
+  "industry": "智能家居",
+  "target_duration": 30,
+  "total_duration": 30.0,
+  "shot_count": 6,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "act_type": "pain_point",
+      "duration": 5,
+      "use_product_image": false,
+      "visual_description": "Wide shot, dimly lit room. A person fumbles awkwardly with a traditional desk la...",
+      "narration": "还在为一盏不听话的台灯抓狂吗？摸黑找开关，刺眼的光线，这些烦恼是时候彻底告别了！",
+      "rationale": "修改了文案，使其更具吸引力，通过强调用户痛点和情绪（如“抓狂”），引发共鸣，促使观众继续观看。",
+      "preview_image": "/outputs/video_20260307_234319/preview/frame_001.png"
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "product",
+      "act_type": "introduction",
+      "duration": 4,
+      "use_product_image": true,
+      "visual_description": "Clean product hero shot of '羽翼智能台灯' on a sleek, modern desk. Professional studio...",
+      "narration": "告别传统束缚，迎接智慧之光！羽翼智能台灯，颠覆你的想象！",
+      "rationale": "Introduce the product as the solution, highlighting its smart features and innovative nature.",
+      "preview_image": "/outputs/video_20260307_234319/preview/frame_002.png"
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "demo",
+      "act_type": "feature_showcase",
+      "duration": 6,
+      "use_product_image": false,
+      "visual_description": "Medium shot of a person comfortably at a desk. They casually speak to the lamp, ...",
+      "narration": "一声令下，光随心动！语音控制，彻底解放你的双手，超方便！",
+      "rationale": "Demonstrate the voice control feature, emphasizing convenience and hands-free operation.",
+      "preview_image": "/outputs/video_20260307_234319/preview/frame_003.png"
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "demo",
+      "act_type": "feature_showcase",
+      "duration": 7,
+      "use_product_image": false,
+      "visual_description": "Close-up of the lamp's light source subtly changing intensity and color temperat...",
+      "narration": "智能感应环境，自动调节亮度！专业护眼模式，告别双眼疲劳！",
+      "rationale": "Showcase the intelligent light adjustment and eye protection features, addressing common user concerns like eye strain.",
+      "preview_image": "/outputs/video_20260307_234319/preview/frame_004.png"
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "result",
+      "act_type": "benefit_summary",
+      "duration": 5,
+      "use_product_image": false,
+      "visual_description": "Bright, positive atmosphere. The person is comfortably working/reading, fully fo...",
+      "narration": "学习工作更高效，双眼健康有保障，智慧生活，触手可及！",
+      "rationale": "Summarize the key benefits, focusing on improved productivity, health, and overall quality of life.",
+      "preview_image": "/outputs/video_20260307_234319/preview/frame_005.png"
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "cta",
+      "act_type": "call_to_action",
+      "duration": 5,
+      "use_product_image": true,
+      "visual_description": "Product hero shot with a clean, professional overlay. Text: '羽翼智能台灯 仅需299元！立即抢购！...",
+      "narration": "羽翼智能台灯，仅需299元！点击下方链接，即刻拥有专属智慧光！",
+      "rationale": "Clear call to action with price and urgency, guiding viewers to purchase the product.",
+      "preview_image": "/outputs/video_20260307_234319/preview/frame_006.png"
+    }
+  ],
+  "selling_points": [
+    "语音控制",
+    "自动调光",
+    "护眼模式"
+  ],
+  "quality_report": {},
+  "generation_stage": "export",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "45b0391c",
+    "script_id": 0,
+    "script_name": "稳妥款 · 反常识",
+    "risk_level": "safe",
+    "competitor_summary": {
+      "winning_patterns": [
+        "反常识: 打破常规认知引发好奇",
+        "数据震撼: 用数据制造冲击力",
+        "场景痛点: 日常生活中的真实困扰"
+      ],
+      "hook_strategies": [
+        "制造日常痛点共鸣",
+        "展示颠覆性智能功能",
+        "提出引人深思的疑问"
+      ],
+      "content_structures": [
+        "痛点引入→产品介绍→核心卖点→使用场景→行动号召",
+        "悬念开场→问题展开→解决方案→效果展示→限时优惠"
+      ],
+      "emotional_triggers": [
+        "好奇心",
+        "解决问题的爽感",
+        "性价比",
+        "紧迫感"
+      ]
+    },
+    "market_summary": {
+      "summary": "智能家居照明市场需求旺盛，用户普遍关注用眼健康、操作便捷性。传统台灯无法满足个性化、智能化需求，导致用户在学习工作时常感到眼睛疲劳、光线不适。",
+      "key_findings": [
+        "用户对护眼功能有强烈需求",
+        "语音控制被视为提升生活品质的关键",
+        "自动调节功能可显著提升使用体验",
+        "高性价比是促成购买的重要因素"
+      ]
+    }
+  },
+  "created_at": "2026-03-07T23:43:19.890912",
+  "updated_at": "2026-03-07T23:49:09.975056",
+  "quality_check": {
+    "word_duration_match": false,
+    "selling_point_coverage": [
+      "语音控制",
+      "自动调光",
+      "护眼模式"
+    ],
+    "missing_selling_points": [],
+    "rhythm_score": 0.0,
+    "issues": [
+      "镜头#?口播偏长(40字/5秒)",
+      "镜头#?口播偏长(28字/4秒)",
+      "镜头#?口播偏长(31字/5秒)",
+      "总口播偏长(181字/32秒)，建议精简"
+    ],
+    "auto_fixes": []
+  },
+  "script_locked": true,
+  "narration_voice": "zh-CN-YunxiNeural",
+  "narrations": [
+    {
+      "shot_id": 1,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_234319\\narrations\\shot_01.mp3",
+      "audio_url": "/outputs/video_20260307_234319/narrations/shot_01.mp3",
+      "text": "还在为一盏不听话的台灯抓狂吗？摸黑找开关，刺眼的光线，这些烦恼是时候彻底告别了！",
+      "duration": 27.86
+    },
+    {
+      "shot_id": 2,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_234319\\narrations\\shot_02.mp3",
+      "audio_url": "/outputs/video_20260307_234319/narrations/shot_02.mp3",
+      "text": "告别传统束缚，迎接智慧之光！羽翼智能台灯，颠覆你的想象！",
+      "duration": 21.67
+    },
+    {
+      "shot_id": 3,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_234319\\narrations\\shot_03.mp3",
+      "audio_url": "/outputs/video_20260307_234319/narrations/shot_03.mp3",
+      "text": "一声令下，光随心动！语音控制，彻底解放你的双手，超方便！",
+      "duration": 22.39
+    },
+    {
+      "shot_id": 4,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_234319\\narrations\\shot_04.mp3",
+      "audio_url": "/outputs/video_20260307_234319/narrations/shot_04.mp3",
+      "text": "智能感应环境，自动调节亮度！专业护眼模式，告别双眼疲劳！",
+      "duration": 21.74
+    },
+    {
+      "shot_id": 5,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_234319\\narrations\\shot_05.mp3",
+      "audio_url": "/outputs/video_20260307_234319/narrations/shot_05.mp3",
+      "text": "学习工作更高效，双眼健康有保障，智慧生活，触手可及！",
+      "duration": 20.38
+    },
+    {
+      "shot_id": 6,
+      "audio_path": "C:\\Users\\86187\\Desktop\\新建文件夹 (4)\\yuyi_pro_v2\\outputs\\video_20260307_234319\\narrations\\shot_06.mp3",
+      "audio_url": "/outputs/video_20260307_234319/narrations/shot_06.mp3",
+      "text": "羽翼智能台灯，仅需299元！点击下方链接，即刻拥有专属智慧光！",
+      "duration": 25.92
+    }
+  ],
+  "video_url": "/outputs/video_20260307_234319/final_video.mp4"
+}

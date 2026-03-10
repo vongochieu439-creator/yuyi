@@ -1,0 +1,139 @@
+{
+  "title": "昨日重现：我的时间循环",
+  "frames": [
+    {
+      "frame_id": 1,
+      "narration": "又是一个周一清晨，闹钟刺耳，生活仿佛被按下了重复键。",
+      "visual_prompt": "Close-up on Li Ming's face, his eyes half-open, deeply tired, a loud digital alarm clock blaring next to his head on a bedside table. The room is dimly lit by early morning light filtering through blinds. His dark brown hair is messy. He is wearing a simple white undershirt. Shot emphasizes exhaustion and the daily grind. anime style, Studio Ghibli inspired, vibrant colors, detailed cel shading, dynamic action lines, sparkle effects, manga-inspired composition, trending on Pixiv",
+      "duration": 4,
+      "shot_type": "close_up",
+      "camera_movement": "static",
+      "lighting": "natural",
+      "mood": "melancholic",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 2,
+      "narration": "挤地铁，赶报告，日复一日。这份工作，何时才能有尽头？",
+      "visual_prompt": "Medium shot of Li Ming, looking weary, standing in a packed rush-hour subway train, holding onto a strap. His crumpled light blue business shirt and dark gray trousers are visible, along with his black messenger bag. His tired eyes gaze blankly out the window as cityscape blurs past. The train interior is slightly cramped and busy. anime style, Studio Ghibli inspired, vibrant colors, detailed cel shading, dynamic action lines, sparkle effects, manga-inspired composition, trending on Pixiv",
+      "duration": 5,
+      "shot_type": "medium",
+      "camera_movement": "dolly_in",
+      "lighting": "natural",
+      "mood": "peaceful",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 3,
+      "narration": "今天又搞砸了！文件洒了一地，项目又延期。沮丧，无力，像被命运捉弄。",
+      "visual_prompt": "Low-angle shot of Li Ming, his face contorted in frustration, looking down at a spilled coffee cup and scattered documents on the office floor. His dark brown hair falls over his forehead. His light blue business shirt is slightly stained. The office environment is mundane with cubicles in the background, but the focus is on his despair. anime style, Studio Ghibli inspired, vibrant colors, detailed cel shading, dynamic action lines, sparkle effects, manga-inspired composition, trending on Pixiv",
+      "duration": 6,
+      "shot_type": "low_angle",
+      "camera_movement": "zoom_in",
+      "lighting": "high_key",
+      "mood": "intense",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 4,
+      "narration": "带着一天的疲惫入睡，却在醒来时发现……床头柜上的咖啡杯，竟然是满的？",
+      "visual_prompt": "Close-up on Li Ming's slightly confused face as he wakes up. His dark brown hair is still disheveled. He looks towards a full, steaming coffee cup on his bedside table, which he distinctly remembers finishing yesterday. The soft morning light highlights his expression of dawning bewilderment. He is wearing a simple white undershirt. anime style, Studio Ghibli inspired, vibrant colors, detailed cel shading, dynamic action lines, sparkle effects, manga-inspired composition, trending on Pixiv",
+      "duration": 4,
+      "shot_type": "close_up",
+      "camera_movement": "pan_right",
+      "lighting": "soft",
+      "mood": "mysterious",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 5,
+      "narration": "难道是……昨天？他迅速冲出门，发现所有人都穿着昨天的衣服，说着同样的话！",
+      "visual_prompt": "Wide shot of Li Ming, now dressed in his crumpled light blue business shirt and dark gray trousers, standing on a busy street. His black messenger bag is slung over his shoulder. His expression shifts from shock to wild disbelief, then a flicker of excitement. Around him, the same people from yesterday's commute are performing the exact same actions, in the same outfits. Dynamic action lines emphasize his realization. anime style, Studio Ghibli inspired, vibrant colors, detailed cel shading, dynamic action lines, sparkle effects, manga-inspired composition, trending on Pixiv",
+      "duration": 6,
+      "shot_type": "wide",
+      "camera_movement": "zoom_out",
+      "lighting": "natural",
+      "mood": "epic",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 6,
+      "narration": "时间循环？他嘴角勾起一抹玩味笑容，今天，或许会是个“不同”的开始。",
+      "visual_prompt": "Medium close-up of Li Ming. He stands in his apartment, looking at his smartphone, which displays the correct date, yet he knows it's yesterday. A subtle, knowing smirk plays on his lips, a spark of mischievous curiosity in his tired eyes. He adjusts his light blue business shirt. The background is slightly blurred, focusing on his newfound resolve. anime style, Studio Ghibli inspired, vibrant colors, detailed cel shading, dynamic action lines, sparkle effects, manga-inspired composition, trending on Pixiv",
+      "duration": 5,
+      "shot_type": "medium_close",
+      "camera_movement": "static",
+      "lighting": "golden_hour",
+      "mood": "triumphant",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    }
+  ],
+  "total_duration": 30,
+  "total_cost_estimate": {
+    "image": 0.3,
+    "video": 7.2,
+    "total": 7.5
+  },
+  "hook_type": "pain_point",
+  "psychology_framework": "hook_retain_reward",
+  "character": {
+    "description": "A young man in his late 20s, Li Ming, with slightly disheveled dark brown hair that often falls over his forehead. He wears a slightly crumpled light blue business shirt and dark gray trousers, paired with a loosened tie. His tired but observant eyes reflect the daily grind, and he often carries a worn-out black messenger bag over his shoulder.",
+    "name": "李明"
+  },
+  "style": "anime",
+  "analysis": {
+    "core_emotion": "好奇",
+    "target_audience": "对现状不满、渴望改变、或对时间旅行题材有兴趣的都市上班族及年轻人。",
+    "emotional_triggers": [
+      "对过去选择的遗憾",
+      "摆脱重复枯燥生活的渴望",
+      "改变命运或抓住机遇的幻想"
+    ],
+    "content_angle": "聚焦普通人获得超能力后，如何在日常生活中利用这一能力解决痛点、实现愿望，并可能引发的意想不到的后果。"
+  },
+  "user_input": "一个普通上班族意外发现自己能回到昨天",
+  "project_id": "sb_1772648477_e37ba0",
+  "created_at": "2026-03-05 02:22:33"
+}

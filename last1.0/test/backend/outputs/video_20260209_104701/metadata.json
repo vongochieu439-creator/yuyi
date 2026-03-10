@@ -1,0 +1,363 @@
+{
+  "title": "ai手表测评 - AI生成视频",
+  "topic": "ai手表测评",
+  "target_duration": 60,
+  "total_duration": 60.5,
+  "shot_count": 12,
+  "viral_score": 0.0,
+  "generation_stage": "keyframes",
+  "style": "marketing",
+  "shots": [
+    {
+      "id": 1,
+      "shot_type": "talking_head",
+      "act_type": "act1",
+      "visual_description": "[待生成] talking_head 场景",
+      "narration": "[待生成] 第1镜文案",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.3
+    },
+    {
+      "id": 2,
+      "shot_type": "scene",
+      "act_type": "act1",
+      "visual_description": "[待生成] scene 场景",
+      "narration": "[待生成] 第2镜文案",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.5
+    },
+    {
+      "id": 3,
+      "shot_type": "transition",
+      "act_type": "act1",
+      "visual_description": "[待生成] transition 场景",
+      "narration": "[待生成] 第3镜文案",
+      "duration": 3.6666666666666665,
+      "emotion_score": 0.7
+    },
+    {
+      "id": 4,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "[待生成] product 场景",
+      "narration": "[待生成] 第4镜文案",
+      "duration": 5,
+      "emotion_score": 0.7
+    },
+    {
+      "id": 5,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "[待生成] hands_on 场景",
+      "narration": "[待生成] 第5镜文案",
+      "duration": 5,
+      "emotion_score": 0.76
+    },
+    {
+      "id": 6,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "[待生成] effect 场景",
+      "narration": "[待生成] 第6镜文案",
+      "duration": 5,
+      "emotion_score": 0.8200000000000001
+    },
+    {
+      "id": 7,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "[待生成] product 场景",
+      "narration": "[待生成] 第7镜文案",
+      "duration": 5.5,
+      "emotion_score": 0.88
+    },
+    {
+      "id": 8,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "[待生成] hands_on 场景",
+      "narration": "[待生成] 第8镜文案",
+      "duration": 4.5,
+      "emotion_score": 0.8800000000000001
+    },
+    {
+      "id": 9,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "[待生成] effect 场景",
+      "narration": "[待生成] 第9镜文案",
+      "duration": 5.5,
+      "emotion_score": 0.85
+    },
+    {
+      "id": 10,
+      "shot_type": "talking_head",
+      "act_type": "act3",
+      "visual_description": "[待生成] talking_head 场景",
+      "narration": "[待生成] 第10镜文案",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.85
+    },
+    {
+      "id": 11,
+      "shot_type": "effect",
+      "act_type": "act3",
+      "visual_description": "[待生成] effect 场景",
+      "narration": "[待生成] 第11镜文案",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.95
+    },
+    {
+      "id": 12,
+      "shot_type": "transition",
+      "act_type": "act3",
+      "visual_description": "[待生成] transition 场景",
+      "narration": "[待生成] 第12镜文案",
+      "duration": 3.6666666666666665,
+      "emotion_score": 1.0
+    }
+  ],
+  "created_at": "2026-02-09T10:47:01.818847",
+  "keyframes": [
+    {
+      "shot_id": 1,
+      "status": "completed",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_104701/keyframes/keyframe_001_v1.jpg",
+          "prompt": "[待生成] talking_head 场景",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T10:48:00"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "[待生成] talking_head 场景",
+      "narration": "[待生成] 第1镜文案",
+      "duration": 4.916666666666667
+    },
+    {
+      "shot_id": 2,
+      "status": "completed",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_104701/keyframes/keyframe_002_v1.jpg",
+          "prompt": "[待生成] scene 场景",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T10:48:00"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "[待生成] scene 场景",
+      "narration": "[待生成] 第2镜文案",
+      "duration": 6.416666666666667
+    },
+    {
+      "shot_id": 3,
+      "status": "completed",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_104701/keyframes/keyframe_003_v1.jpg",
+          "prompt": "[待生成] transition 场景",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T10:48:00"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "[待生成] transition 场景",
+      "narration": "[待生成] 第3镜文案",
+      "duration": 3.6666666666666665
+    },
+    {
+      "shot_id": 4,
+      "status": "completed",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_104701/keyframes/keyframe_004_v1.jpg",
+          "prompt": "[待生成] product 场景",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T10:48:00"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "[待生成] product 场景",
+      "narration": "[待生成] 第4镜文案",
+      "duration": 5
+    },
+    {
+      "shot_id": 5,
+      "status": "completed",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_104701/keyframes/keyframe_005_v1.jpg",
+          "prompt": "[待生成] hands_on 场景",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T10:48:00"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "[待生成] hands_on 场景",
+      "narration": "[待生成] 第5镜文案",
+      "duration": 5
+    },
+    {
+      "shot_id": 6,
+      "status": "completed",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_104701/keyframes/keyframe_006_v1.jpg",
+          "prompt": "[待生成] effect 场景",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T10:48:00"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "[待生成] effect 场景",
+      "narration": "[待生成] 第6镜文案",
+      "duration": 5
+    },
+    {
+      "shot_id": 7,
+      "status": "completed",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_104701/keyframes/keyframe_007_v1.jpg",
+          "prompt": "[待生成] product 场景",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T10:48:00"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "[待生成] product 场景",
+      "narration": "[待生成] 第7镜文案",
+      "duration": 5.5
+    },
+    {
+      "shot_id": 8,
+      "status": "completed",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_104701/keyframes/keyframe_008_v1.jpg",
+          "prompt": "[待生成] hands_on 场景",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T10:48:00"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "[待生成] hands_on 场景",
+      "narration": "[待生成] 第8镜文案",
+      "duration": 4.5
+    },
+    {
+      "shot_id": 9,
+      "status": "completed",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_104701/keyframes/keyframe_009_v1.jpg",
+          "prompt": "[待生成] effect 场景",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T10:48:00"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "[待生成] effect 场景",
+      "narration": "[待生成] 第9镜文案",
+      "duration": 5.5
+    },
+    {
+      "shot_id": 10,
+      "status": "completed",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_104701/keyframes/keyframe_010_v1.jpg",
+          "prompt": "[待生成] talking_head 场景",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T10:48:00"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "[待生成] talking_head 场景",
+      "narration": "[待生成] 第10镜文案",
+      "duration": 4.916666666666667
+    },
+    {
+      "shot_id": 11,
+      "status": "completed",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_104701/keyframes/keyframe_011_v1.jpg",
+          "prompt": "[待生成] effect 场景",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T10:48:00"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "[待生成] effect 场景",
+      "narration": "[待生成] 第11镜文案",
+      "duration": 6.416666666666667
+    },
+    {
+      "shot_id": 12,
+      "status": "completed",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_104701/keyframes/keyframe_012_v1.jpg",
+          "prompt": "[待生成] transition 场景",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T10:48:00"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "[待生成] transition 场景",
+      "narration": "[待生成] 第12镜文案",
+      "duration": 3.6666666666666665
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "title": "觉醒之路",
+  "frames": [
+    {
+      "frame_id": 1,
+      "narration": "这个世界，在那一天彻底改变了。",
+      "visual_prompt": "Extreme wide shot of a desolate post-apocalyptic cityscape at dawn, crumbling skyscrapers silhouetted against a blood-red sky, a lone figure standing on a rooftop, cinematic lighting, photorealistic, 8K ultra HD, dramatic shadows, film grain, anamorphic lens flare, movie color grading, shallow depth of field",
+      "duration": 5.0,
+      "shot_type": "wide",
+      "camera_movement": "slow_up",
+      "lighting": "dramatic",
+      "mood": "mysterious",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 2,
+      "narration": "而我，不过是千万个普通人中的一个。",
+      "visual_prompt": "Close-up portrait of a teenage boy with messy dark hair and piercing blue eyes, a glowing blue mark appears on his left hand, expression shifts from confusion to determination, cinematic lighting, photorealistic, 8K ultra HD, dramatic shadows, film grain, anamorphic lens flare, movie color grading, shallow depth of field",
+      "duration": 5.0,
+      "shot_type": "wide",
+      "camera_movement": "zoom_in",
+      "lighting": "dramatic",
+      "mood": "mysterious",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 3,
+      "narration": "直到那股力量，突然在我体内觉醒。",
+      "visual_prompt": "Dynamic action shot, the boy unleashes a wave of blue energy from his hand, debris floating in mid-air, shockwave ripples visible, dramatic backlighting, cinematic lighting, photorealistic, 8K ultra HD, dramatic shadows, film grain, anamorphic lens flare, movie color grading, shallow depth of field",
+      "duration": 5.0,
+      "shot_type": "wide",
+      "camera_movement": "shake",
+      "lighting": "dramatic",
+      "mood": "intense",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 4,
+      "narration": "他们说，觉醒者要么成为武器，要么被消灭。",
+      "visual_prompt": "Medium shot of shadowy figures in dark cloaks watching from a distant rooftop, city burning in background, ominous red symbols floating around them, cinematic lighting, photorealistic, 8K ultra HD, dramatic shadows, film grain, anamorphic lens flare, movie color grading, shallow depth of field",
+      "duration": 5.0,
+      "shot_type": "wide",
+      "camera_movement": "pan_left",
+      "lighting": "dramatic",
+      "mood": "dark",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 5,
+      "narration": "但我选择了第三条路——守护。",
+      "visual_prompt": "The boy stands protectively in front of a group of frightened civilians, blue energy armor forming around him, wind blowing his hair and clothes dramatically, cinematic lighting, photorealistic, 8K ultra HD, dramatic shadows, film grain, anamorphic lens flare, movie color grading, shallow depth of field",
+      "duration": 5.0,
+      "shot_type": "wide",
+      "camera_movement": "zoom_out",
+      "lighting": "dramatic",
+      "mood": "epic",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    },
+    {
+      "frame_id": 6,
+      "narration": "这是我的故事，才刚刚开始。",
+      "visual_prompt": "Epic wide shot from below, the boy leaps into the air with trails of blue energy, city skyline behind him, sunrise breaking through dark clouds, heroic pose, cinematic lighting, photorealistic, 8K ultra HD, dramatic shadows, film grain, anamorphic lens flare, movie color grading, shallow depth of field",
+      "duration": 5.0,
+      "shot_type": "wide",
+      "camera_movement": "slow_up",
+      "lighting": "dramatic",
+      "mood": "epic",
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null,
+      "cost_estimate": {
+        "image": 0.05,
+        "video": 1.2
+      }
+    }
+  ],
+  "total_duration": 30.0,
+  "total_cost_estimate": {
+    "image": 0.3,
+    "video": 7.2,
+    "total": 7.5
+  },
+  "hook_type": "contrast",
+  "psychology_framework": "pas",
+  "character": {
+    "description": "A young man with messy dark hair, piercing blue eyes, wearing a tattered school uniform with a mysterious glowing mark on his left hand, determined expression",
+    "name": "少年"
+  },
+  "style": "cinematic",
+  "analysis": {
+    "core_emotion": "焦虑",
+    "target_audience": "对财富差距、个人成长和生活方式差异感兴趣，并渴望提升收入和生活品质的年轻人及职场人士。",
+    "emotional_triggers": [
+      "收入焦虑",
+      "生活方式差异",
+      "思维模式差异"
+    ],
+    "content_angle": "从思维模式、时间管理、消费观念和职业选择等多个维度，揭示高收入人群与低收入人群的本质区别和可学习之处。"
+  },
+  "user_input": "月入三万和月入三千的人有什么区别",
+  "project_id": "sb_1772648594_dabea0",
+  "created_at": "2026-03-05 02:24:29"
+}

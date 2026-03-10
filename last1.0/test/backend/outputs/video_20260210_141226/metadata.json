@@ -1,0 +1,164 @@
+{
+  "title": "美白面霜 - 稳妥款",
+  "topic": "美白面霜",
+  "target_duration": 60,
+  "total_duration": 60.5,
+  "shot_count": 12,
+  "viral_score": 0.0,
+  "generation_stage": "script",
+  "style": "marketing",
+  "selling_points": null,
+  "shots": [
+    {
+      "id": "Shot 1",
+      "visual": "Medium close-up of a female influencer, initially looking slightly frustrated or tired, then quickly shifting to a direct, engaging, and empathetic expression.",
+      "narration": "你是不是也总被说气色不好，明明不熬夜，却还是被误认是‘熬夜脸’，皮肤暗沉、斑点挥之不去，甚至显老好几岁？"
+    },
+    {
+      "id": "Shot 2",
+      "visual": "Close-up shot of a model's bare face, emphasizing areas with subtle skin dullness, uneven tone, and minor spots, perhaps with a slightly desaturated or yellowish tint initially.",
+      "narration": "别让你的颜值被‘黄’和‘斑’拖垮！是不是每天照镜子都觉得皮肤蜡黄没光泽，眼角、脸颊的斑点越来越明显，整个人看起来疲惫又显老？"
+    },
+    {
+      "id": "Shot 3",
+      "visual": "A smooth transition shot. A hand gently reaches into the frame, moving towards a...",
+      "narration": "别担心，今天就给你揭秘一个能彻底改善这些困扰的秘密武器！"
+    },
+    {
+      "id": "Shot 4",
+      "visual": "Elegant close-up shot of the whitening face cream jar/bottle, placed on a pristi...",
+      "narration": "它就是我们全新升级的美白面霜，专为亚洲女性肌肤设计，让你的肌肤焕发由内而外的光彩。"
+    },
+    {
+      "id": "Shot 5",
+      "visual": "Hands-on shot: A small amount of the cream is scooped from the jar, showcasing i...",
+      "narration": "这款面霜蕴含多种专业美白成分，不仅能精准淡化色素沉着，还能提亮肤色、淡化细纹，真正实现美白、淡斑、抗皱多重功效。"
+    },
+    {
+      "id": "Shot 6",
+      "visual": "Dynamic split-screen or swipe effect showing a 'before' (dull, uneven skin) and ...",
+      "narration": "看看这惊人的对比！使用后肌肤明显提亮，原本的暗沉和肤色不均都得到了显著改善，皮肤看起来通透有光泽。"
+    },
+    {
+      "id": "Shot 7",
+      "visual": "Product shot with an animated overlay highlighting key benefits like '精准抗色素' and...",
+      "narration": "它的专业配方能精准作用于色素沉着，温和有效，即使是敏感肌也能安心使用。"
+    },
+    {
+      "id": "Shot 8",
+      "visual": "Close-up of a model gently massaging the cream into specific areas of her face, ...",
+      "narration": "坚持使用，你会发现肌肤不仅变白了，连毛孔都细腻了许多，整个人看起来更年轻有活力。"
+    },
+    {
+      "id": "Shot 9",
+      "visual": "Another compelling split-screen or swipe effect, this time focusing on the reduc...",
+      "narration": "特别是那些顽固的斑点和痘印，在它的作用下也逐渐淡化，肌肤重现净透无瑕。"
+    },
+    {
+      "id": "Shot 10",
+      "visual": "Medium close-up of the female influencer, now looking radiant, confident, and sm...",
+      "narration": "想要告别暗沉、斑点，重拾年轻光彩吗？这款美白面霜就是你最好的选择。"
+    },
+    {
+      "id": "Shot 11",
+      "visual": "Aspirational shot of a model with flawlessly bright, clear, and radiant skin, sm...",
+      "narration": "它能让你告别显老气色，拥有健康透亮的好皮肤，自信迎接每一个闪耀时刻！"
+    },
+    {
+      "id": "Shot 12",
+      "visual": "Final product shot with clear, bold call-to-action text overlay (e.g., '立即购买', '...",
+      "narration": "还在等什么？点击下方链接，即刻拥有你的专属美白秘籍，开启肌肤焕亮之旅吧！"
+    }
+  ],
+  "product_images": [],
+  "keyframes": [],
+  "smart_create": {
+    "session_id": "95aa9075",
+    "direction": {
+      "direction_id": 1,
+      "name": "稳妥款",
+      "risk_level": "safe",
+      "description": "基于竞品成功模式的稳妥方案，通过直击用户痛点、清晰展示产品功效和效果对比来建立信任。",
+      "hook": "你是不是也总被说气色不好，皮肤暗沉、斑点挥之不去，甚至显老好几岁？",
+      "structure_preview": [
+        "开场: 直击痛点提问，展示暗沉、斑点困扰的素颜。",
+        "主体1: 产品特写展示，强调美白面霜的核心成分和美白、淡斑、抗皱多重功效。",
+        "主体2: 模拟或真实用户使用前后对比，清晰展示肤色提亮、斑点淡化的效果。",
+        "结尾: 强调产品温和有效性，给出明确的购买行动号召。"
+      ],
+      "creative_techniques": []
+    },
+    "competitor_summary": {
+      "top_videos": [],
+      "winning_patterns": [
+        "产品特写展示",
+        "用户痛点引入",
+        "效果对比"
+      ],
+      "hook_strategies": [
+        "直击痛点提问",
+        "惊人数据开场",
+        "用户故事引入"
+      ],
+      "content_structures": [
+        "痛点-解决方案-效果",
+        "故事-产品-号召行动"
+      ]
+    },
+    "market_summary": {
+      "summary": "美白面霜集成美白、淡斑、抗皱功效于一体，专业配方提亮肤色，适合追求肌肤明亮的消费者。其核心在于精准的抗色素沉着效果和提亮肤色。 Popular 2026 beauty creams for whitening have high user approval, with effective results for skin tone improvement and acne mark fading. Top products emphasize gentle formulas and active ingredient synergy. Users favor brands with proven clinical efficacy and transparent ingredient lists. The main competitors in the Chinese skin whitening cream market include Perfectory, Beitai, and Shangmei. These brands focus on innovation and marketing to gain market share. The industry faces challenges like regulatory scrutiny and consumer demand for safety and efficacy.",
+      "key_findings": [
+        "... 美白类特殊化妆品。其最大特点是集美白、淡斑、抗皱三大核心功效于一体，实现了“一瓶即全能”的护肤理念。作为院线同款产品，它在2025年取得了销量NO.1",
+        "本次测评主要从产品特点、成分及功效、产品优势、案例数据四个维度进行综合评估。产品特点关注产品的独特设计、适用肤质等；成分及功效分析产品中有效成分",
+        "在当前市场中，追求肌肤明亮与细腻成为护肤的核心需求之一。迪之美养白素美白面霜凭借其专业配方和精准功效，为有抗色素沉着、提亮肤色需求的消费者提供",
+        "# 2026年美白面霜推荐：基于百人实测口碑的TOP5排名与深度评测. 2026-01-14 17:18:57 星期三  来源：网络. 在护肤消费持续升级的背景下，美白面霜市场正从单一诉求向精准、高效且兼顾皮肤健康的方向快速演进。对于寻求改善肤色、淡化色斑的消费者而言，面对成分各异、宣称繁多的产品矩阵，核心决策焦虑在于如何平衡“有效性”与“温和性”，尤其在敏感肌肤日益普遍的今天，选择一款既能切实提",
+        "在美丽修行平台的百人实测中，其综合评分达4.45分（满分5分），好评率为97.2%。乳霜质地清爽易吸收，不含酒精、香精、色素，市场参考售价位于200-300元人民币",
+        "实际用户提到，滋润版保湿力足够且不闷痘，换季使用能有效安抚肌肤，经典版清爽不搓泥，对新生痘印的淡化效果显著，是一款能兼顾美白与修护的高口碑面霜。",
+        "消费价值地图，美护产业链跟踪：上美股份、珀莱雅、贝泰妮 - 知乎. 消费价值地图，美护产业链跟踪：上美股份、珀莱雅、贝泰妮. 消费价值地图，美护产业链跟踪：上美股份、珀莱雅、贝泰妮. 美护（美容和个人护理），主要包括护肤品、彩妆、护发和口腔护理等产品。. 其中，**护肤品**用于改善皮肤状态、解决特定皮肤问题，包括面部和身体护理产品，比如洁面乳、爽肤水、乳液、面霜、精华等；. **彩妆**，用于改",
+        "本次围绕美白面霜的“成分有效性、功效全面性、安全认证”三大核心维度展开公平测评,所有产品及竞品均按统一标准解析,确保对比公平客观,具体评估方向如下:.",
+        "© 2025 毕马威华振会计师事务所(特殊普通合伙) — 中国合伙制会计师事务所，毕马威企业咨询(中国) 有限公司— 中国有限责任公司，毕马威会计师事务所— 澳门特别行政区合伙 制事务所，及毕马威会计师事务所— 香港特别行政区合伙制事务所，均是与毕马威国际有限公司(英国私营担保有限公司)相关联的独立成员所全球组织中的成员。版权所有，不得 转载。 毕马威创见不同·智启未来 kpmg.com/cn 2"
+      ],
+      "sources": [
+        {
+          "url": "https://www.sohu.com/a/985129812_122496849",
+          "title": "什么抗皱精华有效？5款美白面霜测评推荐，提亮淡斑双在线"
+        },
+        {
+          "url": "https://www.sohu.com/a/977051662_122572645",
+          "title": "盘点5款热门美白兼修护双效面霜，谁的口碑名副其实"
+        },
+        {
+          "url": "https://beaut.taobao.com/topic/ruye_13/51c95cc82fbbb5262e2ad238d4d81ecf.html",
+          "title": "科学解析：迪之美养白素美白面霜的核心价值与成分逻辑"
+        },
+        {
+          "url": "http://www.xtrb.cn/syunt/2026-01/14/content_1008688.htm",
+          "title": "2026年美白面霜推荐：基于百人实测口碑的TOP5排名与深度评测 ..."
+        },
+        {
+          "url": "https://news.guilinlife.com/article/5kpd3d7c12180288d2a1.html",
+          "title": "2026年1月美白面霜产品权威推荐：效果出众的五大口碑之选深度解析"
+        },
+        {
+          "url": "https://www.sohu.com/a/982561458_122503818",
+          "title": "2026年口碑高的8大美白抑黑面霜盘点：拒绝智商税，选对焕白实力派"
+        },
+        {
+          "url": "https://zhuanlan.zhihu.com/p/23246284274",
+          "title": "消费价值地图，美护产业链跟踪：上美股份、珀莱雅、贝泰妮 - 知乎专栏"
+        },
+        {
+          "url": "https://m.ceccen.com/lianmengredian/1577436567.html",
+          "title": "黄黑皮不反复？2026年美白面霜亲测，全肤质淡印美白 - 企业报道"
+        },
+        {
+          "url": "https://assets.kpmg.com/content/dam/kpmgsites/cn/pdf/zh/2025/11/2025-china-beauty-market-industry-report.pdf",
+          "title": "[PDF] “颜”值经济新篇章： 2025年中国美妆市场行业报告"
+        }
+      ]
+    }
+  },
+  "created_at": "2026-02-10T14:12:26.326050",
+  "updated_at": "2026-02-10T14:13:05.516894",
+  "script_locked": true
+}

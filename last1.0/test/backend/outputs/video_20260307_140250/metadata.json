@@ -1,0 +1,90 @@
+{
+  "title": "稳妥款 · 实验对比",
+  "topic": "玻尿酸保湿面霜",
+  "product_name": "玻尿酸保湿面霜",
+  "product_detail": "",
+  "industry": "美妆护肤",
+  "target_duration": 60,
+  "total_duration": 56.800000000000004,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "hook",
+      "visual_description": "Close-up of dry, dull, or slightly textured skin showing common issues like fine lines or flakiness, followed by a quick, subtle transition to a more hopeful expression on the presenter's face.",
+      "narration": "你的皮肤是不是总觉得干、绷、粗糙，还伴随着细纹？别再烦恼了，我找到了真正能解决这些问题的宝藏！",
+      "rationale": "修改了hook的视觉和旁白，通过直接点出用户痛点并承诺解决方案，增强了开场的吸引力和悬念，让观众更想看下去。"
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "medium",
+      "visual_description": "Product hero shot with soft glow, rotating on marble surface...",
+      "narration": "这款玻尿酸保湿面霜真的让我眼前一亮"
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "close_up",
+      "visual_description": "Hands applying product on face, natural light, close-up of texture...",
+      "narration": "最让我惊喜的是它的核心功能"
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "medium",
+      "visual_description": "Person using 玻尿酸保湿面霜 in daily life, natural setting...",
+      "narration": "日常使用起来真的很方便"
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "wide",
+      "visual_description": "Lifestyle shot showing 玻尿酸保湿面霜 in context...",
+      "narration": "用了一段时间，效果真的很明显"
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "close_up",
+      "visual_description": "Split-screen before/after, bright even lighting, genuine expression...",
+      "narration": "对比一下使用前后的差别"
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "medium",
+      "visual_description": "Product array with price tag overlay, warm inviting lighting...",
+      "narration": "感兴趣的朋友赶紧去试试吧"
+    }
+  ],
+  "selling_points": [
+    "核心功能",
+    "使用便捷",
+    "效果显著"
+  ],
+  "quality_report": {},
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "82688323",
+    "script_id": 0,
+    "script_name": "稳妥款 · 实验对比",
+    "risk_level": "safe",
+    "competitor_summary": {},
+    "market_summary": {}
+  },
+  "created_at": "2026-03-07T14:02:50.729917",
+  "updated_at": "2026-03-07T14:03:00.543167",
+  "quality_check": {
+    "word_duration_match": false,
+    "selling_point_coverage": [
+      "核心功能"
+    ],
+    "missing_selling_points": [
+      "使用便捷",
+      "效果显著"
+    ],
+    "rhythm_score": 0.0,
+    "issues": [
+      "镜头#?口播偏长(47字/5秒)",
+      "缺失卖点: 使用便捷, 效果显著"
+    ],
+    "auto_fixes": []
+  },
+  "script_locked": true
+}

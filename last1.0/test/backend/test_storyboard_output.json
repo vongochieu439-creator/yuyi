@@ -1,0 +1,356 @@
+{
+  "title": "告别伤发！30秒沙龙级发型秘籍",
+  "product_name": "戴森Airwrap多功能美发器",
+  "product_detail": "集吹风、卷发、顺滑于一体的多功能美发造型器，利用康达效应气流造型，不伤发质，30秒打造沙龙级造型",
+  "industry": "个护美容",
+  "selling_points": [
+    "康达效应气流造型，告别传统卷发棒烫伤风险",
+    "一机六合一，吹干+卷发+顺滑+蓬松全搞定",
+    "30秒沙龙级造型，手残党也能轻松上手"
+  ],
+  "style": "cinematic",
+  "target_duration": 45,
+  "total_duration": 45,
+  "frames": [
+    {
+      "frame_id": 1,
+      "narration": "早八人，手残党？又烫到耳朵了？",
+      "visual_prompt": "Close-up shot of a 28-year-old urban white-collar woman, with a slightly frustrated and pained expression, as she accidentally touches her ear with a hot traditional curling iron. Her hair is slightly messy and unstyled. The background is a blurred, chic bedroom vanity. Cinematic, commercial quality, 4K.",
+      "text_overlay": "早八人，发型总是挑战？",
+      "duration": 3,
+      "shot_type": "close_up",
+      "camera_movement": "static",
+      "lighting": "studio_soft",
+      "mood": "共鸣",
+      "audio_cue": "轻微烫伤的“嘶”声，一声无奈的叹息，低沉背景音乐",
+      "product_in_frame": false,
+      "needs_product_ref": false,
+      "needs_character_ref": true,
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null
+    },
+    {
+      "frame_id": 2,
+      "narration": "烫手伤发，造型太难！",
+      "visual_prompt": "Fast cut to a close-up montage: a traditional hot curling iron with visible steam, then a quick shot of a hand retracting from a hot surface, followed by a close-up of dull, slightly frizzy hair with split ends. The woman's face shows extreme frustration. Cinematic, commercial quality, 4K.",
+      "text_overlay": "烫手伤发、手残党专属烦恼？",
+      "duration": 2,
+      "shot_type": "text_overlay",
+      "camera_movement": "static",
+      "lighting": "studio_soft",
+      "mood": "共鸣",
+      "audio_cue": "低沉音乐渐强，一声表示不满的音效，突然静音",
+      "product_in_frame": false,
+      "needs_product_ref": false,
+      "needs_character_ref": true,
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null
+    },
+    {
+      "frame_id": 3,
+      "narration": "别忍了！升级造型，它就是救星！",
+      "visual_prompt": "Elegant hands of the 28-year-old woman, clean and manicured, gracefully reaching for and picking up a sleek, pristine Dyson Airwrap multi-styler from a minimalist white vanity. The product is spotlit, gleaming, with a subtle zoom-in on its design. The background is soft and out of focus. Cinematic, commercial quality, 4K.",
+      "text_overlay": "告别传统造型痛点，全新造型体验",
+      "duration": 4,
+      "shot_type": "product_showcase",
+      "camera_movement": "zoom_in",
+      "lighting": "high_key",
+      "mood": "好奇",
+      "audio_cue": "音乐从低沉突然转为轻快、好奇的旋律，伴随产品拿起时的“唰”一声",
+      "product_in_frame": true,
+      "needs_product_ref": true,
+      "needs_character_ref": true,
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null
+    },
+    {
+      "frame_id": 4,
+      "narration": "看！气流造型不伤发，轻松卷出完美弧度！",
+      "visual_prompt": "Medium shot of the woman demonstrating the Dyson Airwrap multi-styler. A section of her hair is effortlessly wrapped around the styling barrel by the Coanda effect, creating a smooth, bouncy curl. Focus on the hair's movement and the visible airflow, emphasizing no direct heat contact. Hair looks shiny and healthy. Cinematic, commercial quality, 4K.",
+      "text_overlay": "康达效应，气流造型不伤发",
+      "duration": 5,
+      "shot_type": "medium",
+      "camera_movement": "tracking",
+      "lighting": "natural_warm",
+      "mood": "惊喜",
+      "audio_cue": "轻柔的气流声，愉悦、轻快的背景音乐",
+      "product_in_frame": true,
+      "needs_product_ref": true,
+      "needs_character_ref": true,
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null
+    },
+    {
+      "frame_id": 5,
+      "narration": "直卷蓬松，一机搞定！手残党秒变达人，百变造型随心换！",
+      "visual_prompt": "Dynamic split-screen montage. Each panel quickly showcases the woman creating a different hairstyle with the Dyson Airwrap multi-styler: sleek straight hair, voluminous bouncy curls, chic inward flicks, and enhanced hair volume. Quick whip-pans transition between the different styled looks. Cinematic, commercial quality, 4K.",
+      "text_overlay": "一机六合一，百变造型轻松GET",
+      "duration": 6,
+      "shot_type": "split_screen",
+      "camera_movement": "whip_pan",
+      "lighting": "studio_soft",
+      "mood": "惊喜",
+      "audio_cue": "快节奏、充满活力的音乐，伴随快速转场音效",
+      "product_in_frame": true,
+      "needs_product_ref": true,
+      "needs_character_ref": true,
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null
+    },
+    {
+      "frame_id": 6,
+      "narration": "30秒沙龙级发型，不烫手不烫脸，新手闭眼用！",
+      "visual_prompt": "Close-up shot on the woman's face, smiling confidently, as she quickly finishes styling a section of her hair with the Dyson Airwrap multi-styler. Her hand gently touches the cool barrel, then her cheek/ear, showing no heat. A subtle on-screen timer flashes '30s'. Hair is perfectly styled and lustrous. Cinematic, commercial quality, 4K.",
+      "text_overlay": "30秒快速造型，告别烫伤风险",
+      "duration": 5,
+      "shot_type": "close_up",
+      "camera_movement": "zoom_in",
+      "lighting": "natural_warm",
+      "mood": "信任",
+      "audio_cue": "轻快的“叮”一声表示完成，轻松愉悦的音乐",
+      "product_in_frame": true,
+      "needs_product_ref": true,
+      "needs_character_ref": true,
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null
+    },
+    {
+      "frame_id": 7,
+      "narration": "看这对比！毛躁到光泽蓬松，气质蜕变，回头率飙升！",
+      "visual_prompt": "Side-by-side split-screen. Left panel: The woman with unstyled, slightly frizzy, dull hair, looking a bit tired. Right panel: The same woman with beautifully styled, shiny, voluminous hair, radiating confidence and elegance. Her expression is bright and happy. Cinematic, commercial quality, 4K.",
+      "text_overlay": "Before & After：气质瞬间提升",
+      "duration": 6,
+      "shot_type": "split_screen",
+      "camera_movement": "static",
+      "lighting": "high_key",
+      "mood": "向往",
+      "audio_cue": "激励人心的音乐逐渐升华，轻快的音效",
+      "product_in_frame": false,
+      "needs_product_ref": false,
+      "needs_character_ref": true,
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null
+    },
+    {
+      "frame_id": 8,
+      "narration": "拥有它，每天精致开始，通勤约会，自信由内而外散发！",
+      "visual_prompt": "Wide shot of the woman, impeccably styled and confident, walking gracefully out of a sunlit, modern apartment building, then a quick cut to her enjoying a coffee at a chic outdoor cafe, and finally, entering a stylish office building. Her hair remains perfect, reflecting her successful and elegant lifestyle. Cinematic, commercial quality, 4K.",
+      "text_overlay": "轻松GET精致生活，自信每一天",
+      "duration": 7,
+      "shot_type": "wide",
+      "camera_movement": "tracking",
+      "lighting": "golden_hour",
+      "mood": "向往",
+      "audio_cue": "优雅、充满憧憬感的背景音乐",
+      "product_in_frame": false,
+      "needs_product_ref": false,
+      "needs_character_ref": true,
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null
+    },
+    {
+      "frame_id": 9,
+      "narration": "别犹豫！告别伤发，轻松get沙龙造型。点击链接，即刻拥有专属造型师！",
+      "visual_prompt": "Dynamic text overlay summarising key benefits (Coanda effect, 6-in-1, 30s styling, no damage) animating smoothly on screen. The Dyson Airwrap multi-styler is subtly visible in the background, glowing. A clear, prominent call-to-action button graphic with '立即购买' (Buy Now) or '点击下单' (Click to Order) is centered. Cinematic, commercial quality, 4K.",
+      "text_overlay": "告别伤发 轻松造型 即刻下单！",
+      "duration": 7,
+      "shot_type": "text_overlay",
+      "camera_movement": "static",
+      "lighting": "studio_soft",
+      "mood": "冲动",
+      "audio_cue": "激动人心的音乐，伴随“立即行动”的提示音效",
+      "product_in_frame": true,
+      "needs_product_ref": true,
+      "needs_character_ref": false,
+      "status": "pending",
+      "feedback": null,
+      "image_url": null,
+      "video_url": null
+    }
+  ],
+  "product_reference": {
+    "description": "A sleek, modern Dyson Airwrap multi-styler, typically in a metallic fuchsia or nickel finish, with various interchangeable attachments (barrels, brushes). Its design emphasizes advanced technology and premium quality, with visible airflow features.",
+    "showcase_frames": [
+      3,
+      4,
+      5,
+      6,
+      9
+    ]
+  },
+  "character_reference": {
+    "needed": true,
+    "description": "A 28-year-old urban white-collar woman, dressed in chic, professional yet comfortable attire. Her expressions range from initial frustration and slight pain to confident, elegant, and joyful after styling her hair. She embodies a sophisticated yet relatable persona."
+  },
+  "director_strategy": {
+    "target_audience": {
+      "primary": "25-40岁都市白领女性，追求精致生活，注重效率和发质健康。她们可能因工作繁忙缺乏造型时间，或因手残党不敢尝试复杂造型，害怕传统美发工具损伤发质或烫伤。",
+      "scroll_stop_trigger": "画面中出现一位女性因传统卷发棒烫到耳朵而皱眉，或造型失败头发毛躁沮丧的瞬间，紧接着一个流畅、不费力地用气流卷发成功的画面，形成强烈对比。"
+    },
+    "content_strategy": {
+      "angle": "告别传统伤发造型，30秒轻松拥有沙龙级发型，手残党也能秒变造型达人。",
+      "hook_type": "pain_point",
+      "narrative_arc": "痛点共鸣→解决方案→效果验证→多功能展示→便捷性强调→信任建立→紧迫感CTA",
+      "key_emotion_sequence": [
+        "共鸣",
+        "好奇",
+        "惊喜",
+        "信任",
+        "向往",
+        "冲动"
+      ],
+      "pattern_breaks": [
+        {
+          "at_second": 5,
+          "technique": "从慢动作特写手残党造型失败的沮丧表情，突然切换到戴森Airwrap优雅地被拿起，同时画面节奏加快，配乐从低沉转向轻快，形成视觉和听觉上的强烈反差。"
+        }
+      ]
+    },
+    "shot_plan": [
+      {
+        "shot_id": 1,
+        "act": "hook",
+        "duration": 3,
+        "purpose": "制造痛点共鸣，引起用户注意和代入感。",
+        "target_emotion": "共鸣",
+        "intensity": 0.9,
+        "shot_type": "close_up",
+        "camera_movement": "static"
+      },
+      {
+        "shot_id": 2,
+        "act": "problem_statement",
+        "duration": 2,
+        "purpose": "直接点出痛点，强化共鸣，引导解决方案。",
+        "target_emotion": "共鸣",
+        "intensity": 0.8,
+        "shot_type": "text_overlay",
+        "camera_movement": "static"
+      },
+      {
+        "shot_id": 3,
+        "act": "solution_reveal",
+        "duration": 4,
+        "purpose": "首次展示产品，引发好奇心，暗示解决方案。",
+        "target_emotion": "好奇",
+        "intensity": 0.9,
+        "shot_type": "product_showcase",
+        "camera_movement": "zoom_in"
+      },
+      {
+        "shot_id": 4,
+        "act": "feature_demo_airflow",
+        "duration": 5,
+        "purpose": "展示康达效应核心技术，强调不伤发，轻松造型。",
+        "target_emotion": "惊喜",
+        "intensity": 0.8,
+        "shot_type": "medium",
+        "camera_movement": "tracking"
+      },
+      {
+        "shot_id": 5,
+        "act": "feature_demo_multistyle",
+        "duration": 6,
+        "purpose": "快速切换展示多种造型效果，突出“一机多用”和“手残党也能上手”。",
+        "target_emotion": "惊喜",
+        "intensity": 0.9,
+        "shot_type": "split_screen",
+        "camera_movement": "whip_pan"
+      },
+      {
+        "shot_id": 6,
+        "act": "benefit_speed_safety",
+        "duration": 5,
+        "purpose": "强调30秒快速造型和无烫伤风险，解决用户痛点。",
+        "target_emotion": "信任",
+        "intensity": 0.8,
+        "shot_type": "close_up",
+        "camera_movement": "zoom_in"
+      },
+      {
+        "shot_id": 7,
+        "act": "before_after_transformation",
+        "duration": 6,
+        "purpose": "直观展示使用前后对比，强化产品效果和价值。",
+        "target_emotion": "向往",
+        "intensity": 0.9,
+        "shot_type": "split_screen",
+        "camera_movement": "static"
+      },
+      {
+        "shot_id": 8,
+        "act": "lifestyle_integration",
+        "duration": 7,
+        "purpose": "营造精致生活氛围，让用户想象拥有产品后的美好。",
+        "target_emotion": "向往",
+        "intensity": 0.9,
+        "shot_type": "wide",
+        "camera_movement": "tracking"
+      },
+      {
+        "shot_id": 9,
+        "act": "cta_summary",
+        "duration": 7,
+        "purpose": "总结核心卖点，引导用户行动。",
+        "target_emotion": "冲动",
+        "intensity": 1.0,
+        "shot_type": "text_overlay",
+        "camera_movement": "static"
+      }
+    ],
+    "product_showcase_strategy": {
+      "reveal_timing": "5",
+      "showcase_shots": [
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "demonstration_type": "开箱|使用过程|效果展示|before_after"
+    },
+    "character_brief": {
+      "type": "真人出镜",
+      "description": "28岁都市白领女性，形象时尚干练，但略带亲和力，初期表现出被发型困扰的沮丧，后期则展现出自信、轻松、充满魅力的状态。"
+    }
+  },
+  "quality_report": {
+    "hook_score": 9,
+    "info_density_score": 8,
+    "selling_point_coverage": [
+      "告别传统伤发造型 (F1, F2, F4, F6, F9)",
+      "30秒轻松拥有沙龙级发型 (F6, F9)",
+      "手残党也能秒变造型达人 (F5)",
+      "康达效应/气流造型 (F4)",
+      "一机多用/多功能 (F5)",
+      "便捷性/效率 (F6, F8)",
+      "不烫手/安全 (F6)",
+      "Before/After效果 (F7)",
+      "精致生活理念 (F8)",
+      "明确CTA (F9)"
+    ],
+    "fixes_applied": [
+      "修正了所有帧的narration字数，以匹配duration并提高口播节奏，目标约4-5字/秒。",
+      "调整了F1和F2的mood，使其更贴合Director的'共鸣'目标情绪。",
+      "为所有包含产品的帧添加了'product_in_frame'和'needs_product_ref'字段。",
+      "为所有包含人物的帧添加了'needs_character_ref'字段。",
+      "补充了'product_reference'和'character_reference'的详细描述。"
+    ]
+  }
+}

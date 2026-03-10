@@ -1,0 +1,169 @@
+{
+  "title": "优化款",
+  "topic": "智能手表",
+  "product_name": "智能手表",
+  "product_detail": "智能手表",
+  "industry": "数码3C",
+  "target_duration": 60,
+  "total_duration": 52,
+  "shot_count": 7,
+  "shots": [
+    {
+      "shot_id": 1,
+      "shot_type": "extreme_close_up",
+      "act_type": "main",
+      "visual_description": "Extreme close-up shot of a smart watch screen in a pitch-black bedroom. The screen emits a harsh, pulsating red light, displaying 'Severe Heart Rate Anomaly! Emergency Notification Sent!'. A sleeping person's wrist slightly trembles. Dramatic, urgent lighting, high contrast, 4K commercial quality, creating a sense of shock and urgency.",
+      "narration": "深夜，你熟睡时，手腕上的它突然亮起红光！心率异常！紧急通知已发出！",
+      "duration": 5,
+      "camera_movement": "static",
+      "lighting": "dramatic_red_light",
+      "mood": "shocking",
+      "text_overlay": "心率严重异常！已发送紧急通知！",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 2,
+      "shot_type": "montage_medium_shots",
+      "act_type": "main",
+      "visual_description": "Montage of medium shots. A vibrant blogger working intensely in an office, subtly rubbing their temples with a tired expression. Then, the blogger exercising vigorously in a gym, occasionally touching their chest, dismissively saying 'I'm fine'. At night, the blogger is asleep in bed, their body briefly twitches or breathing becomes slightly rapid, hinting at underlying health issues. Soft, diffused lighting for daytime, dim, peaceful lighting for nighttime. Cinematic, realistic style.",
+      "narration": "白天你拼命工作、运动，以为没事？其实，潜在危险，就在你最放松的夜晚，悄悄靠近...",
+      "duration": 8,
+      "camera_movement": "dynamic_cuts",
+      "lighting": "mixed_day_night",
+      "mood": "uneasy",
+      "text_overlay": null,
+      "use_product_image": false
+    },
+    {
+      "shot_id": 3,
+      "shot_type": "close_up_watch_ui_then_medium_shot_blogger",
+      "act_type": "main",
+      "visual_description": "Close-up on a smart watch UI showing a playback of abnormal health data: a sharp drop/rise in heart rate graph, abnormal blood oxygen saturation values, and an emergency call log. Then, a medium shot of the blogger, with a serious and sincere expression, holding up their wrist. The blogger points to the watch screen, demonstrating fall detection, heart rate/blood oxygen alerts, and ECG monitoring features. Confident and relieved expression. Bright, clear studio lighting. Professional, informative style.",
+      "narration": "我当时就惊出一身冷汗！幸好手腕这块手表及时预警，监测到我心率异常，并自动发出了求助。它就是你夜晚独睡的‘生命守夜人’。心率、血氧、心电图、跌落检测，全方位守护，超安心！",
+      "duration": 10,
+      "camera_movement": "push_in_on_watch_then_static",
+      "lighting": "bright_informative",
+      "mood": "revelation_trust",
+      "text_overlay": "心率异常预警 | 跌落检测 | ECG心电图 | 自动求助",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 4,
+      "shot_type": "quick_cuts_daily_interactions",
+      "act_type": "main",
+      "visual_description": "Quick cuts of a blogger's fast-paced daily life. In a coffee shop, the blogger effortlessly pays with a smart watch via mobile payment, the screen showing 'Payment Successful'. Walking down the street, the watch vibrates, displaying an important message notification (e.g., email, WeChat). In the office, the watch vibrates to remind about an upcoming meeting, showing the topic and time. Blogger's expression is relaxed and efficient. Bright, dynamic lighting. Modern, urban lifestyle aesthetic.",
+      "narration": "它不只是关键时刻的守护者。日常中，它就是你的智能管家！移动支付、消息通知、日程提醒，抬手搞定，超便捷！",
+      "duration": 8,
+      "camera_movement": "smooth_tracking",
+      "lighting": "bright_daylight",
+      "mood": "convenience_efficiency",
+      "text_overlay": "移动支付 | 消息通知 | 日程提醒",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 5,
+      "shot_type": "dynamic_action_shots_with_ui_overlay",
+      "act_type": "main",
+      "visual_description": "Dynamic action shots of a blogger exercising. The blogger is either running on a treadmill in a gym or performing yoga outdoors. A close-up on the smart watch screen shows real-time, precise exercise data: heart rate zones, calorie burn, steps taken, and a 'Fitness Challenge' UI displaying completion progress or ranking. The blogger's expression is vibrant and confident, enjoying the workout. Tracking shots, energetic lighting. Sports commercial style.",
+      "narration": "它还是你的专属运动教练！精准追踪运动数据、心率，结合挑战赛模式，激发运动热情，科学健身，活力满满！",
+      "duration": 8,
+      "camera_movement": "tracking_shot_and_pov",
+      "lighting": "bright_energetic",
+      "mood": "vibrant_active",
+      "text_overlay": "精准运动数据 | 健身达人挑战赛 | 实时心率",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 6,
+      "shot_type": "soft_focus_medium_shot_then_close_up_on_watch_and_family",
+      "act_type": "main",
+      "visual_description": "Soft focus medium shot of a blogger gently touching their smart watch, with a grateful and peaceful expression. Quick flashbacks intercut: the blogger gently embracing elderly parents, who smile warmly; the blogger playing with a young child, who is joyful and innocent. The blogger then presses the watch gently against their chest, with a warm, loving expression. Warm, soft lighting. Emotional, heartwarming cinematic style.",
+      "narration": "这块手表，不只是冰冷的科技。它承载着你对健康的重视，对家人的爱与责任。它替你守护所爱，让安心触手可及，真的特别暖心。",
+      "duration": 8,
+      "camera_movement": "slow_pan_then_static",
+      "lighting": "warm_soft",
+      "mood": "heartwarming_responsible",
+      "text_overlay": "爱与责任 | 守护家人",
+      "use_product_image": true
+    },
+    {
+      "shot_id": 7,
+      "shot_type": "medium_close_up_blogger_with_gesture",
+      "act_type": "main",
+      "visual_description": "Medium close-up shot of the blogger with a confident and powerful expression, holding the smart watch in one hand and pointing towards the bottom left corner of the screen where a shopping cart icon would be. The blogger emphasizes the product's value and the urgency of purchase. Blurred background, sharp focus on the blogger and product. Strong, direct lighting. Influencer call-to-action style.",
+      "narration": "别再把健康安全当儿戏！这份安心守护，值得拥有！点击小黄车，带走你的‘生命守护者’！",
+      "duration": 5,
+      "camera_movement": "static",
+      "lighting": "direct_confident",
+      "mood": "urgent_decisive",
+      "text_overlay": "点击下方小黄车，立即购买！",
+      "use_product_image": true
+    }
+  ],
+  "selling_points": [
+    "全面健康守护：实时监测心率、血氧，支持心电图和跌落检测，让你和家人防患于未然，获得安心保障。",
+    "智能生活管家：模拟用户一天生活流，移动支付、消息通知、日程提醒一手掌握，告别错失，体验高效便捷。",
+    "你的专属运动教练：精准追踪运动数据、心率，结合健身达人挑战赛模式，激发运动热情，助你科学健身，健康活力触手可及。"
+  ],
+  "quality_report": {
+    "hook_score": 9.5,
+    "info_density_score": 8.5,
+    "selling_point_coverage": [
+      "生命守护/紧急预警: 在第1、3帧通过夜半警报和数据回放覆盖",
+      "健康监测(心率/血氧/ECG/跌落): 在第3帧通过UI演示和口播详细覆盖",
+      "日常便捷(支付/通知/日程): 在第4帧通过快节奏场景演绎覆盖",
+      "运动健康管理/专属教练: 在第5帧通过运动场景和数据展示覆盖",
+      "情感连接/家人守护: 在第6帧通过温馨互动和口播升华覆盖"
+    ],
+    "fixes_applied": [
+      "修改了第1帧口播，增加信息密度和冲击力，使其更符合5秒时长和暴力钩子要求。",
+      "修改了第2帧口播，使其更简洁，符合8秒时长，并增强痛点共鸣。",
+      "修改了第3帧口播，大幅精简，突出核心卖点“生命守夜人”，让视觉演示承担更多信息传递，使其更符合10秒时长。",
+      "修改了第4帧口播，精简了部分形容词和连接词，使其更口语化、信息更集中，符合8秒时长。",
+      "修改了第5帧口播，精简了部分形容词和连接词，使其更口语化、信息更集中，符合8秒时长。",
+      "修改了第6帧口播，精简了部分形容词和连接词，使其更口语化、情感更真挚，符合8秒时长。",
+      "修改了第7帧口播，大幅精简，使其更直接、有紧迫感，符合5秒时长和行动号召要求。",
+      "所有帧的`visual_description`和`visual_prompt`均已检查，确保具体到道具、动作、表情，并优化了英文提示的措辞，使其更适合AI生成。"
+    ]
+  },
+  "generation_stage": "script",
+  "style": "cinematic",
+  "smart_create": {
+    "session_id": "0d06c970",
+    "script_id": 2,
+    "script_name": "优化款",
+    "risk_level": "moderate",
+    "competitor_summary": {
+      "winning_patterns": [
+        "健身达人挑战赛：结合运动场景，展示运动数据追踪、心率监测等功能，激发用户运动热情。",
+        "一天生活流：模拟用户从早到晚佩戴智能手表的便利性，如移动支付、消息通知、日程提醒和健康监测。",
+        "功能深度解析：针对某一核心或创新功能（如心电图、血氧饱和度、跌落检测）进行详细演示和科学解读。"
+      ],
+      "hook_strategies": [
+        "反问痛点：\"你还在为错过重要信息，或者担忧父母健康而烦恼吗？\"",
+        "直接展示核心功能：\"看，我的手表不仅能测心电图，还能帮你提前预警潜在风险！\"",
+        "制造好奇：\"一块小小的手表，竟然能帮你省下每天半小时，改变你的生活方式！\""
+      ],
+      "content_structures": [
+        "问题引入 -> 解决方案（产品） -> 功能演示 -> 用户证言/利益点总结 -> CTA（Call To Action）",
+        "场景代入 -> 产品功能融入 -> 情感共鸣 -> 价值升华 -> CTA"
+      ],
+      "emotional_triggers": [
+        "健康焦虑与安全感：关注自身健康数据，防患于未然，获得安心。",
+        "效率提升与便捷感：掌控生活节奏，告别错失，体验智能生活。",
+        "身份认同与时尚感：佩戴科技潮品，彰显品味，走在潮流前沿。"
+      ]
+    },
+    "market_summary": {
+      "summary": "智能手表市场已趋于成熟，但仍有增长空间，主要驱动力来自用户对健康监测、运动追踪和生活便捷的需求。主要痛点在于续航能力、数据精准度、隐私保护以及部分用户认为其“非必需品”的认知。",
+      "key_findings": [
+        "健康监测（如心率、血氧、睡眠质量）是用户购买智能手表的第一驱动力，尤其受中老年和健身人群青睐。",
+        "与主流手机生态系统的无缝集成和多设备协同体验，是提升用户粘性和产品竞争力的关键。",
+        "外观设计、材质选择以及个性化表盘/表带的定制能力，对年轻消费者和注重时尚的用户具有重要吸引力。",
+        "电池续航能力仍是用户普遍关注的痛点，直接影响使用体验和购买决策。"
+      ]
+    }
+  },
+  "created_at": "2026-03-05T16:22:32.048948",
+  "updated_at": "2026-03-05T16:22:32.048948"
+}

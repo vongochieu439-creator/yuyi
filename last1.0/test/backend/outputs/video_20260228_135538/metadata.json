@@ -1,0 +1,214 @@
+{
+  "title": "smart watch - 稳妥款",
+  "topic": "smart watch",
+  "target_duration": 60,
+  "total_duration": 60.5,
+  "shot_count": 12,
+  "viral_score": 0.0,
+  "generation_stage": "script",
+  "style": "marketing",
+  "selling_points": [
+    "smart watch品质优异",
+    "性价比高",
+    "用户好评如潮"
+  ],
+  "shots": [
+    {
+      "id": 1,
+      "shot_type": "talking_head",
+      "act_type": "act1",
+      "visual_description": "Close-up shot of hands holding smart watch, warm lighting, curious expression",
+      "narration": "用了smart watch之后，我再也回不去了...",
+      "rationale": "[悬念型开场] 悬念引发好奇心，3秒内留住观众",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.3,
+      "use_product_image": false
+    },
+    {
+      "id": 2,
+      "shot_type": "scene",
+      "act_type": "act1",
+      "visual_description": "Product demonstration shot of smart watch, clean background, professional lighting",
+      "narration": "关于smart watch品质优异的展示",
+      "rationale": "展示核心卖点: smart watch品质优异",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.5,
+      "use_product_image": false
+    },
+    {
+      "id": 3,
+      "shot_type": "transition",
+      "act_type": "act1",
+      "visual_description": "Product demonstration shot of smart watch, clean background, professional lighting",
+      "narration": "关于性价比高的展示",
+      "rationale": "展示核心卖点: 性价比高",
+      "duration": 3.6666666666666665,
+      "emotion_score": 0.7,
+      "use_product_image": false
+    },
+    {
+      "id": 4,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "Product demonstration shot of smart watch, clean background, professional lighting",
+      "narration": "关于用户好评如潮的展示",
+      "rationale": "展示核心卖点: 用户好评如潮",
+      "duration": 5,
+      "emotion_score": 0.7,
+      "use_product_image": true
+    },
+    {
+      "id": 5,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "Product demonstration shot of smart watch, clean background, professional lighting",
+      "narration": "关于smart watch品质优异的展示",
+      "rationale": "展示核心卖点: smart watch品质优异",
+      "duration": 5,
+      "emotion_score": 0.76,
+      "use_product_image": true
+    },
+    {
+      "id": 6,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "Product demonstration shot of smart watch, clean background, professional lighting",
+      "narration": "关于性价比高的展示",
+      "rationale": "展示核心卖点: 性价比高",
+      "duration": 5,
+      "emotion_score": 0.8200000000000001,
+      "use_product_image": false
+    },
+    {
+      "id": 7,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "Product demonstration shot of smart watch, clean background, professional lighting",
+      "narration": "关于用户好评如潮的展示",
+      "rationale": "展示核心卖点: 用户好评如潮",
+      "duration": 5.5,
+      "emotion_score": 0.88,
+      "use_product_image": true
+    },
+    {
+      "id": 8,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "Product demonstration shot of smart watch, clean background, professional lighting",
+      "narration": "关于smart watch品质优异的展示",
+      "rationale": "展示核心卖点: smart watch品质优异",
+      "duration": 4.5,
+      "emotion_score": 0.8800000000000001,
+      "use_product_image": true
+    },
+    {
+      "id": 9,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "Product demonstration shot of smart watch, clean background, professional lighting",
+      "narration": "关于性价比高的展示",
+      "rationale": "展示核心卖点: 性价比高",
+      "duration": 5.5,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 10,
+      "shot_type": "talking_head",
+      "act_type": "act3",
+      "visual_description": "Call to action shot with smart watch, bold text overlay, energetic composition",
+      "narration": "心动不如行动，点击下方链接把smart watch带回家！",
+      "rationale": "与开场悬念型呼应，促进转化",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 11,
+      "shot_type": "effect",
+      "act_type": "act3",
+      "visual_description": "Call to action shot with smart watch, bold text overlay, energetic composition",
+      "narration": "心动不如行动，点击下方链接把smart watch带回家！",
+      "rationale": "与开场悬念型呼应，促进转化",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.95,
+      "use_product_image": false
+    },
+    {
+      "id": 12,
+      "shot_type": "transition",
+      "act_type": "act3",
+      "visual_description": "Call to action shot with smart watch, bold text overlay, energetic composition",
+      "narration": "心动不如行动，点击下方链接把smart watch带回家！",
+      "rationale": "与开场悬念型呼应，促进转化",
+      "duration": 3.6666666666666665,
+      "emotion_score": 1.0,
+      "use_product_image": false
+    }
+  ],
+  "product_images": [],
+  "keyframes": [],
+  "quality_check": {
+    "word_duration_match": false,
+    "selling_point_coverage": [
+      "smart watch品质优异",
+      "性价比高",
+      "用户好评如潮"
+    ],
+    "missing_selling_points": [],
+    "rhythm_score": 0.0,
+    "issues": [
+      "镜头#10口播偏长(28字/4.916666666666667秒)",
+      "镜头#12口播偏长(28字/3.6666666666666665秒)"
+    ],
+    "auto_fixes": []
+  },
+  "smart_create": {
+    "session_id": "fac0a745",
+    "direction": {
+      "direction_id": 1,
+      "name": "稳妥款",
+      "risk_level": "safe",
+      "description": "场景化展示产品核心价值",
+      "hook": "用了smart watch之后，我再也不想换回去了",
+      "structure_preview": [
+        "开场: 痛点场景",
+        "主体: 产品展示",
+        "结尾: CTA"
+      ],
+      "creative_techniques": []
+    },
+    "selected_hook": {
+      "hook_id": 1,
+      "style": "悬念型",
+      "hook_text": "用了smart watch之后，我再也回不去了...",
+      "visual_hint": "Close-up shot of hands holding smart watch, warm lighting, curious expression",
+      "rationale": "悬念引发好奇心，3秒内留住观众"
+    },
+    "competitor_summary": {
+      "winning_patterns": [
+        "产品场景化展示",
+        "用户痛点引入",
+        "效果对比"
+      ],
+      "hook_strategies": [
+        "直击痛点提问",
+        "反常识开场"
+      ],
+      "content_structures": [
+        "痛点-解决方案-效果"
+      ],
+      "emotional_triggers": [
+        "好奇心",
+        "共鸣感"
+      ]
+    },
+    "market_summary": {
+      "summary": "smart watch市场竞争激烈，差异化是关键",
+      "key_findings": []
+    }
+  },
+  "created_at": "2026-02-28T13:55:38.013263",
+  "updated_at": "2026-02-28T13:55:41.270357",
+  "script_locked": true
+}

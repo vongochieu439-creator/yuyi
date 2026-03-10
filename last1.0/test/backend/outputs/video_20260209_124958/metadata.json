@@ -1,0 +1,393 @@
+{
+  "title": "AI智能手表评测 - AI生成视频",
+  "topic": "AI智能手表评测",
+  "target_duration": 60,
+  "total_duration": 60.5,
+  "shot_count": 12,
+  "viral_score": 0.0,
+  "generation_stage": "videos",
+  "style": "marketing",
+  "selling_points": "AI健康监测, 7天超长续航, 全天候心率血氧监测",
+  "shots": [
+    {
+      "id": 1,
+      "shot_type": "talking_head",
+      "act_type": "act1",
+      "visual_description": "A charismatic male host, mid-shot, sits in a modern, well-lit studio. He wears a stylish casual outfit, looking directly into the camera with an engaging smile. The background is a subtly blurred, futuristic tech-inspired wall with soft blue and white ambient lighting, suggesting innovation and professionalism. His expression is welcoming and slightly inquisitive, setting an inviting tone for the review.",
+      "narration": "Test edited narration",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.3,
+      "use_product_image": false
+    },
+    {
+      "id": 2,
+      "shot_type": "scene",
+      "act_type": "act1",
+      "visual_description": "A quick, dynamic montage of frustrated individuals in various settings. One person frowns at a smartwatch charging cable, another taps impatiently on a dim watch screen. A third looks puzzled at a generic health app. The lighting is slightly muted, emphasizing a common, relatable struggle with current smartwatch limitations. The shots are tight, focusing on the user's interaction and their expressions of mild annoyance.",
+      "narration": "我们都知道，市面上的智能手表，续航短、数据不精准，常常让人感觉鸡肋。你是不是也期待一款真正懂你的AI健康管家？",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.5,
+      "use_product_image": false
+    },
+    {
+      "id": 3,
+      "shot_type": "transition",
+      "act_type": "act1",
+      "visual_description": "A sleek, high-tech digital transition effect. A vibrant, luminous blue light wave sweeps across the screen, dissolving the previous scene of frustration and revealing a clean, bright, and optimistic backdrop. The transition is fast-paced and futuristic, symbolizing a shift from old problems to new solutions. It's a visually impactful moment, building anticipation for the product reveal.",
+      "narration": "别担心！今天，我将向你揭示一款颠覆性的AI智能手表，它将彻底改变你的健康生活！",
+      "duration": 3.6666666666666665,
+      "emotion_score": 0.7,
+      "use_product_image": false
+    },
+    {
+      "id": 4,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "A close-up hero shot of the AI smartwatch, rotating slowly on a minimalist, glowing white pedestal. The watch's sleek design, premium materials, and vibrant, high-resolution display are highlighted by soft, diffused studio lighting. The screen cycles through dynamic health data interfaces, showcasing its advanced UI and emphasizing its sophisticated AI health monitoring capabilities. The focus is on its elegant form and cutting-edge screen.",
+      "narration": "隆重介绍——这款专为未来打造的AI智能手表！它不仅拥有令人惊叹的外观设计，更蕴含着强大的智能核心！",
+      "duration": 5,
+      "emotion_score": 0.7,
+      "use_product_image": true
+    },
+    {
+      "id": 5,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "A user's wrist (clean, well-groomed) wearing the AI smartwatch. A close-up shot of fingers smoothly interacting with the watch's responsive touchscreen. The screen brightly displays real-time heart rate graphs and blood oxygen saturation levels, with clear, easy-to-read numbers. The interaction is fluid and intuitive, emphasizing the precision and accessibility of its AI health monitoring features. Soft, natural light illuminates the scene.",
+      "narration": "它不仅仅是块表，更是你的专属AI健康管家！全天候心率血氧监测，数据精准到毫秒，让你时刻掌握身体状况。",
+      "duration": 5,
+      "emotion_score": 0.76,
+      "use_product_image": true
+    },
+    {
+      "id": 6,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "A dynamic animated infographic visualizes data flow. From the smartwatch on a wrist, intricate light trails extend to a stylized human body outline, highlighting the heart and lungs, then transforming into a clear, evolving trend graph showing stable health metrics. The graphics are clean, modern, and in vibrant blues and greens, emphasizing continuous, intelligent monitoring and AI-driven insights into wellness.",
+      "narration": "强大的AI算法，实时分析你的健康趋势，提前预警潜在风险。无论是运动还是休息，它都能提供专业的健康建议！",
+      "duration": 5,
+      "emotion_score": 0.8200000000000001,
+      "use_product_image": false
+    },
+    {
+      "id": 7,
+      "shot_type": "product",
+      "act_type": "act2",
+      "visual_description": "A striking product shot showcasing the smartwatch in a pristine, minimalist environment. The watch is positioned prominently, with its sleek profile and screen clearly visible. On the screen, a bold, stylized '7 Days Battery Life' icon dominates, accompanied by a full battery indicator. The lighting is crisp and clean, emphasizing the watch's durability and its extraordinary power efficiency, making the long battery life a central visual feature.",
+      "narration": "最让人惊喜的是它的续航能力！7天超长待机，告别一天一充的烦恼，真正实现无忧佩戴！",
+      "duration": 5.5,
+      "emotion_score": 0.88,
+      "use_product_image": true
+    },
+    {
+      "id": 8,
+      "shot_type": "hands_on",
+      "act_type": "act2",
+      "visual_description": "A quick montage of a user seamlessly integrating the smartwatch into various daily activities. One shot shows the user jogging outdoors, the watch comfortably on their wrist. Another shows them working at a desk, the watch discreetly visible. A third shows them sleeping peacefully, the watch still worn. The cuts are fast, highlighting the watch's continuous, effortless presence in a busy life, without the need for constant charging.",
+      "narration": "无论是商务出差还是户外探险，它都能电力十足，时刻守护你的健康。一周无需充电，尽享自由生活！",
+      "duration": 4.5,
+      "emotion_score": 0.8800000000000001,
+      "use_product_image": true
+    },
+    {
+      "id": 9,
+      "shot_type": "effect",
+      "act_type": "act2",
+      "visual_description": "A high-energy visual effect sequence. Dynamic split screens and quick transitions showcase different health data interfaces: a sleep tracking graph, a vibrant step counter, and a stress level monitor. Animated icons representing heartbeats and oxygen bubbles float across the screen. The overall aesthetic is clean, modern, and engaging, visually summarizing the comprehensive and continuous health monitoring features combined with the freedom of long battery life.",
+      "narration": "从睡眠到运动，从心率到血氧，全方位智能监测，搭配7天超长续航！这款手表重新定义了智能穿戴！",
+      "duration": 5.5,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 10,
+      "shot_type": "talking_head",
+      "act_type": "act3",
+      "visual_description": "The charismatic host returns, mid-shot, holding the AI smartwatch prominently in his hand. He smiles confidently at the camera, reinforcing his conviction about the product. The studio background remains consistent, but perhaps with a subtle glow around the watch, emphasizing its transformative power. His posture is open and inviting, encouraging viewers to trust his review.",
+      "narration": "这款AI智能手表，真的做到了科技与健康的完美结合！它不仅提升了生活品质，更让你对自己的健康了如指掌！",
+      "duration": 4.916666666666667,
+      "emotion_score": 0.85,
+      "use_product_image": false
+    },
+    {
+      "id": 11,
+      "shot_type": "effect",
+      "act_type": "act3",
+      "visual_description": "A vibrant call-to-action screen. The AI smartwatch is featured prominently in a hero shot, surrounded by bold, animated text highlighting key selling points: 'AI健康监测', '7天超长续航', '全天候心率血氧'. A clear, inviting QR code or website URL appears at the bottom. The background is a clean, modern gradient, with subtle light effects, creating an energetic and persuasive visual for immediate engagement.",
+      "narration": "如果你也渴望更智能、更无忧的健康生活，现在就点击屏幕下方的链接，拥有你的专属AI健康管家！即刻体验，开启健康新篇章！",
+      "duration": 6.416666666666667,
+      "emotion_score": 0.95,
+      "use_product_image": false
+    },
+    {
+      "id": 12,
+      "shot_type": "transition",
+      "act_type": "act3",
+      "visual_description": "A final, elegant transition shot. The AI smartwatch logo or a stylized animation of the watch itself gracefully fades into a soft, ethereal light, leaving behind a brief, impactful brand tagline or a simple 'Thank You' message. The background is a clean, inspiring gradient, symbolizing completion and a bright future. The overall mood is sophisticated and memorable, leaving a lasting positive impression.",
+      "narration": "别再犹豫了，让科技守护你的健康！我们期待与你共同开启智能健康新生活！",
+      "duration": 3.6666666666666665,
+      "emotion_score": 1.0,
+      "use_product_image": false
+    }
+  ],
+  "product_images": [],
+  "keyframes": [
+    {
+      "shot_id": 1,
+      "status": "approved",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_124958/keyframes/keyframe_001_v1.jpg",
+          "prompt": "A charismatic male host, mid-shot, sits in a modern, well-lit studio. He wears a stylish casual outfit, looking directly into the camera with an engaging smile. The background is a subtly blurred, futuristic tech-inspired wall with soft blue and white ambient lighting, suggesting innovation and professionalism. His expression is welcoming and slightly inquisitive, setting an inviting tone for the review., high quality, professional lighting, cinematic composition, 4K, detailed",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T15:29:15.540407"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "A charismatic male host, mid-shot, sits in a modern, well-lit studio. He wears a stylish casual outfit, looking directly into the camera with an engaging smile. The background is a subtly blurred, futuristic tech-inspired wall with soft blue and white ambient lighting, suggesting innovation and professionalism. His expression is welcoming and slightly inquisitive, setting an inviting tone for the review.",
+      "narration": "Test edited narration",
+      "duration": 4.916666666666667
+    },
+    {
+      "shot_id": 2,
+      "status": "approved",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_124958/keyframes/keyframe_002_v1.jpg",
+          "prompt": "A quick, dynamic montage of frustrated individuals in various settings. One person frowns at a smartwatch charging cable, another taps impatiently on a dim watch screen. A third looks puzzled at a generic health app. The lighting is slightly muted, emphasizing a common, relatable struggle with current smartwatch limitations. The shots are tight, focusing on the user's interaction and their expressions of mild annoyance., high quality, professional lighting, cinematic composition, 4K, detailed",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T15:29:00.805157"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "A quick, dynamic montage of frustrated individuals in various settings. One person frowns at a smartwatch charging cable, another taps impatiently on a dim watch screen. A third looks puzzled at a generic health app. The lighting is slightly muted, emphasizing a common, relatable struggle with current smartwatch limitations. The shots are tight, focusing on the user's interaction and their expressions of mild annoyance.",
+      "narration": "我们都知道，市面上的智能手表，续航短、数据不精准，常常让人感觉鸡肋。你是不是也期待一款真正懂你的AI健康管家？",
+      "duration": 6.416666666666667
+    },
+    {
+      "shot_id": 3,
+      "status": "approved",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_124958/keyframes/keyframe_003_v1.jpg",
+          "prompt": "A sleek, high-tech digital transition effect. A vibrant, luminous blue light wave sweeps across the screen, dissolving the previous scene of frustration and revealing a clean, bright, and optimistic backdrop. The transition is fast-paced and futuristic, symbolizing a shift from old problems to new solutions. It's a visually impactful moment, building anticipation for the product reveal., high quality, professional lighting, cinematic composition, 4K, detailed",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T15:29:00.896245"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "A sleek, high-tech digital transition effect. A vibrant, luminous blue light wave sweeps across the screen, dissolving the previous scene of frustration and revealing a clean, bright, and optimistic backdrop. The transition is fast-paced and futuristic, symbolizing a shift from old problems to new solutions. It's a visually impactful moment, building anticipation for the product reveal.",
+      "narration": "别担心！今天，我将向你揭示一款颠覆性的AI智能手表，它将彻底改变你的健康生活！",
+      "duration": 3.6666666666666665
+    },
+    {
+      "shot_id": 4,
+      "status": "approved",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_124958/keyframes/keyframe_004_v1.jpg",
+          "prompt": "A close-up hero shot of the AI smartwatch, rotating slowly on a minimalist, glowing white pedestal. The watch's sleek design, premium materials, and vibrant, high-resolution display are highlighted by soft, diffused studio lighting. The screen cycles through dynamic health data interfaces, showcasing its advanced UI and emphasizing its sophisticated AI health monitoring capabilities. The focus is on its elegant form and cutting-edge screen., high quality, professional lighting, cinematic composition, 4K, detailed",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T15:29:54.182718"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "A close-up hero shot of the AI smartwatch, rotating slowly on a minimalist, glowing white pedestal. The watch's sleek design, premium materials, and vibrant, high-resolution display are highlighted by soft, diffused studio lighting. The screen cycles through dynamic health data interfaces, showcasing its advanced UI and emphasizing its sophisticated AI health monitoring capabilities. The focus is on its elegant form and cutting-edge screen.",
+      "narration": "隆重介绍——这款专为未来打造的AI智能手表！它不仅拥有令人惊叹的外观设计，更蕴含着强大的智能核心！",
+      "duration": 5
+    },
+    {
+      "shot_id": 5,
+      "status": "approved",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_124958/keyframes/keyframe_005_v1.jpg",
+          "prompt": "A user's wrist (clean, well-groomed) wearing the AI smartwatch. A close-up shot of fingers smoothly interacting with the watch's responsive touchscreen. The screen brightly displays real-time heart rate graphs and blood oxygen saturation levels, with clear, easy-to-read numbers. The interaction is fluid and intuitive, emphasizing the precision and accessibility of its AI health monitoring features. Soft, natural light illuminates the scene., high quality, professional lighting, cinematic composition, 4K, detailed",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T15:29:42.793957"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "A user's wrist (clean, well-groomed) wearing the AI smartwatch. A close-up shot of fingers smoothly interacting with the watch's responsive touchscreen. The screen brightly displays real-time heart rate graphs and blood oxygen saturation levels, with clear, easy-to-read numbers. The interaction is fluid and intuitive, emphasizing the precision and accessibility of its AI health monitoring features. Soft, natural light illuminates the scene.",
+      "narration": "它不仅仅是块表，更是你的专属AI健康管家！全天候心率血氧监测，数据精准到毫秒，让你时刻掌握身体状况。",
+      "duration": 5
+    },
+    {
+      "shot_id": 6,
+      "status": "approved",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_124958/keyframes/keyframe_006_v1.jpg",
+          "prompt": "A dynamic animated infographic visualizes data flow. From the smartwatch on a wrist, intricate light trails extend to a stylized human body outline, highlighting the heart and lungs, then transforming into a clear, evolving trend graph showing stable health metrics. The graphics are clean, modern, and in vibrant blues and greens, emphasizing continuous, intelligent monitoring and AI-driven insights into wellness., high quality, professional lighting, cinematic composition, 4K, detailed",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T15:29:53.636109"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "A dynamic animated infographic visualizes data flow. From the smartwatch on a wrist, intricate light trails extend to a stylized human body outline, highlighting the heart and lungs, then transforming into a clear, evolving trend graph showing stable health metrics. The graphics are clean, modern, and in vibrant blues and greens, emphasizing continuous, intelligent monitoring and AI-driven insights into wellness.",
+      "narration": "强大的AI算法，实时分析你的健康趋势，提前预警潜在风险。无论是运动还是休息，它都能提供专业的健康建议！",
+      "duration": 5
+    },
+    {
+      "shot_id": 7,
+      "status": "approved",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_124958/keyframes/keyframe_007_v1.jpg",
+          "prompt": "A striking product shot showcasing the smartwatch in a pristine, minimalist environment. The watch is positioned prominently, with its sleek profile and screen clearly visible. On the screen, a bold, stylized '7 Days Battery Life' icon dominates, accompanied by a full battery indicator. The lighting is crisp and clean, emphasizing the watch's durability and its extraordinary power efficiency, making the long battery life a central visual feature., high quality, professional lighting, cinematic composition, 4K, detailed",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T15:30:55.091503"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "A striking product shot showcasing the smartwatch in a pristine, minimalist environment. The watch is positioned prominently, with its sleek profile and screen clearly visible. On the screen, a bold, stylized '7 Days Battery Life' icon dominates, accompanied by a full battery indicator. The lighting is crisp and clean, emphasizing the watch's durability and its extraordinary power efficiency, making the long battery life a central visual feature.",
+      "narration": "最让人惊喜的是它的续航能力！7天超长待机，告别一天一充的烦恼，真正实现无忧佩戴！",
+      "duration": 5.5
+    },
+    {
+      "shot_id": 8,
+      "status": "approved",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_124958/keyframes/keyframe_008_v1.jpg",
+          "prompt": "A quick montage of a user seamlessly integrating the smartwatch into various daily activities. One shot shows the user jogging outdoors, the watch comfortably on their wrist. Another shows them working at a desk, the watch discreetly visible. A third shows them sleeping peacefully, the watch still worn. The cuts are fast, highlighting the watch's continuous, effortless presence in a busy life, without the need for constant charging., high quality, professional lighting, cinematic composition, 4K, detailed",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T15:30:35.694812"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "A quick montage of a user seamlessly integrating the smartwatch into various daily activities. One shot shows the user jogging outdoors, the watch comfortably on their wrist. Another shows them working at a desk, the watch discreetly visible. A third shows them sleeping peacefully, the watch still worn. The cuts are fast, highlighting the watch's continuous, effortless presence in a busy life, without the need for constant charging.",
+      "narration": "无论是商务出差还是户外探险，它都能电力十足，时刻守护你的健康。一周无需充电，尽享自由生活！",
+      "duration": 4.5
+    },
+    {
+      "shot_id": 9,
+      "status": "approved",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_124958/keyframes/keyframe_009_v1.jpg",
+          "prompt": "A high-energy visual effect sequence. Dynamic split screens and quick transitions showcase different health data interfaces: a sleep tracking graph, a vibrant step counter, and a stress level monitor. Animated icons representing heartbeats and oxygen bubbles float across the screen. The overall aesthetic is clean, modern, and engaging, visually summarizing the comprehensive and continuous health monitoring features combined with the freedom of long battery life., high quality, professional lighting, cinematic composition, 4K, detailed",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T15:30:28.750311"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "A high-energy visual effect sequence. Dynamic split screens and quick transitions showcase different health data interfaces: a sleep tracking graph, a vibrant step counter, and a stress level monitor. Animated icons representing heartbeats and oxygen bubbles float across the screen. The overall aesthetic is clean, modern, and engaging, visually summarizing the comprehensive and continuous health monitoring features combined with the freedom of long battery life.",
+      "narration": "从睡眠到运动，从心率到血氧，全方位智能监测，搭配7天超长续航！这款手表重新定义了智能穿戴！",
+      "duration": 5.5
+    },
+    {
+      "shot_id": 10,
+      "status": "approved",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_124958/keyframes/keyframe_010_v1.jpg",
+          "prompt": "The charismatic host returns, mid-shot, holding the AI smartwatch prominently in his hand. He smiles confidently at the camera, reinforcing his conviction about the product. The studio background remains consistent, but perhaps with a subtle glow around the watch, emphasizing its transformative power. His posture is open and inviting, encouraging viewers to trust his review., high quality, professional lighting, cinematic composition, 4K, detailed",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T15:32:55.122544"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "The charismatic host returns, mid-shot, holding the AI smartwatch prominently in his hand. He smiles confidently at the camera, reinforcing his conviction about the product. The studio background remains consistent, but perhaps with a subtle glow around the watch, emphasizing its transformative power. His posture is open and inviting, encouraging viewers to trust his review.",
+      "narration": "这款AI智能手表，真的做到了科技与健康的完美结合！它不仅提升了生活品质，更让你对自己的健康了如指掌！",
+      "duration": 4.916666666666667
+    },
+    {
+      "shot_id": 11,
+      "status": "approved",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_124958/keyframes/keyframe_011_v1.jpg",
+          "prompt": "A vibrant call-to-action screen. The AI smartwatch is featured prominently in a hero shot, surrounded by bold, animated text highlighting key selling points: 'AI健康监测', '7天超长续航', '全天候心率血氧'. A clear, inviting QR code or website URL appears at the bottom. The background is a clean, modern gradient, with subtle light effects, creating an energetic and persuasive visual for immediate engagement., high quality, professional lighting, cinematic composition, 4K, detailed",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T15:31:17.586226"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "A vibrant call-to-action screen. The AI smartwatch is featured prominently in a hero shot, surrounded by bold, animated text highlighting key selling points: 'AI健康监测', '7天超长续航', '全天候心率血氧'. A clear, inviting QR code or website URL appears at the bottom. The background is a clean, modern gradient, with subtle light effects, creating an energetic and persuasive visual for immediate engagement.",
+      "narration": "如果你也渴望更智能、更无忧的健康生活，现在就点击屏幕下方的链接，拥有你的专属AI健康管家！即刻体验，开启健康新篇章！",
+      "duration": 6.416666666666667
+    },
+    {
+      "shot_id": 12,
+      "status": "approved",
+      "versions": [
+        {
+          "version_id": 1,
+          "image_url": "/videos/video_20260209_124958/keyframes/keyframe_012_v1.jpg",
+          "prompt": "A final, elegant transition shot. The AI smartwatch logo or a stylized animation of the watch itself gracefully fades into a soft, ethereal light, leaving behind a brief, impactful brand tagline or a simple 'Thank You' message. The background is a clean, inspiring gradient, symbolizing completion and a bright future. The overall mood is sophisticated and memorable, leaving a lasting positive impression., high quality, professional lighting, cinematic composition, 4K, detailed",
+          "model": "flux-pro",
+          "quality_score": null,
+          "is_selected": true,
+          "cost": 0.12,
+          "created_at": "2026-02-09T15:32:06.594707"
+        }
+      ],
+      "selected_version_id": 1,
+      "visual_description": "A final, elegant transition shot. The AI smartwatch logo or a stylized animation of the watch itself gracefully fades into a soft, ethereal light, leaving behind a brief, impactful brand tagline or a simple 'Thank You' message. The background is a clean, inspiring gradient, symbolizing completion and a bright future. The overall mood is sophisticated and memorable, leaving a lasting positive impression.",
+      "narration": "别再犹豫了，让科技守护你的健康！我们期待与你共同开启智能健康新生活！",
+      "duration": 3.6666666666666665
+    }
+  ],
+  "created_at": "2026-02-09T12:50:18.034257",
+  "updated_at": "2026-02-09T18:08:26.544549",
+  "videos_ready": 12,
+  "custom_shot_order": [
+    2,
+    6,
+    4,
+    1,
+    3,
+    5,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ]
+}
